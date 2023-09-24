@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:metallurgic_infusing",
+    "itemInput":{"amount":3,"ingredient":{"item":"kubejs:ci2"}},
+    "infusionInput":{"amount":500,"tag":"mekanism:fungi"},
+    "output":{"item":"kubejs:ci3"}
+}

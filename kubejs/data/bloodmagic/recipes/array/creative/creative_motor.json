@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "mysticalagradditions:creative_essence"
+  },
+  "addedinput": {
+    "item": "createaddition:electric_motor"
+  },
+  "output": {
+    "item": "create:creative_motor"
+  }
+}

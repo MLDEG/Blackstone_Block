@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createaddition:overcharged_alloy"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:overcharged_plate"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_nidavellir"
+  },
+  "mana": 16000,
+  "ingredients": [
+    {
+      "item": "industrialforegoing:pink_slime_ingot"
+    },
+    {
+      "item": "kubejs:slate_ethereal"
+    },
+    {
+      "tag": "botania:runes/earth"
+    },
+    {
+      "tag": "botania:runes/winter"
+    },
+    {
+      "tag": "botania:runes/sloth"
+    },
+    {
+      "item": "minecraft:iron_block"
+    },
+    {
+      "item": "thermal:cured_rubber_block"
+    }
+  ]
+}

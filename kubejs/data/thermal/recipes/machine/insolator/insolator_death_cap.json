@@ -1,0 +1,18 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "byg:death_cap"
+  },
+  "result": [
+    {
+      "item": "byg:death_cap",
+      "chance": 1.1
+    },
+    {
+      "item": "byg:death_cap_mushroom_block",
+      "chance": 2.0
+    }
+  ],
+  "energy_mod": 0.5,
+  "water_mod": 1.5
+}

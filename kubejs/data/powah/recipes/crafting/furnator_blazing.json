@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+	  "iii",
+	  "cdc",
+	  "fbf"
+	],
+	"key": {
+	  "c": {
+		"item": "powah:capacitor_blazing"
+	  },
+	  "i": {
+		"item": "powah:crystal_blazing"
+	  },
+	  "f": {
+		"item": "powah:furnator_hardened"
+	  },
+	  "d": {
+		"item": "powah:dielectric_casing"
+	  },
+	  "b": {
+		"item": "powah:blazing_crystal_block"
+	  }
+	},
+	"result": {
+	  "item": "powah:furnator_blazing"
+	}
+  }

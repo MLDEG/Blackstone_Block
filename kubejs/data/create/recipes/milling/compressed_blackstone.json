@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "kubejs:compressed_blackstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:compressed_black_gravel"
+    }
+  ],
+  "processingTime": 150
+}

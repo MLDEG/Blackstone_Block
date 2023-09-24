@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "exnihilosequentia:crushed_end_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "betterendforge:endstone_dust"
+    }
+  ],
+  "processingTime": 150
+}

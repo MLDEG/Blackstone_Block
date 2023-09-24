@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+    	"sgs",
+        "sbs",
+        "sgs"
+    ],
+    "key":{
+        "s":{"item":"create:chromatic_compound"},
+        "b":{"tag":"forge:barrels/iron"},
+        "g":{"tag":"forge:glass"}
+    },
+    "result":{"item":"metalbarrels:silver_barrel"}
+}

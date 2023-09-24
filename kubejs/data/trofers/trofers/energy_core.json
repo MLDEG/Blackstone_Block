@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#380606",
+    "text": "Energy Core Trophy"
+  },
+  "animation":{
+      "type": "tumbling",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "item": {
+    "item": "kubejs:creative_energy_core"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#380606"
+  }
+}

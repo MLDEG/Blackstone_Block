@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "excompressum:compressed_gravel"
+    }
+  ],
+  "results": [
+    {
+      "item": "excompressum:compressed_sand"
+    }
+  ],
+  "processingTime": 150
+}

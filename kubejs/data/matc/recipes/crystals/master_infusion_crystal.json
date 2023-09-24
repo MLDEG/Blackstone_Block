@@ -1,0 +1,21 @@
+{
+  "type": "extendedcrafting:combination",
+  "powerCost": 1000000000,
+  "powerRate": 1000000,
+  "input": { "item": "matc:supremium_crystal" },
+  "ingredients": [
+    { "item": "draconicevolution:chaos_shard" },
+    { "item": "mysticalagradditions:insanium_gemstone" },
+    { "item": "draconicevolution:chaos_shard" },
+    { "item": "mythicbotany:helheim_rune" },
+    { "item": "mysticalagradditions:insanium_gemstone" },
+    { "item": "mythicbotany:joetunheim_rune" },
+    { "item": "draconicevolution:chaos_shard" },
+    { "item": "mysticalagradditions:insanium_gemstone" },
+    { "item": "draconicevolution:chaos_shard" },
+    { "item": "mythicbotany:muspelheim_rune" },
+    { "item": "mysticalagradditions:insanium_gemstone" },
+    { "item": "mythicbotany:nidavellir_rune" }
+  ],
+  "result": { "item": "mysticalagriculture:master_infusion_crystal", "count": 1 }
+}

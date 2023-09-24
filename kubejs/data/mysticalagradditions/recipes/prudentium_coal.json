@@ -1,0 +1,21 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "mysticalagradditions:inferium_coal"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    }
+  ],
+  "output": {
+    "item": "mysticalagradditions:prudentium_coal",
+    "count": 1
+  },
+  "syphon": 2000,
+  "ticks": 40,
+  "upgradeLevel": 2
+}

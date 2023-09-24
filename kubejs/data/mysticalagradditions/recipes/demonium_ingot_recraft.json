@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "kubejs:demonium_nugget"
+    }
+  },
+  "result": {
+    "item": "kubejs:demonium_ingot"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "BRB",
+    "III"
+  ],
+  "key": {
+    "B": {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    "I": {
+      "item": "thermal:signalum_plate"
+    },
+    "R": {
+      "item": "appliedenergistics2:red_smart_cable"
+    }
+  },
+  "result": {
+    "item": "pipez:energy_pipe",
+    "count": 16
+  }
+}

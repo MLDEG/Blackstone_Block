@@ -1,0 +1,13 @@
+{
+  "name": "Rosenquartz",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_rosenquartz",
+    "essence": "mysticalagriculture:item/essence_rosenquartz",
+    "seeds": "mysticalagriculture:item/rosenquartz_seeds"
+  }
+}

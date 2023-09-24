@@ -1,0 +1,10 @@
+{
+  "name": "Polished Rose Quartz",
+  "colors": [
+    "fcbba1",
+    "ac3d4d"
+  ],
+  "ingredient": {
+    "item": "create:polished_rose_quartz"
+  }
+}

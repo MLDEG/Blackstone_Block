@@ -1,0 +1,58 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "mysticalagriculture:fertilized_essence"
+  },
+  "transitionalItem": {
+    "item": "mysticalagriculture:fertilized_essence"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "mysticalagriculture:fertilized_essence"},
+        {"item": "extendedcrafting:luminessence"}
+      ],
+      "results": [{"item": "mysticalagriculture:fertilized_essence"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "mysticalagriculture:fertilized_essence"},
+        {"item": "kubejs:eternal_singularity"}
+      ],
+      "results": [{"item": "mysticalagriculture:fertilized_essence"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "mysticalagriculture:fertilized_essence"},
+        {"item": "extendedcrafting:the_ultimate_component"}
+      ],
+      "results": [{"item": "mysticalagriculture:fertilized_essence"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "mysticalagriculture:fertilized_essence"},
+        {"item": "kubejs:antimatter_silicon"}
+      ],
+      "results": [{"item": "mysticalagriculture:fertilized_essence"}]
+    },
+    {
+        "type": "create:filling",
+        "ingredients": [
+            {"item": "industrialforegoing:machine_frame_simple"},
+            {"fluid": "kubejs:molten_insanium","nbt": {},"amount": 288}
+        ],
+        "results": [{"item": "industrialforegoing:machine_frame_simple"}]  
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagradditions:creative_essence",
+      "count": 1
+    }
+  ],
+  "loops": 1
+}

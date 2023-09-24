@@ -1,0 +1,13 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {"item": "envirocore:xerothium_crystal"},
+      {"item": "kubejs:insanium_paper"}
+    ],
+    "results": [
+      {
+        "item": "minecraft:nether_star",
+        "count": 1
+      }],
+      "keepHeldItem": true
+  }

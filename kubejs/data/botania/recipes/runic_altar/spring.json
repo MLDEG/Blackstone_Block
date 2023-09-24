@@ -1,0 +1,27 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_spring"
+  },
+  "mana": 8000,
+  "ingredients": [
+    {
+      "tag": "botania:runes/water"
+    },
+    {
+      "tag": "botania:runes/fire"
+    },
+    {
+      "tag": "forge:sapling"
+    },
+    {
+      "tag": "minecraft:small_flowers"
+    },
+    {
+      "item": "minecraft:grass"
+    },
+    {
+      "item": "pamhc2foodcore:applesmoothieitem"
+    }
+  ]
+}

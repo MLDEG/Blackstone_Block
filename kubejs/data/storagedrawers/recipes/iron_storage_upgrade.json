@@ -1,0 +1,12 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {"item": "storagedrawers:obsidian_storage_upgrade"},
+      { "item": "create:brass_ingot" }
+    ],
+    "results": [
+      {
+        "item": "storagedrawers:iron_storage_upgrade",
+        "count": 1
+      }]
+  }

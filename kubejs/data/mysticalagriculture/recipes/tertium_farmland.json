@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+          "item": "minecraft:farmland"
+      },
+      {
+          "item": "mysticalagriculture:tertium_essence"
+      }
+  ],
+  "result": {
+      "count": 1,
+      "item": "mysticalagriculture:tertium_farmland"
+  }
+}

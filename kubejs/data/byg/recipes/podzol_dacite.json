@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "minecraft:podzol"
+        },
+        {
+          "item": "byg:dacite"
+        }
+    ],
+    "result": {
+      "item": "byg:podzol_dacite"
+    }
+  }

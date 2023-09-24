@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "kubejs:red_alloy_ingot_block"
+  },
+  "result": [
+    {
+      "fluid": "thermal:redstone",
+      "amount": 900
+    }
+  ],
+  "energy": 8000
+}

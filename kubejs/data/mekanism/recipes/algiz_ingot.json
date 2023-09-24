@@ -1,0 +1,6 @@
+{
+    "type":"mekanism:injecting",
+    "itemInput":{"amount":3,"ingredient":{"item":"kubejs:ci3"}},
+    "gasInput":{"amount":1,"gas":"mekanism:superheated_sodium"},
+    "output":{"item":"kubejs:ci4"}
+}

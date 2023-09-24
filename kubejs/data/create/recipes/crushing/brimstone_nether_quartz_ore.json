@@ -1,0 +1,24 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "byg:brimstone_nether_quartz_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:quartz",
+      "count": 2
+    },
+    {
+      "item": "minecraft:quartz",
+      "count": 4,
+      "chance": 0.5
+    },
+    {
+      "item": "byg:brimstone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 350
+}

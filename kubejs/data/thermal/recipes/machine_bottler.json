@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "  A  ",
+    " BCB ",
+    "PDEDP",
+    " FGF ",
+    "  H  "
+  ],
+  "key": {
+    "A": {"item": "botania:corporea_index" },
+    "B": {"tag": "forge:gears/bronze" },
+    "C": {"item": "bloodmagic:tauoil" },
+    "D": {"item": "botania:light_relay" },
+    "E": {"item": "thermal:machine_frame" },
+    "F": {"item": "thermal:obsidian_glass" },
+    "G": {"item": "botania:open_bucket" },
+    "H": {"item": "thermal:rf_coil" },
+    "P": {"item": "simplyjetpacks:armorplating_te4"}
+  },
+  "result": {"item": "thermal:machine_bottler"}
+}

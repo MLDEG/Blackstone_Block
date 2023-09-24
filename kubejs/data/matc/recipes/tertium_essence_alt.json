@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#C#",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    "C": {
+      "item": "matc:prudentium_crystal"
+    },
+    "X": {
+      "item": "kubejs:ci2"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:tertium_essence"
+  }
+}

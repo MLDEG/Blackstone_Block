@@ -1,0 +1,15 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "///",
+        "/X/",
+        "///"
+    ],
+    "key": {
+        "/": { "tag": "forge:rods/wooden" },
+        "X": { "tag": "framedcompactingdrawers:darwers" }
+    },
+    "result": {
+      "item": "storagedrawers:upgrade_template"
+    }
+  }

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "mysticalagriculture:prosperity_shard"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:prosperity_dust",
+      "count": 2
+    }
+  ],
+  "processingTime": 20
+}

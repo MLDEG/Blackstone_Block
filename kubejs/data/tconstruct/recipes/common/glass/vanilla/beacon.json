@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GGG",
+    "GSG",
+    "OAO"
+  ],
+  "key": {
+    "S": {
+      "item": "extendedcrafting:nether_star_block"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "minecraft:respawn_anchor"
+    }
+  },
+  "result": {
+    "item": "minecraft:beacon"
+  }
+}

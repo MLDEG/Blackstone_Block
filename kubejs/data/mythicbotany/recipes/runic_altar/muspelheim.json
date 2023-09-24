@@ -1,0 +1,30 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_muspelheim"
+  },
+  "mana": 16000,
+  "ingredients": [
+    {
+      "item": "industrialforegoing:pink_slime_ingot"
+    },
+    {
+      "item": "kubejs:slate_ethereal"
+    },
+    {
+      "tag": "botania:runes/fire"
+    },
+    {
+      "tag": "botania:runes/summer"
+    },
+    {
+      "tag": "botania:runes/wrath"
+    },
+    {
+      "item": "minecraft:magma_block"
+    },
+    {
+      "item": "thermal:rosin_block"
+    }
+  ]
+}

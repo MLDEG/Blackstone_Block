@@ -1,0 +1,10 @@
+{
+  "name": "Factory",
+  "colors": [
+    "d7d046",
+    "242218"
+  ],
+  "ingredient": {
+    "item": "chisel:factory/hazard"
+  }
+}

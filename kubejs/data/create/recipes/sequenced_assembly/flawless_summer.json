@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:livingrock_summer"
+  },
+  "transitionalItem": {
+    "item": "kubejs:livingrock_summer_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [{"item": "kubejs:livingrock_summer"}],
+      "results": [{"item": "kubejs:livingrock_summer_slab"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:livingrock_summer_slab"},
+        {"item": "kubejs:rune_mold_alt"}
+      ],
+      "results": [
+        {"item": "botania:rune_summer"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:rune_summer",
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

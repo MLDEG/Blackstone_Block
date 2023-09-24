@@ -1,0 +1,19 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 10000000,
+    "powerRate": 1000000,
+    "input": { "item": "botania:open_bucket" },
+    "ingredients": [
+        {"item": "materialis:molten_fairy_bucket"},
+        {"item": "tdelight:molten_hamletite_bucket"},
+        {"item": "tconstruct:molten_hepatizon_bucket"},
+        {"item": "tconstruct:molten_cobalt_bucket"},
+        {"item": "tconstruct:molten_netherite_bucket"},
+        {"item": "tconstruct:molten_debris_bucket"},
+        {"item": "tconstruct:molten_diamond_bucket"},
+        {"item": "tconstruct:molten_emerald_bucket"},
+        {"item": "tconstruct:blazing_blood_bucket"},
+        {"item": "materialis:molten_refined_radiance_bucket"}
+    ],
+    "result": {"item": "kubejs:1alloy_bucket","count": 1 }
+  }

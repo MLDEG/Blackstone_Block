@@ -1,0 +1,21 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "mysticalagradditions:tertium_coal"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    },
+    {
+      "item": "mysticalagriculture:imperium_essence"
+    }
+  ],
+  "output": {
+    "item": "mysticalagradditions:imperium_coal",
+    "count": 1
+  },
+  "syphon": 4000,
+  "ticks": 40,
+  "upgradeLevel": 3
+}

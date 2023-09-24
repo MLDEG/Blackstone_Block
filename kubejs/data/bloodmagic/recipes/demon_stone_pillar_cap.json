@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "bloodmagic:dungeon_pillar_special"
+        }
+    ],
+    "result": {
+      "item": "bloodmagic:dungeon_pillar_cap"
+    }
+  }

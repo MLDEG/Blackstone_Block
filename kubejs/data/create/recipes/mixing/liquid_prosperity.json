@@ -1,0 +1,22 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "kubejs:prosperity_dust"
+    },
+    {
+      "item": "kubejs:prosperity_dust"
+    },
+    {
+      "fluid": "bloodmagic:life_essence_fluid",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:liquid_prosperity",
+      "amount": 1000
+    }
+  ]
+}

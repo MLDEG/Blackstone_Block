@@ -1,0 +1,24 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+        "tag": "forge:plates/iron"
+        },
+        {
+        "tag": "forge:plates/iron"
+        },
+        {
+        "tag": "forge:plates/iron"
+        },
+        {
+        "tag": "forge:plates/iron"
+        }
+    ],
+    "results": [
+        {
+        "item": "immersiveengineering:sheetmetal_iron",
+        "count": 4
+        }
+    ],
+    "heatRequirement": "heated"
+}

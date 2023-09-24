@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "excompressum:compressed_netherrack"
+    }
+  ],
+  "results": [
+    {
+      "item": "excompressum:compressed_nether_gravel"
+    }
+  ],
+  "processingTime": 150
+}

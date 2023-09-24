@@ -1,0 +1,22 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "kubejs:cobble_dough"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:base_cobble_cake"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "name": "kubejs:molten_black_iron",
+    "amount": 1296
+  },
+  "result": {
+    "item": "extendedcrafting:black_iron_block"
+  },
+  "cooling_time": 194
+}

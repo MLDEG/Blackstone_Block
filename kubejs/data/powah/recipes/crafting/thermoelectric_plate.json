@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"brb",
+	"rtr",
+	"brb"
+  ],
+  "key": {
+	"b": {
+	  "item": "immersiveengineering:thermoelectric_generator"
+	},
+	"r": {
+	  "item": "extendedcrafting:redstone_ingot"
+	},
+	"t": {
+	  "item": "powah:capacitor_basic_large"
+	}
+  },
+  "result": {
+	"item": "powah:thermoelectric_plate"
+  }
+}

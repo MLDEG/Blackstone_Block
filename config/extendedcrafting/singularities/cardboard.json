@@ -1,0 +1,10 @@
+{
+  "name": "Cardboard",
+  "colors": [
+    "c7ae7e",
+    "b79269"
+  ],
+  "ingredient": {
+    "item": "dustrial_decor:cardboard"
+  }
+}

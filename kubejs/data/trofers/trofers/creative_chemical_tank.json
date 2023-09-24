@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#6f6f6f",
+    "text": "Creative Chemical Tank Trophy"
+  },
+  "animation":{
+      "type": "tumbling",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "item": {
+    "item": "mekanism:creative_chemical_tank"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#6f6f6f"
+  }
+}

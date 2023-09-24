@@ -1,0 +1,21 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:true"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:blasting",
+        "ingredient": {
+          "tag": "forge:ores/tantalum"
+        },
+        "result": "tinkersarchery:tantalum_ingot",
+        "experience": 1.0,
+        "cookingtime": 100
+      }
+    }
+  ]
+}

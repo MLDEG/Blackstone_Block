@@ -1,0 +1,97 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "industrialforegoing:machine_frame_supreme"
+  },
+  "transitionalItem": {
+    "item": "industrialforegoing:machine_frame_supreme"
+  },
+  "sequence": [
+    {
+        "type": "create:filling",
+        "ingredients": [
+          {
+            "item": "industrialforegoing:machine_frame_supreme"
+          },
+          {
+            "fluid": "tconstruct:molten_steel",
+            "nbt": {},
+            "amount": 288
+          }
+        ],
+        "results": [
+          {
+            "item": "industrialforegoing:machine_frame_supreme"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "industrialforegoing:machine_frame_supreme"
+          },
+          {
+            "item": "createaddition:overcharged_alloy"
+          }
+        ],
+        "results": [
+          {
+            "item": "industrialforegoing:machine_frame_supreme"
+          }
+        ]
+      },
+      {
+          "type": "create:filling",
+          "ingredients": [
+            {
+              "item": "industrialforegoing:machine_frame_supreme"
+            },
+            {
+              "fluid": "tconstruct:molten_iron",
+              "nbt": {},
+              "amount": 288
+            }
+          ],
+          "results": [
+            {
+              "item": "industrialforegoing:machine_frame_supreme"
+            }
+          ]
+        },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {"item": "industrialforegoing:machine_frame_supreme"}
+        ],
+        "results": [
+          {"item": "industrialforegoing:machine_frame_supreme"}
+        ]
+      },
+      {
+          "type": "create:filling",
+          "ingredients": [
+            {
+              "item": "industrialforegoing:machine_frame_supreme"
+            },
+            {
+              "fluid": "envirocore:distilled_water",
+              "nbt": {},
+              "amount": 250
+            }
+          ],
+          "results": [
+            {
+              "item": "industrialforegoing:machine_frame_supreme"
+            }
+          ]
+        }
+  ],
+  "results": [
+    {
+      "item": "thermal:machine_frame",
+      "count": 1
+    }
+  ],
+  "loops": 1
+}

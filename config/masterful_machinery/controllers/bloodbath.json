@@ -1,0 +1,24 @@
+{
+    "controllerId": "bloodbath",
+    "name": "Blood Bath",
+    "textureOverride": "bloodmagic:block/dungeon/dungeon_polished",
+    "ports": [
+        {
+            "type": "masterfulmachinery:items",
+            "name": "Items",
+            "id": "items",
+            "data": {
+                "rows": 2,
+                "columns": 2
+            }
+        },
+        {
+            "type": "masterfulmachinery:fluids",
+            "name": "Fluid",
+            "id": "fluid",
+            "data": {
+                "capacity": 10000
+            }
+        }
+    ]
+}

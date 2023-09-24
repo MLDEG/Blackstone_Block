@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "tag": "forge:dusts/electrotine"
+    },
+    {
+      "tag": "forge:dusts/electrotine"
+    },
+    {
+      "tag": "forge:dusts/electrotine"
+    },
+    {
+      "tag": "forge:dusts/electrotine"
+    }
+  ],
+  "results": [
+    {
+      "item": "projectred-core:electrotine_iron_comp"
+    }
+  ]
+}

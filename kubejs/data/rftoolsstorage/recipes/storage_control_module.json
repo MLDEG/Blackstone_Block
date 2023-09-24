@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "rftoolscontrol:advanced_network_card"
+    },
+    "B": {
+      "item": "craftingstation:crafting_station_slab"
+    },
+    "C": {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    "D": {
+      "item": "kubejs:integrated_circuit"
+    }
+  },
+  "result": {
+    "item": "rftoolsstorage:storage_control_module"
+  }
+}

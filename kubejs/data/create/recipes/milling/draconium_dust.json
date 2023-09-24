@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "draconicevolution:draconium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "draconicevolution:draconium_dust"
+    }
+  ],
+  "processingTime": 100
+}

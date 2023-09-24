@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "botania:mana_string"
+    },
+    "B": {
+      "item": "botania:mana_pearl"
+    },
+    "C": {"type": "forge:nbt", "item": "materialis:wrench_head", "count": 1, "nbt": "{Material:\"materialis:manasteel\"}" },
+    "D": {
+      "item": "immersiveengineering:craftingtable"
+    }
+  },
+  "result": {
+    "item": "botania:crafting_halo"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Certus Quartz",
+  "colors": [
+    "b8d8fc",
+    "7ca0c2"
+  ],
+  "ingredient": {
+    "item": "appliedenergistics2:certus_quartz_crystal"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"ulu",
+	"lcl",
+	"ulu"
+  ],
+  "key": {
+	"u": {
+	  "item": "powah:uraninite_block"
+	},
+	"l": {
+	  "item": "powah:capacitor_basic"
+	},
+	"c": {"type": "forge:nbt", "item": "mekanismgenerators:hohlraum", "count": 1, "nbt": "{mekData:{GasTanks:[{Tank:0b,stored:{gasName:\"mekanismgenerators:fusion_fuel\",amount:10L}}]}}" }
+  },
+  "result": {
+	"item": "powah:reactor_starter",
+	"count": 1
+  }
+}

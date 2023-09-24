@@ -1,0 +1,9 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "minecraft:chiseled_polished_blackstone"},
+    {"item": "kubejs:black_processor_press"}
+  ],
+  "results": [{"item": "kubejs:printed_black_processor"}],
+  "keepHeldItem": true
+}

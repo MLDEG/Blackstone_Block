@@ -1,0 +1,20 @@
+{
+	"x": -100,
+	"y": 120,
+	"width": 200,
+	"height": 26,
+	"langKey": "menu.quit",
+	"action": "QUIT",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 26,
+	"texWidth": 200,
+	"texHeight": 52,
+	"texture": "blackstoneblock:textures/buttonquit.png",
+	"fontColor": 16777215,
+	"hoverFontColor": 16729154,
+	"dropShadow": true,
+	"textXOffset": 0,
+	"textYOffset": -4
+}

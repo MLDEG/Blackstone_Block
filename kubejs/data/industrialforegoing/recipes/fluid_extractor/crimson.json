@@ -1,0 +1,10 @@
+{
+  "input": {
+    "item": "minecraft:crimson_stem"
+  },
+  "result": "minecraft:air",
+  "breakChance": 0.005,
+  "output": "{FluidName:\"minecraft:lava\",Amount:1}",
+  "defaultRecipe": false,
+  "type": "industrialforegoing:fluid_extractor"
+}

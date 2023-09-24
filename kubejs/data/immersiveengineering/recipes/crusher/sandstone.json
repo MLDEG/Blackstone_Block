@@ -1,0 +1,1 @@
+{"type":"immersiveengineering:crusher","secondaries":[{"chance":0.5,"output":{"item":"thermal:niter_dust"}}],"result":{"item":"minecraft:sand","count":2},"input":{"tag":"forge:sandstone/colorless"},"energy":3200}

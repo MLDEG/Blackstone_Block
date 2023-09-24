@@ -1,0 +1,10 @@
+{
+  "name": "Sulfur",
+  "colors": [
+    "eef071",
+    "c7a94a"
+  ],
+  "ingredient": {
+    "item": "thermal:sulfur"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "result": {
+    "item": "draconicevolution:chaotic_core"
+  },
+  "catalyst": {
+    "item": "envirocore:xerothium_crystal"
+  },
+  "total_energy": 100000000,
+  "tier": "DRACONIC",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/draconium_awakened"
+    },
+    {
+      "tag": "forge:ingots/draconium_awakened"
+    },
+    {
+      "item": "draconicevolution:awakened_core"
+    },
+    {
+      "item": "draconicevolution:awakened_core"
+    },
+    {
+      "item": "draconicevolution:large_chaos_frag"
+    },
+    {
+      "item": "draconicevolution:large_chaos_frag"
+    },
+    {
+      "tag": "forge:ingots/draconium_awakened"
+    },
+    {
+      "tag": "forge:ingots/draconium_awakened"
+    },
+    {
+      "item": "draconicevolution:awakened_core"
+    },
+    {
+      "item": "draconicevolution:awakened_core"
+    },
+    {
+      "item": "draconicevolution:large_chaos_frag"
+    },
+    {
+      "item": "draconicevolution:large_chaos_frag"
+    }
+  ]
+}

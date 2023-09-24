@@ -1,0 +1,10 @@
+{
+  "name": "Livingrock",
+  "colors": [
+    "b9b8a7",
+    "a1897d"
+  ],
+  "ingredient": {
+    "item": "botania:livingrock"
+  }
+}

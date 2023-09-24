@@ -1,0 +1,27 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "mysticalagriculture:imperium_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    }
+  ],
+  "output": {
+    "item": "mysticalagriculture:supremium_gemstone",
+    "count": 1
+  },
+  "syphon": 5000,
+  "ticks": 40,
+  "upgradeLevel": 4
+}

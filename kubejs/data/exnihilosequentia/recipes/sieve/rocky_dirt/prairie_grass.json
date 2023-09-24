@@ -1,0 +1,17 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {"chance": 0.1,"mesh": "string"},
+    {"chance": 0.1,"mesh": "flint"},
+    {"chance": 0.1,"mesh": "iron"},
+    {"chance": 0.5,"mesh": "diamond"},
+    {"chance": 0.5,"mesh": "emerald"},
+    {"chance": 1.0,"mesh": "netherite"}
+  ],
+  "input": {
+    "item": "decorative_blocks:rocky_dirt"
+  },
+  "result": {
+    "item": "byg:prairie_grass"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "S S",
+    "GPG",
+    " H "
+  ],
+  "key": {
+    "S": {"type": "forge:nbt", "item": "tconstruct:tool_binding", "count": 1, "nbt": "{Material:\"tconstruct:string\"}" },
+    "H": {
+      "tag": "forge:heart"
+    },
+    "G": {
+      "tag": "forge:plates/gold"
+    },
+    "P": {
+      "item": "botania:blood_pendant"
+    }
+  },
+  "result": {
+    "item": "bhc:heart_amulet"
+  }
+}

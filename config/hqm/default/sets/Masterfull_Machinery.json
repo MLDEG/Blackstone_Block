@@ -1,0 +1,311 @@
+{
+  "name": "Masterfull Machinery",
+  "quests": [
+    {
+      "uuid": "63be7e9c-b5f2-4fd3-8766-48785bfedde1",
+      "name": "Barrel",
+      "description": "Barrel Multi block",
+      "x": 27,
+      "y": 19,
+      "bigicon": true,
+      "icon": {
+        "id": "masterfulmachinery:barrel_controller",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Collect all the blocks of this quest to be able to build the multi block.",
+          "items": [
+            {
+              "item": {
+                "id": "immersiveengineering:treated_wood_vertical",
+                "Count": 1
+              },
+              "required": 17
+            },
+            {
+              "item": {
+                "id": "immersiveengineering:wooden_barrel",
+                "Count": 1
+              },
+              "required": 4
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:barrel_controller",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:barrel_fluid_port_fluids_input",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:barrel_items_port_items_input",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:barrel_items_port_items_output",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b1506a5c-ede5-4699-a967-f0d4454c8e16"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "metalbarrels:netherite_barrel",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "64c1a12c-6ba1-4dbe-9ae4-678f506ca7bc",
+      "name": "Blood Bath",
+      "description": "Blood Bath Multi block",
+      "x": 61,
+      "y": 19,
+      "bigicon": true,
+      "icon": {
+        "id": "masterfulmachinery:bloodbath_controller",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Collect all the blocks of this quest to be able to build the multi block.",
+          "items": [
+            {
+              "item": {
+                "id": "masterfulmachinery:bloodbath_controller",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:bloodbath_fluid_port_fluids_input",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:bloodbath_items_port_items_input",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:bloodbath_items_port_items_output",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "bloodmagic:dungeon_alternator",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "bloodmagic:dungeon_emitter",
+                "Count": 1
+              },
+              "required": 4
+            },
+            {
+              "item": {
+                "id": "bloodmagic:dungeon_pillar_special",
+                "Count": 1
+              },
+              "required": 8
+            },
+            {
+              "item": {
+                "id": "bloodmagic:dungeon_pillar_cap",
+                "Count": 1
+              },
+              "required": 8
+            },
+            {
+              "item": {
+                "id": "bloodmagic:dungeon_brick_assorted",
+                "Count": 1
+              },
+              "required": 12
+            },
+            {
+              "item": {
+                "id": "tconstruct:blood_congealed_slime",
+                "Count": 1
+              },
+              "required": 42
+            },
+            {
+              "item": {
+                "id": "bloodmagic:dungeon_polished",
+                "Count": 1
+              },
+              "required": 48
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9d5ba1be-84ac-4eab-9b21-6cfafb018a23"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "bloodmagic:weakbloodshard",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cfbdfbb4-8ece-4a48-b44d-f68c3e36c296",
+      "name": "Explosivo",
+      "description": "Explosivo Multi block",
+      "x": 95,
+      "y": 19,
+      "bigicon": true,
+      "icon": {
+        "id": "masterfulmachinery:explosivo_controller",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Collect all the blocks of this quest to be able to build the multi block.",
+          "items": [
+            {
+              "item": {
+                "id": "masterfulmachinery:explosivo_controller",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:explosivo_kinetic_port_create_rotation_input",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:explosivo_items_port_items_output",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:explosivo_gas_port_mekanism_gas_input",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:explosivo_fluid_port_fluids_input",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:explosivo_energy_port_energy_input",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "masterfulmachinery:explosivo_items_port_items_input",
+                "Count": 1
+              },
+              "required": 3
+            },
+            {
+              "item": {
+                "id": "kubejs:machinarium_block",
+                "Count": 1
+              },
+              "required": 3
+            },
+            {
+              "item": {
+                "id": "architects_palette:sunmetal_block",
+                "Count": 1
+              },
+              "required": 12
+            },
+            {
+              "item": {
+                "id": "architects_palette:sunmetal_slab",
+                "Count": 1
+              },
+              "required": 20
+            },
+            {
+              "item": {
+                "id": "architects_palette:chiseled_sunmetal_block",
+                "Count": 1
+              },
+              "required": 28
+            },
+            {
+              "item": {
+                "id": "architects_palette:sunmetal_bars",
+                "Count": 1
+              },
+              "required": 88
+            },
+            {
+              "item": {
+                "id": "architects_palette:sunmetal_pillar",
+                "Count": 1
+              },
+              "required": 114
+            },
+            {
+              "item": {
+                "id": "draconicevolution:infused_obsidian",
+                "Count": 1
+              },
+              "required": 125
+            },
+            {
+              "item": {
+                "id": "projectred-illumination:orange_inverted_illumar_lamp",
+                "Count": 1
+              },
+              "required": 131
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "d2a50fac-9d3a-484f-ba95-d8e1132f714a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "draconicevolution:dragon_heart",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": []
+}

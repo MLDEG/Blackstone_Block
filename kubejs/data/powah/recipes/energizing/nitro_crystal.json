@@ -1,0 +1,13 @@
+{
+  "type": "powah:energizing",
+  "ingredients": [
+	{"tag": "forge:nether_stars"},
+	{"item": "extendedcrafting:redstone_ingot_block"},
+	{"tag": "mekanism:crystals"}
+  ],
+  "energy": 20000000,
+  "result": {
+	"item": "powah:crystal_nitro",
+	"count": 8
+  }
+}

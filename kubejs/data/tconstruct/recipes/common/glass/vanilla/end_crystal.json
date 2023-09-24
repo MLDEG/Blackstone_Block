@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "prop": "glass_recipe_fix",
+      "type": "tconstruct:config"
+    }
+  ],
+  "pattern": [
+    "GGG",
+    "GEG",
+    "GTG"
+  ],
+  "key": {
+    "T": {
+      "item": "draconicevolution:dislocator"
+    },
+    "E": {
+      "item": "minecraft:nether_star"
+    },
+    "G": {
+      "tag": "forge:glass/colorless"
+    }
+  },
+  "result": {
+    "item": "minecraft:end_crystal"
+  }
+}

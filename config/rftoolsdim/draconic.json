@@ -1,0 +1,42 @@
+[
+  {
+    "type": "block",
+    "key": "draconicevolution:draconium_block",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 200,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "draconicevolution:overworld_draconium_ore",
+    "rarity": "common",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "draconicevolution:nether_draconium_ore",
+    "rarity": "common",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "draconicevolution:end_draconium_ore",
+    "rarity": "common",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

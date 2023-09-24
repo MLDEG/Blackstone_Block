@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "projectred-core:boule"
+    }
+  ],
+  "results": [
+    {
+      "item": "projectred-core:silicon",
+      "count": 4
+    }
+  ],
+  "processingTime": 60
+}

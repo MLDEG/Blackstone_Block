@@ -1,0 +1,18 @@
+{
+  "type": "extendedcrafting:combination",
+  "powerCost": 10000000,
+  "powerRate": 100000,
+  "input": { "item": "appliedenergistics2:singularity" },
+  "ingredients": [
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:energized_steel\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:factory\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:fairy\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:queens_slime\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:niotic_crystal\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:lapis_lazuli\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:livingrock\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:lumium\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:copper\"}" }
+  ],
+  "result": {"item": "kubejs:singu_alfheim","count": 1 }
+}

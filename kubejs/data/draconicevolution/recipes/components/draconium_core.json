@@ -1,0 +1,47 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {"item": "mekanismadditions:blue_plastic"},
+    "transitionalItem": {"item": "kubejs:incomplete_draconium_core"},
+    "sequence": [
+        {
+          "type": "create:pressing",
+          "ingredients": [
+            {"item": "kubejs:incomplete_draconium_core"}
+          ],
+          "results": [
+            {"item": "kubejs:incomplete_draconium_core"}
+          ]
+        },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "kubejs:incomplete_draconium_core"},
+          {"item": "appliedenergistics2:blue_paint_ball"}
+        ],
+        "results": [{"item": "kubejs:incomplete_draconium_core"}]
+      },
+      {
+        "type": "create:filling",
+        "ingredients": [
+        {"item": "kubejs:incomplete_draconium_core"},
+        {
+            "fluid": "materialis:molten_draconium",
+            "nbt": {},
+            "amount": 288
+        }],
+        "results": [{"item": "kubejs:incomplete_draconium_core"}]
+    },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "kubejs:incomplete_draconium_core"},
+          {"item": "envirocore:xerothium_crystal"}
+        ],
+        "results": [{"item": "kubejs:incomplete_draconium_core"}]
+      }
+    ],
+    "results": [
+      {"item": "draconicevolution:draconium_core","count": 1}
+    ],
+    "loops": 1
+  }

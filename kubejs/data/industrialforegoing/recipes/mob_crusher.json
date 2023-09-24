@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:mob_crusher",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ABA",
+          "CDC",
+          "EFE"
+        ],
+        "key": {
+          "A": {
+            "item": "envirocore:redstone_imbued_obsidian_plate"
+          },
+          "B": {
+            "item": "mob_grinding_utils:saw"
+          },
+          "C": {
+            "item": "betterendforge:aeternium_sword"
+          },
+          "D": {
+            "item": "industrialforegoing:machine_frame_advanced"
+          },
+          "E": {
+            "item": "thermal:netherite_gear"
+          },
+          "F": {
+            "item": "mob_grinding_utils:solid_xp_block"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:mob_crusher"
+        }
+      }
+    }
+  ]
+}

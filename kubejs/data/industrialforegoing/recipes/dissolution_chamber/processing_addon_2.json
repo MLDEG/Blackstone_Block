@@ -1,0 +1,36 @@
+{
+  "input": [
+    {
+      "item": "botania:bifrost_pane"
+    },
+    {
+      "item": "industrialforegoing:processing_addon_1"
+    },
+    {
+      "item": "botania:bifrost_pane"
+    },
+    {
+      "item": "minecraft:furnace"
+    },
+    {
+      "item": "minecraft:crafting_table"
+    },
+    {
+      "item": "thermal:diamond_gear"
+    },
+    {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    {
+      "item": "thermal:diamond_gear"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:4000}",
+  "processingTime": 200,
+  "output": {
+    "item": "industrialforegoing:processing_addon_2",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Processing:3.0f}}"
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

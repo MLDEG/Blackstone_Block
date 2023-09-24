@@ -1,0 +1,68 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "storagedrawers:upgrade_template"
+  },
+  "transitionalItem": {
+    "item": "storagedrawers:upgrade_template"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "storagedrawers:upgrade_template"},
+        {"item": "storagedrawers:obsidian_storage_upgrade"}
+      ],
+      "results": [
+        {"item": "storagedrawers:upgrade_template"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "storagedrawers:upgrade_template"},
+        {"item": "storagedrawers:iron_storage_upgrade"}
+      ],
+      "results": [
+        {"item": "storagedrawers:upgrade_template"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "storagedrawers:upgrade_template"},
+        {"item": "storagedrawers:gold_storage_upgrade"}
+      ],
+      "results": [
+        {"item": "storagedrawers:upgrade_template"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "storagedrawers:upgrade_template"},
+        {"item": "storagedrawers:diamond_storage_upgrade"}
+      ],
+      "results": [
+        {"item": "storagedrawers:upgrade_template"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "storagedrawers:upgrade_template"},
+        {"item": "storagedrawers:emerald_storage_upgrade"}
+      ],
+      "results": [
+        {"item": "storagedrawers:upgrade_template"}
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "storagedrawers:creative_storage_upgrade",
+      "count": 1
+    }
+  ],
+  "loops": 10
+}

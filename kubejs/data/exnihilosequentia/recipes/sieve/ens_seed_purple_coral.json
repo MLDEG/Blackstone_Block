@@ -1,0 +1,20 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.05,
+      "mesh": "iron"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "netherite"
+    }
+  ],
+  "input": {
+    "item": "minecraft:sand"
+  },
+  "result": {
+    "item": "exnihilosequentia:seed_purple_coral"
+  },
+  "waterlogged": true
+}

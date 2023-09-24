@@ -1,0 +1,10 @@
+{
+  "name": "Honeycomb",
+  "colors": [
+    "f7db28",
+    "e78c16"
+  ],
+  "ingredient": {
+    "item": "minecraft:honeycomb"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "result": {
+    "item": "kubejs:chaotic_catalyst"
+  },
+  "catalyst": {
+    "item": "minecraft:dragon_egg"
+  },
+  "total_energy": 8000000,
+  "tier": "DRACONIC",
+  "ingredients": [
+    {
+        "item": "draconicevolution:draconic_relay_crystal"
+    },
+    {
+        "item": "draconicevolution:draconic_relay_crystal"
+    },
+    {
+        "item": "draconicevolution:large_chaos_frag"
+    },
+    {
+        "item": "draconicevolution:large_chaos_frag"
+    },
+    {
+        "item": "draconicevolution:large_chaos_frag"
+    },
+    {
+        "item": "draconicevolution:large_chaos_frag"
+    },
+    {
+        "item": "draconicevolution:draconic_relay_crystal"
+    },
+    {
+        "item": "draconicevolution:draconic_relay_crystal"
+    }
+  ]
+}

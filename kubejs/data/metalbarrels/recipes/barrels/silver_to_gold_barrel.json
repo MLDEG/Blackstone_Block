@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+    	"ghg",
+        "hbh",
+        "ghg"
+    ],
+    "key":{
+        "g":{"tag":"forge:ingots/shadow_steel"},
+        "b":{"tag":"forge:barrels/silver"},
+        "h":{"tag":"forge:glass"}
+    },
+    "result":{"item":"metalbarrels:gold_barrel"}
+}

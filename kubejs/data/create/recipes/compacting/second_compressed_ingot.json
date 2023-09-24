@@ -1,0 +1,37 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "mythicbotany:alfsteel_ingot"
+      },
+      {
+        "item": "thermal:constantan_ingot"
+      },
+      {
+        "item": "tconstruct:tinkers_bronze_ingot"
+      },
+      {
+        "item": "thermal:nickel_ingot"
+      },
+      {
+        "item": "create:brass_ingot"
+      },
+      {
+        "item": "thermal:lumium_ingot"
+      },
+      {
+        "item": "minecraft:gold_ingot"
+      },
+      {
+        "item": "mekanism:ingot_refined_glowstone"
+      },
+      {
+        "item": "thermal:electrum_ingot"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:uci2"
+      }
+    ]
+  }

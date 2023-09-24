@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "matc:prudentium_crystal"
+    },
+    {
+      "fluid": "mysticalagradditions:molten_tertium",
+      "amount": 864
+    }
+  ],
+  "results": [
+    {
+      "item": "matc:tertium_crystal"
+    }
+  ]
+}

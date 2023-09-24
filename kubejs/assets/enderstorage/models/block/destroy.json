@@ -1,0 +1,6 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "particle": "create:block/shadow_steel_casing"
+  }
+}

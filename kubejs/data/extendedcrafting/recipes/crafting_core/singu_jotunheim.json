@@ -1,0 +1,18 @@
+{
+  "type": "extendedcrafting:combination",
+  "powerCost": 10000000,
+  "powerRate": 100000,
+  "input": { "item": "appliedenergistics2:singularity" },
+  "ingredients": [
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:chorus_fruit\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:diamond\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:creeper\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:enderium\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:inferium_essence\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:nickel\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:scorched_brick\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:netherite\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:lead\"}" }
+  ],
+  "result": {"item": "kubejs:singu_jotunheim","count": 1 }
+}

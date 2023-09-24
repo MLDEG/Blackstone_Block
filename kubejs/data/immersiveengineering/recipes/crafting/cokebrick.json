@@ -1,0 +1,22 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:sandstone"
+    },
+    {
+      "item": "tconstruct:seared_brick"
+    },
+    {
+      "fluid": "tconstruct:molten_clay",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:cokebrick"
+    }
+  ],
+  "heatRequirement": "heated"
+}

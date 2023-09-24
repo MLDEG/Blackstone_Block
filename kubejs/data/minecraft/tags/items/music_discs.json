@@ -1,0 +1,18 @@
+{
+    "replace": false,
+    "values": [
+        "betterendforge:music_disc_endseeker",
+        "betterendforge:music_disc_eo_dracona",
+        "betterendforge:music_disc_grasping_at_stars",
+        "betterendforge:music_disc_strange_and_alien",
+        "quark:music_disc_chatter",
+        "quark:music_disc_clock",
+        "quark:music_disc_crickets",
+        "quark:music_disc_drips",
+        "quark:music_disc_endermosh",
+        "quark:music_disc_fire",
+        "quark:music_disc_ocean",
+        "quark:music_disc_rain",
+        "quark:music_disc_wind"
+    ]
+}

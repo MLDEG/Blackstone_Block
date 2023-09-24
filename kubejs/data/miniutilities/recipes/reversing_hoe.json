@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mysticalagriculture:inferium_hoe"
+  },
+  "addition": {
+    "item": "miniutilities:unstable_ingot"
+  },
+  "result": {
+    "item": "miniutilities:reversing_hoe"
+  }
+}

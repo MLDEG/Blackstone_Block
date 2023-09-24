@@ -1,0 +1,50 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "botania:natura_pylon"
+  },
+  "transitionalItem": {
+    "item": "botania:natura_pylon"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "botania:natura_pylon"
+        },
+        {
+          "item": "botania:pixie_dust"
+        }
+      ],
+      "results": [
+        {
+          "item": "botania:natura_pylon"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "botania:natura_pylon"
+        },
+        {
+          "item": "kubejs:gaia_device"
+        }
+      ],
+      "results": [
+        {
+          "item": "botania:natura_pylon"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:gaia_pylon",
+      "count": 1
+    }
+  ],
+  "loops": 4
+}

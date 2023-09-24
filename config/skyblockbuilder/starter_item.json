@@ -1,0 +1,10 @@
+{
+  "items": [
+    {"item": "hardcorequesting:quest_book"},
+    {
+      "item": "minecraft:torch",
+      "count": 1,
+      "Slot": "offhand"
+    }
+  ]
+}

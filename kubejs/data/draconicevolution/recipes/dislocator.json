@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:blaze_powder"
+    },
+    "B": {
+      "tag": "forge:dusts/draconium"
+    },
+    "C": {
+      "item": "mob_grinding_utils:solid_xp_baby"
+    }
+  },
+  "result": {
+    "item": "draconicevolution:dislocator"
+  }
+}

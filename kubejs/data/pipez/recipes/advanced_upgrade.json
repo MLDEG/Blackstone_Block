@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DRD",
+    "RUR",
+    "DRD"
+  ],
+  "key": {
+    "R": {
+      "item": "thermal:diamond_gear"
+    },
+    "D": {
+      "tag": "forge:gems/diamond"
+    },
+    "U": {
+      "item": "pipez:improved_upgrade"
+    }
+  },
+  "result": {
+    "item": "pipez:advanced_upgrade",
+    "count": 1
+  }
+}

@@ -1,0 +1,45 @@
+{"type": "compactcrafting:miniaturization","recipeSize": 9,"layers":[
+    {"type": "compactcrafting:mixed", 
+    "pattern": [
+        ["B", "B", "B", "B", "B"], 
+        ["B", "X", "C", "X", "B"], 
+        ["B", "C", "C", "C", "B"], 
+        ["B", "X", "C", "X", "B"], 
+        ["B", "B", "B", "B", "B"]]},
+    {"type": "compactcrafting:mixed",
+    "pattern": [
+        ["B", "X", "C", "X", "B"],
+        ["X", "D", "X", "D", "X"],
+        ["C", "X", "X", "X", "C"],
+        ["X", "D", "X", "D", "X"],
+        ["B", "X", "C", "X", "B"]]},
+    {"type": "compactcrafting:mixed",
+    "pattern": [
+        ["B", "X", "C", "X", "B"],
+        ["X", "D", "X", "D", "X"],
+        ["C", "X", "W", "X", "C"],
+        ["X", "D", "X", "D", "X"],
+        ["B", "X", "C", "X", "B"]]},
+    {"type": "compactcrafting:mixed",
+    "pattern": [
+        ["B", "X", "C", "X", "B"],
+        ["X", "D", "X", "D", "X"],
+        ["C", "X", "A", "X", "C"],
+        ["X", "D", "X", "D", "X"],
+        ["B", "X", "C", "X", "B"]]},
+    {"type": "compactcrafting:mixed",
+    "pattern": [
+        ["A", "A", "A", "A", "A"], 
+        ["A", "A", "A", "A", "A"], 
+        ["A", "A", "A", "A", "A"], 
+        ["A", "A", "A", "A", "A"], 
+        ["A", "A", "A", "A", "A"]]}],
+    "catalyst": {"id": "appliedenergistics2:singularity","Count": 1},
+    "components": {
+        "A": {"type": "compactcrafting:block","block": "envirocore:structure_panel"}, 
+        "B": {"type": "compactcrafting:block","block": "envirocore:ionite"}, 
+        "C": {"type": "compactcrafting:block","block": "botania:mana_diamond_block"}, 
+        "D": {"type": "compactcrafting:block","block": "mekanismadditions:black_reinforced_plastic"},
+        "W": {"type": "compactcrafting:block","block": "envirotech:pladium_void_miner_ccu"}, 
+        "X": {"type": "compactcrafting:block","block": "minecraft:air"}},
+    "outputs": [{"id": "envirotech:ionite_void_miner_ccu","Count": 1}]}

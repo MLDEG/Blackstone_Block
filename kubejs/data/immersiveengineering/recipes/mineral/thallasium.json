@@ -1,0 +1,37 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "ores": [
+        {
+            "chance": 0.05,
+            "output": {
+                "item": "draconicevolution:end_draconium_ore"
+            }
+        },
+        {
+            "chance": 0.70,
+            "output": {
+                "item": "betterendforge:thallasium_ore"
+            }
+        },
+        {
+            "chance": 0.25,
+            "output": {
+                "item": "rftoolsbase:dimensionalshard_end"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 1.0,
+            "output": {
+                "item": "minecraft:end_stone"
+            }
+        }
+    ],
+    "dimensions": [
+        "minecraft:the_end"
+    ],
+    "weight": 1,
+    "fail_chance": 0.15,
+    "sample_background": "minecraft:end_stone"
+}

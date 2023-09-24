@@ -1,0 +1,13 @@
+{
+  "name": "Fairy",
+  "type": "resource",
+  "tier": "mysticalagriculture:4",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_fairy",
+    "essence": "mysticalagriculture:item/essence_fairy",
+    "seeds": "mysticalagriculture:item/fairy_seeds"
+  }
+}

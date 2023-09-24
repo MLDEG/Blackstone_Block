@@ -1,0 +1,12 @@
+execute if block ~1 ~ ~-1 compactmachines:solid_wall positioned ~ 39 ~-1 run function blackstoneblock:rebuild_machine
+execute if block ~1 ~ ~-2 compactmachines:solid_wall positioned ~ 39 ~-2 run function blackstoneblock:rebuild_machine
+execute if block ~1 ~ ~-3 compactmachines:solid_wall positioned ~ 39 ~-3 run function blackstoneblock:rebuild_machine
+execute if block ~1 ~ ~-4 compactmachines:solid_wall positioned ~ 39 ~-4 run function blackstoneblock:rebuild_machine
+execute if block ~1 ~ ~-5 compactmachines:solid_wall positioned ~ 39 ~-5 run function blackstoneblock:rebuild_machine
+execute if block ~1 ~ ~-6 compactmachines:solid_wall positioned ~ 39 ~-6 run function blackstoneblock:rebuild_machine
+execute if block ~1 ~ ~-7 compactmachines:solid_wall positioned ~ 39 ~-7 run function blackstoneblock:rebuild_machine
+execute if block ~1 ~ ~-8 compactmachines:solid_wall positioned ~ 39 ~-8 run function blackstoneblock:rebuild_machine
+execute if block ~1 ~ ~-9 compactmachines:solid_wall positioned ~ 39 ~-9 run function blackstoneblock:rebuild_machine
+execute if block ~1 ~ ~-10 compactmachines:solid_wall positioned ~ 39 ~-10 run function blackstoneblock:rebuild_machine
+execute if block ~1 ~ ~-11 compactmachines:solid_wall positioned ~ 39 ~-11 run function blackstoneblock:rebuild_machine
+execute if block ~1 ~ ~-12 compactmachines:solid_wall positioned ~ 39 ~-12 run function blackstoneblock:rebuild_machine

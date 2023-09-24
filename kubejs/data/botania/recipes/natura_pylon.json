@@ -1,0 +1,50 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "botania:mana_pylon"
+  },
+  "transitionalItem": {
+    "item": "botania:mana_pylon"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "botania:mana_pylon"
+        },
+        {
+          "item": "botania:terrasteel_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "botania:mana_pylon"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "botania:mana_pylon"
+        },
+        {
+          "item": "kubejs:natura_device"
+        }
+      ],
+      "results": [
+        {
+          "item": "botania:mana_pylon"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:natura_pylon",
+      "count": 1
+    }
+  ],
+  "loops": 4
+}

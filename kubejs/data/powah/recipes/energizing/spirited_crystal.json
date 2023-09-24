@@ -1,0 +1,11 @@
+{
+  "type": "powah:energizing",
+  "ingredients": [
+	{"tag": "forge:gems/emerald"},
+	{"tag": "mekanism:crystals"}
+  ],
+  "energy": 1000000,
+  "result": {
+	"item": "powah:crystal_spirited"
+  }
+}

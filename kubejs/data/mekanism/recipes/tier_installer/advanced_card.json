@@ -1,0 +1,19 @@
+{
+    "type": "powah:energizing",
+    "ingredients": [
+      {
+        "item": "appliedenergistics2:printed_logic_processor"
+      },
+      {
+        "item": "mekanism:advanced_control_circuit"
+      },
+      {
+        "item": "mekanism:alloy_infused"
+      }
+    ],
+    "energy": 20000,
+    "result": {
+      "item": "kubejs:advanced_tier_card",
+      "count": 1
+    }
+  }

@@ -1,0 +1,20 @@
+{
+  "input": [
+    {
+      "item": "draconicevolution:awakened_draconium_ingot"
+    },
+    {
+      "item": "draconicevolution:awakened_draconium_ingot"
+    },
+    {
+      "item": "draconicevolution:awakened_draconium_ingot"
+    }
+  ],
+  "inputFluid": "{FluidName:\"create:honey\",Amount:2000}",
+  "processingTime": 60,
+  "output": {
+    "item": "kubejs:ci1",
+    "count": 1
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

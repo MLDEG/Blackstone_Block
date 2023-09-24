@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "  A  ",
+    " BCB ",
+    "PDEDP",
+    " FGF ",
+    "  H  "
+  ],
+  "key": {
+    "A": {"item": "botania:corporea_index" },
+    "B": {"tag": "forge:gears/emerald" },
+    "C": {"item": "bloodmagic:tauoil" },
+    "D": {"item": "botania:light_relay" },
+    "E": {"item": "thermal:machine_frame" },
+    "F": {"item": "create:crushing_wheel" },
+    "G": {"item": "supplementaries:flint_block" },
+    "H": {"item": "thermal:rf_coil" },
+    "P": {"item": "simplyjetpacks:armorplating_te4"}
+  },
+  "result": {"item": "thermal:machine_pulverizer"}
+}

@@ -1,0 +1,28 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "thermal:copper_plate"},
+  "transitionalItem": {"item": "thermal:copper_plate"},
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "thermal:copper_plate"},
+        {"item": "thermal:copper_plate"}
+      ],
+      "results": [{"item": "thermal:copper_plate"}]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {"item": "thermal:copper_plate"}
+      ],
+      "results": [
+        {"item": "thermal:copper_plate"}
+      ]
+    }
+  ],
+  "results": [
+    {"item": "simplyjetpacks:armorplating_te1","count": 1}
+  ],
+  "loops": 4
+}

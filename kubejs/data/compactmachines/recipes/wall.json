@@ -1,0 +1,18 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:sheetmetal_lead"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "results": [
+    {
+      "item": "compactmachines:wall",
+      "count": 8
+    }
+  ],
+  "heatRequirement": "heated"
+}

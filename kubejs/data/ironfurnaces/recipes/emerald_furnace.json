@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#G#",
+    "GXG",
+    "#G#"
+  ],
+  "key": {
+    "#": {
+      "item": "createaddition:overcharged_alloy"
+    },
+    "X": {
+      "item": "ironfurnaces:diamond_furnace"
+    },
+    "G": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "ironfurnaces:emerald_furnace"
+  }
+}

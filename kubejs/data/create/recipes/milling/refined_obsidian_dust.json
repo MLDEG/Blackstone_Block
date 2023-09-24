@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "mekanism:ingot_refined_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "mekanism:dust_refined_obsidian"
+    }
+  ],
+  "processingTime": 100
+}

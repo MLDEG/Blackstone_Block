@@ -1,0 +1,27 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "appliedenergistics2:printed_silicon"},
+  "transitionalItem": {"item": "kubejs:incomplete_logic_processor"},
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:incomplete_logic_processor"},
+        {"item": "appliedenergistics2:printed_logic_processor"}
+      ],
+      "results": [{"item": "kubejs:incomplete_logic_processor"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:incomplete_logic_processor"},
+        {"item": "mekanism:enriched_redstone"}
+      ],
+      "results": [{"item": "appliedenergistics2:logic_processor"}]
+    }
+  ],
+  "results": [
+    {"item": "appliedenergistics2:logic_processor","count": 1}
+  ],
+  "loops": 1
+}

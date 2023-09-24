@@ -1,0 +1,30 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_helheim"
+  },
+  "mana": 16000,
+  "ingredients": [
+    {
+      "item": "industrialforegoing:pink_slime_ingot"
+    },
+    {
+      "item": "kubejs:slate_ethereal"
+    },
+    {
+      "tag": "botania:runes/fire"
+    },
+    {
+      "tag": "botania:runes/autumn"
+    },
+    {
+      "tag": "botania:runes/envy"
+    },
+    {
+      "item": "minecraft:skeleton_skull"
+    },
+    {
+      "item": "thermal:coal_coke_block"
+    }
+  ]
+}

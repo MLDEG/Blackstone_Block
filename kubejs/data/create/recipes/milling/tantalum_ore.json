@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "forge:ores/tantalum"
+    }
+  ],
+  "results": [
+    {
+      "item": "tinkersarchery:crushed_tantalum"
+    }
+  ],
+  "processingTime": 300
+}

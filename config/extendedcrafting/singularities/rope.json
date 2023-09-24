@@ -1,0 +1,10 @@
+{
+  "name": "Rope",
+  "colors": [
+    "755641",
+    "3d281d"
+  ],
+  "ingredient": {
+    "item": "quark:rope"
+  }
+}

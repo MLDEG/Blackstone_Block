@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "XYX",
+    "YZY"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:wooden_sword"
+    },
+    "Y": {
+      "tag": "minecraft:planks"
+    },
+    "Z": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "item": "miniutilities:wooden_spikes"
+  }
+}

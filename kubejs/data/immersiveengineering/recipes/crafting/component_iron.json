@@ -1,0 +1,34 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "thermal:iron_gear"
+    },
+    "transitionalItem": {
+      "item": "thermal:iron_gear"
+    },
+    "sequence": [
+        {
+          "type": "create:deploying",
+          "ingredients": [
+            {
+              "item": "thermal:iron_gear"
+            },
+            {
+              "tag": "forge:plates/iron"
+            }
+          ],
+          "results": [
+            {
+              "item": "thermal:iron_gear"
+            }
+          ]
+        }
+    ],
+    "results": [
+      {
+        "item": "immersiveengineering:component_iron",
+        "count": 1
+      }
+    ],
+    "loops": 4
+}

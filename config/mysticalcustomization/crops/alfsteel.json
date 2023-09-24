@@ -1,0 +1,14 @@
+{
+  "name": "Alfsteel",
+  "type": "resource",
+  "tier": "mysticalagradditions:6",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_alfsteel",
+    "essence": "mysticalagriculture:item/essence_alfsteel",
+    "seeds": "mysticalagriculture:item/alfsteel_seeds"
+  },
+  "crux": "kubejs:alfsteel_crux"
+}

@@ -1,0 +1,39 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:livingrock_fire"
+  },
+  "transitionalItem": {
+    "item": "kubejs:livingrock_fire_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [{"item": "kubejs:livingrock_fire"}],
+      "results": [{"item": "kubejs:livingrock_fire_slab"}],
+      "processingTime": 150
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:livingrock_fire_slab"},
+        {"item": "kubejs:rune_mold"}
+      ],
+      "results": [
+        {"item": "botania:rune_fire"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:rune_fire",
+      "count": 1,
+      "chance": 3.0
+    },
+    {
+      "item": "botania:livingrock_slab",
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

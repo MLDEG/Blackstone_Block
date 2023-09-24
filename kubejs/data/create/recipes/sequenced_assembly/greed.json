@@ -1,0 +1,39 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:livingrock_greed"
+  },
+  "transitionalItem": {
+    "item": "kubejs:livingrock_greed_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [{"item": "kubejs:livingrock_greed"}],
+      "results": [{"item": "kubejs:livingrock_greed_slab"}],
+      "processingTime": 150
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:livingrock_greed_slab"},
+        {"item": "kubejs:rune_mold"}
+      ],
+      "results": [
+        {"item": "botania:rune_greed"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:rune_greed",
+      "count": 1,
+      "chance": 3.0
+    },
+    {
+      "item": "botania:livingrock_slab",
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

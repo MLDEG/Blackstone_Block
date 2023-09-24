@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#e252fc",
+    "text": "Creative Tank Construction Trophy"
+  },
+  "animation":{
+      "type": "tumbling",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "item": {
+    "item": "thermal:fluid_tank_creative_augment"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#e252fc"
+  }
+}

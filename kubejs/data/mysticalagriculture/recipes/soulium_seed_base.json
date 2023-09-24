@@ -1,0 +1,2 @@
+{"type": "create:filling",
+    "ingredients": [{"item": "mysticalagriculture:prosperity_seed_base"},{"fluid": "mysticalagradditions:molten_soulium","nbt": {},"amount": 288}],"results": [{"item": "mysticalagriculture:soulium_seed_base"}]}

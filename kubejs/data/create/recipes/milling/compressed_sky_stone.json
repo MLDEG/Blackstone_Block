@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "kubejs:compressed_sky_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:compressed_crushed_sky_stone"
+    }
+  ],
+  "processingTime": 150
+}

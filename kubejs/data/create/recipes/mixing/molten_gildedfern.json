@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "tconstruct:molten_gold",
+      "amount": 144
+    },
+    {
+      "tag": "forge:fern"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tdelight:molten_gildedfern",
+      "amount": 144
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,43 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "draconicevolution:draconium_core"},
+  "transitionalItem": {"item": "draconicevolution:draconium_core"},
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "draconicevolution:draconium_core"},
+        {"item": "createaddition:overcharged_casing"}
+      ],
+      "results": [{"item": "draconicevolution:draconium_core"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "draconicevolution:draconium_core"},
+        {"item": "mekanismadditions:gray_plastic_fence"}
+      ],
+      "results": [{"item": "draconicevolution:draconium_core"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "draconicevolution:draconium_core"},
+        {"item": "create:refined_radiance_casing"}
+      ],
+      "results": [{"item": "draconicevolution:draconium_core"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "draconicevolution:draconium_core"},
+        {"item": "mekanismadditions:gray_plastic_fence"}
+      ],
+      "results": [{"item": "draconicevolution:draconium_core"}]
+    }
+  ],
+  "results": [
+    {"item": "draconicevolution:crafting_core","count": 1}
+  ],
+  "loops": 8
+}

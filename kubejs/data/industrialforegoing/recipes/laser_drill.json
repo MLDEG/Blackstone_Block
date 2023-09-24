@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:laser_drill",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ABA",
+          "CDC",
+          "EFE"
+        ],
+        "key": {
+          "A": {
+            "item": "architects_palette:sunmetal_brick"
+          },
+          "B": {
+            "item": "industrialforegoing:laser_lens0"
+          },
+          "C": {
+            "item": "minecraft:piston"
+          },
+          "D": {
+            "item": "industrialforegoing:machine_frame_advanced"
+          },
+          "E": {
+            "item": "kubejs:steel_gear"
+          },
+          "F": {
+            "item": "extendedcrafting:redstone_ingot_block"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:laser_drill"
+        }
+      }
+    }
+  ]
+}

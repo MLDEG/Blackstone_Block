@@ -1,0 +1,7 @@
+{
+  "type": "excompressum:heavy_sieve_generated",
+  "input": {
+    "item":"kubejs:compressed_crushed_sky_stone"
+  },
+  "source": "kubejs:crushed_sky_stone"
+}

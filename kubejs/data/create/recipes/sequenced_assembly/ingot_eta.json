@@ -1,0 +1,69 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:uci7"
+  },
+  "transitionalItem": {
+    "item": "kubejs:uci7"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:uci7"},
+        {"item": "projectred-core:magenta_illumar"}
+      ],
+      "results": [
+        {"item": "kubejs:uci7"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:uci7"},
+        {"item": "projectred-core:magenta_illumar"}
+      ],
+      "results": [
+        {"item": "kubejs:uci7"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:uci7"},
+        {"item": "projectred-core:magenta_illumar"}
+      ],
+      "results": [
+        {"item": "kubejs:uci7"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:uci7"},
+        {"item": "projectred-core:magenta_illumar"}
+      ],
+      "results": [
+        {"item": "kubejs:uci7"}
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:uci7"},
+        {"item": "industrialforegoing:laser_lens2"}
+      ],
+      "results": [
+        {"item": "kubejs:uci7"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:ui7",
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

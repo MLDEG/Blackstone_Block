@@ -1,0 +1,16 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "AABAA",
+    " AAA ",
+    " CCC "
+  ],
+  "key": {
+    "A": {"item": "botania:chiseled_livingrock_bricks"},
+    "B": {"item": "botania:mana_pearl"},
+    "C": {"item": "botania:livingrock_bricks_slab"}
+  },
+  "result": {
+    "item": "botania:runic_altar"
+  }
+}

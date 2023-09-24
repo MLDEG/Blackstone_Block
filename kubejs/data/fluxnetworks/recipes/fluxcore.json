@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fluxnetworks",
+  "pattern": [
+    "fof",
+    "oeo",
+    "fof"
+  ],
+  "key": {
+    "o": {
+      "item": "appliedenergistics2:wireless_booster"
+    },
+    "f": {
+      "item": "fluxnetworks:flux_dust"
+    },
+    "e": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "fluxnetworks:flux_core",
+    "count": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "byg:wilted_grass"
+        },
+        {
+          "item": "quark:glowcelium"
+        }
+    ],
+    "result": {
+      "item": "byg:glowcelium_block"
+    }
+  }

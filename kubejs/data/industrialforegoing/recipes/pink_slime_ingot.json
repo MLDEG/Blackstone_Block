@@ -1,0 +1,23 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "tconstruct:molten_gold",
+        "amount": 288
+      },
+      {
+        "fluid": "tconstruct:molten_iron",
+        "amount": 288
+      },
+      {
+        "item": "industrialforegoing:pink_slime"
+      }
+    ],
+    "results": [
+      {
+        "fluid": "materialis:molten_pink_slime",
+        "amount": 144
+      }
+    ],
+    "heatRequirement": "heated"
+  }

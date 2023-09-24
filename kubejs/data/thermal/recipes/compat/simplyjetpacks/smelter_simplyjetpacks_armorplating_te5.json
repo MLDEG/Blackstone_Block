@@ -1,0 +1,28 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "simplyjetpacks:armorplating_te4"},
+  "transitionalItem": {"item": "simplyjetpacks:armorplating_te4"},
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "simplyjetpacks:armorplating_te4"},
+        {"item": "kubejs:overcharged_plate"}
+      ],
+      "results": [{"item": "simplyjetpacks:armorplating_te4"}]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {"item": "simplyjetpacks:armorplating_te4"}
+      ],
+      "results": [
+        {"item": "simplyjetpacks:armorplating_te4"}
+      ]
+    }
+  ],
+  "results": [
+    {"item": "simplyjetpacks:armorplating_te5","count": 1}
+  ],
+  "loops": 4
+}

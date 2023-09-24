@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "tag": "forge:stone"
+      },
+      {
+        "item": "bloodmagic:defaultcrystal"
+      }
+    ],
+    "result": {
+      "item": "bloodmagic:dungeon_stone"
+    }
+  }

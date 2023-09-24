@@ -1,0 +1,50 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:material_stonework_factory",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "pcp",
+          "gmf",
+          "aba"
+        ],
+        "key": {
+          "p": {
+            "tag": "forge:plastic"
+          },
+          "c": {
+            "item": "immersiveengineering:craftingtable"
+          },
+          "g": {
+            "item": "betterendforge:aeternium_pickaxe"
+          },
+          "m": {
+            "tag": "industrialforegoing:machine_frame/advanced"
+          },
+          "f": {
+            "item": "ironfurnaces:netherite_furnace"
+          },
+          "a": {
+            "item": "projectred-core:electrotine_silicon"
+          },
+          "b": {"type": "forge:nbt", "item": "tconstruct:large_plate", "count": 1, "nbt": "{Material:\"materialis:pink_slime\"}" }
+        },
+        "result": {
+          "item": "industrialforegoing:material_stonework_factory"
+        }
+      }
+    }
+  ]
+}

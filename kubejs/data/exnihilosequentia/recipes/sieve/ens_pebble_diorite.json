@@ -1,0 +1,47 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.5,
+      "mesh": "string"
+    },
+    {
+      "chance": 0.5,
+      "mesh": "string"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "flint"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "flint"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "iron"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "diamond"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "emerald"
+    },
+    {
+      "chance": 1.0,
+      "mesh": "netherite"
+    },
+    {
+      "chance": 1.0,
+      "mesh": "netherite"
+    }
+  ],
+  "input": {
+    "item": "minecraft:dirt"
+  },
+  "result": {
+    "item": "exnihilosequentia:pebble_diorite"
+  }
+}

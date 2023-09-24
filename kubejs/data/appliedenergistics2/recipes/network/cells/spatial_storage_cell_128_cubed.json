@@ -1,0 +1,12 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "appliedenergistics2:empty_storage_cell"},
+    { "item": "appliedenergistics2:128_cubed_spatial_cell_component" }
+  ],
+  "results": [
+    {
+      "item": "appliedenergistics2:128_cubed_spatial_storage_cell",
+      "count": 1
+    }]
+}

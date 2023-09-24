@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "item": "appliedenergistics2:ender_dust"
+    }
+  ],
+  "result": {
+    "fluid": "thermal:ender",
+    "amount": 250
+  },
+  "temperature": 477,
+  "time": 49
+}

@@ -1,0 +1,18 @@
+{
+  "type": "extendedcrafting:combination",
+  "powerCost": 10000000,
+  "powerRate": 100000,
+  "input": { "item": "appliedenergistics2:singularity" },
+  "ingredients": [
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:bronze\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:rose_gold\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:zinc\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:osmium\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:silicon\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:terrasteel\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:sulfur\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:invar\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:polished_rose_quartz\"}" }
+  ],
+  "result": {"item": "kubejs:singu_helheim","count": 1 }
+}

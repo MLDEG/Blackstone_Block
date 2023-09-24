@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EEE",
+    "EEE"
+  ],
+  "key": {
+    "E": {
+      "item": "kubejs:demonium_essence"
+    }
+  },
+  "result": {
+    "item": "kubejs:demonium_block"
+  }
+}

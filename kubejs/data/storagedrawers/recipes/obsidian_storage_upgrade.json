@@ -1,0 +1,12 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {"item": "storagedrawers:upgrade_template"},
+      { "item": "create:zinc_ingot" }
+    ],
+    "results": [
+      {
+        "item": "storagedrawers:obsidian_storage_upgrade",
+        "count": 1
+      }]
+  }

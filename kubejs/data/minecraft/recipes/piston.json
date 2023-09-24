@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "#X#",
+    "#R#"
+  ],
+  "key": {
+    "R": {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    "#": {
+      "item": "excompressum:compressed_cobblestone"
+    },
+    "T": {
+      "tag": "forge:treated_wood"
+    },
+    "X": {
+      "item": "engineersdecor:thin_steel_pole"
+    }
+  },
+  "result": {
+    "item": "minecraft:piston"
+  }
+}

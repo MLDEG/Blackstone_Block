@@ -1,0 +1,12 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "simplyjetpacks:armorplating_te3"},
+    {"item": "betterendforge:flavolite_runed"}
+  ],
+  "results": [
+    {
+      "item": "kubejs:rune_mold",
+      "count": 1
+    }]
+}

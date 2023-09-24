@@ -1,0 +1,17 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "mysticalagriculture:pendorite_seeds"
+  },
+  "result": [
+    {
+      "item": "mysticalagriculture:pendorite_essence",
+      "count": 1
+    },
+    {
+      "item": "mysticalagriculture:pendorite_seeds",
+      "count": 1
+    }
+  ],
+  "energy": 100000
+}

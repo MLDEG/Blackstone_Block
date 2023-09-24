@@ -1,0 +1,23 @@
+{
+  "duration": {
+    "raw:int": 100
+  },
+  "top": {
+    "raw:item": "minecraft:lapis_lazuli"
+  },
+  "bottom": {
+    "raw:item": "minecraft:lapis_lazuli"
+  },
+  "left": {
+    "raw:item": "minecraft:lapis_lazuli"
+  },
+  "right": {
+    "raw:item": "minecraft:lapis_lazuli"
+  },
+  "center": {
+    "raw:item": "envirocore:obsidian_plate"
+  },
+  "output": {
+    "raw:item": "kubejs:lapis_imbued_obsidian_plate"
+  }
+}

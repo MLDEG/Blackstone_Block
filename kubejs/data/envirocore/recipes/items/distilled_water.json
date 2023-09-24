@@ -1,0 +1,16 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "minecraft:water",
+        "amount": 500
+      }
+    ],
+    "results": [
+      {
+        "fluid": "envirocore:distilled_water",
+        "amount": 5
+      }
+    ],
+    "heatRequirement": "superheated"
+  }

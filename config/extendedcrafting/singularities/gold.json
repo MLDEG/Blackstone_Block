@@ -1,0 +1,10 @@
+{
+  "name": "Gold",
+  "colors": [
+    "faf25e",
+    "d99413"
+  ],
+  "ingredient": {
+    "item": "minecraft:gold_ingot"
+  }
+}

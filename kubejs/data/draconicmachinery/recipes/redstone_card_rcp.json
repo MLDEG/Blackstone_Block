@@ -1,0 +1,42 @@
+{
+  "group": "draconicmachinery",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "4": {
+      "item": "draconicmachinery:redstone_core"
+    },
+    "5": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "6": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "7": {
+      "item": "minecraft:gold_ingot"
+    },
+    "8": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "draconicmachinery:redstone_card",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "minecraft:coal"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    }
+  ],
+  "output": {
+    "item": "mysticalagradditions:inferium_coal",
+    "count": 1
+  },
+  "syphon": 1000,
+  "ticks": 40,
+  "upgradeLevel": 2
+}

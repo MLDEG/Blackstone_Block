@@ -1,0 +1,9 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "powah:dielectric_paste"
+	},
+	"result": {
+		"item": "powah:dielectric_rod_horizontal"
+	}
+}

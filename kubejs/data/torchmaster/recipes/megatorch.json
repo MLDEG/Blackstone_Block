@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "TTT",
+        "DAD",
+        "GLG"
+    ],
+    "key": {
+        "T": { "item": "xreliquary:interdiction_torch" },
+        "D": { "item": "minecraft:diamond" },
+        "G": { "tag": "forge:storage_blocks/gold" },
+        "A": { "item": "torchmaster:feral_flare_lantern" },
+        "L": { "tag": "minecraft:logs" }
+    },
+    "result": {
+        "item": "torchmaster:megatorch"
+    }
+}

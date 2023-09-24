@@ -1,0 +1,20 @@
+{
+  "type": "thermal:smelter",
+  "ingredients": [
+    {
+      "item": "cagedmobs:dnasamplerdiamond",
+      "count": 1
+    },
+    {
+      "item": "cagedmobs:star_infused_netherite_ingot",
+      "count": 1
+    }
+  ],
+  "result": [
+    {
+      "item": "cagedmobs:dnasamplernetherite",
+      "count": 1
+    }
+  ],
+  "energy": 4800
+}

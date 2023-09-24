@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "VRV",
+    "DID"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:netherite_sword"
+    },
+    "D": {
+      "item": "miniutilities:diamond_opinium_core"
+    },
+    "V": {
+      "item": "miniutilities:netherite_spikes"
+    },
+    "R": {
+      "item": "extendedcrafting:redstone_ingot_block"
+    },
+    "I": {
+      "tag": "forge:storage_blocks/steel"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:saw"
+  }
+}

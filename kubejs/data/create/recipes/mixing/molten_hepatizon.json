@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "fluid": "tconstruct:molten_copper",
+      "amount": 288
+    },
+    {
+      "fluid": "tconstruct:molten_cobalt",
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_hepatizon",
+      "amount": 288
+    }
+  ],
+  "heatRequirement": "superheated"
+}

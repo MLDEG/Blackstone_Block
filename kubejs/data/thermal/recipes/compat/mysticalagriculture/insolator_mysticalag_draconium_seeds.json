@@ -1,0 +1,17 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "mysticalagriculture:draconium_seeds"
+  },
+  "result": [
+    {
+      "item": "mysticalagriculture:draconium_essence",
+      "count": 1
+    },
+    {
+      "item": "mysticalagriculture:draconium_seeds",
+      "count": 1
+    }
+  ],
+  "energy": 100000
+}

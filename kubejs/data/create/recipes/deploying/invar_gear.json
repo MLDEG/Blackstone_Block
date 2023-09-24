@@ -1,0 +1,13 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"tag": "forge:storage_blocks/invar"},
+    {"item": "kubejs:gear_mold"}
+  ],
+  "results": [
+    {
+      "item": "thermal:invar_gear",
+      "count": 1
+    }],
+    "keepHeldItem": true
+}

@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "item": "architects_palette:sunmetal_brick"
+        },
+        {
+            "fluid": "tinkersarchery:molten_galaxy_alloy",
+            "nbt": {},
+            "amount": 144
+        }
+    ],
+    "results": [
+        {
+            "item": "kubejs:machinarium_ingot"
+        }
+    ]
+}

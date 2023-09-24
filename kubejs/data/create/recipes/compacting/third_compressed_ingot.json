@@ -1,0 +1,37 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "mekanism:ingot_uranium"
+      },
+      {
+        "item": "tdelight:gildedfern_ingot"
+      },
+      {
+        "item": "mysticalagriculture:inferium_ingot"
+      },
+      {
+        "item": "mysticalagriculture:prudentium_ingot"
+      },
+      {
+        "item": "botania:terrasteel_ingot"
+      },
+      {
+        "item": "tconstruct:queens_slime_ingot"
+      },
+      {
+        "item": "extendedcrafting:enhanced_ender_ingot"
+      },
+      {
+        "item": "extendedcrafting:ender_ingot"
+      },
+      {
+        "item": "betterendforge:aeternium_ingot"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:uci3"
+      }
+    ]
+  }

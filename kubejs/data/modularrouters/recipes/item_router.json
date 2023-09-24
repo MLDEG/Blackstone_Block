@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IBI",
+    "BMB",
+    "IBI"
+  ],
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "M": {
+      "item": "kubejs:integrated_circuit"
+    },
+    "B": {
+      "item": "modularrouters:blank_module"
+    }
+  },
+  "result": {
+    "item": "modularrouters:item_router",
+    "count": 1
+  }
+}

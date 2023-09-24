@@ -1,0 +1,19 @@
+{
+    "block.ironfurnaces.copper_furnace": "Zinc Furnace",
+    "container.ironfurnaces.copper_furnace": "Zinc Furnace",
+
+    "block.ironfurnaces.iron_furnace": "Brass Furnace",
+    "container.ironfurnaces.iron_furnace": "Brass Furnace",
+
+    "block.ironfurnaces.silver_furnace": "Chromatic Furnace",
+    "container.ironfurnaces.silver_furnace": "Chromatic Furnace",
+
+    "block.ironfurnaces.gold_furnace": "Shadow Furnace",
+    "container.ironfurnaces.gold_furnace": "Shadow Furnace",
+
+    "block.ironfurnaces.diamond_furnace": "Refined Radiance Furnace",
+    "container.ironfurnaces.diamond_furnace": "Refined Radiance Furnace",
+
+    "block.ironfurnaces.emerald_furnace": "Overcharged Furnace",
+    "container.ironfurnaces.emerald_furnace": "Overcharged Furnace"
+}

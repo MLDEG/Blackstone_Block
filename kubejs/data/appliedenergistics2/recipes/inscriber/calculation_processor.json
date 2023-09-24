@@ -1,0 +1,27 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "appliedenergistics2:printed_silicon"},
+  "transitionalItem": {"item": "kubejs:incomplete_calculation_processor"},
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:incomplete_calculation_processor"},
+        {"item": "appliedenergistics2:printed_calculation_processor"}
+      ],
+      "results": [{"item": "kubejs:incomplete_calculation_processor"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:incomplete_calculation_processor"},
+        {"item": "mekanism:enriched_redstone"}
+      ],
+      "results": [{"item": "appliedenergistics2:calculation_processor"}]
+    }
+  ],
+  "results": [
+    {"item": "appliedenergistics2:calculation_processor","count": 1}
+  ],
+  "loops": 1
+}

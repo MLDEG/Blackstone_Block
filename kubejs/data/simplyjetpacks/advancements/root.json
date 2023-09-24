@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "simplyjetpacks:pilot_goggles_iron"
+    },
+    "title": {
+      "translate": "advancement.simplyjetpacks.root.title"
+    },
+    "description": {
+      "translate": "advancement.simplyjetpacks.root.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "createdeco:textures/block/palettes/bricks/worn/cracked_worn_long_bricks.png"
+  },
+  "criteria": {
+    "any": {
+      "trigger": "minecraft:location",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "any"
+    ]
+  ]
+}

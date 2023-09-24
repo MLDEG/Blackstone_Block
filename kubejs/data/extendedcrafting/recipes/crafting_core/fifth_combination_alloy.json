@@ -1,0 +1,19 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 10000000,
+    "powerRate": 1000000,
+    "input": { "item": "botania:open_bucket" },
+    "ingredients": [
+        {"item": "industrialforegoing:ether_gas_bucket"},
+        {"item": "industrialforegoing:biofuel_bucket"},
+        {"item": "industrialforegoing:essence_bucket"},
+        {"item": "industrialforegoing:pink_slime_bucket"},
+        {"item": "industrialforegoing:latex_bucket"},
+        {"item": "industrialforegoing:meat_bucket"},
+        {"type": "forge:nbt", "item": "industrialforegoing:raw_ore_meat_bucket", "count": 1, "nbt": "{Tag:\"forge:ores/draconium\"}" },
+        {"type": "forge:nbt", "item": "industrialforegoing:fermented_ore_meat_bucket", "count": 1, "nbt": "{Tag:\"forge:ores/draconium\"}" },
+        {"item": "industrialforegoing:sewage_bucket"},
+        {"item": "industrialforegoing:sludge_bucket"}
+    ],
+    "result": {"item": "kubejs:5alloy_bucket","count": 1 }
+  }

@@ -1,0 +1,36 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "botania:overgrowth_seed"
+  },
+  "mana": 10000,
+  "ingredients": [
+    {
+      "tag": "forge:seeds"
+    },
+    {
+      "item": "botania:grass_seeds"
+    },
+    {
+      "item": "botania:podzol_seeds"
+    },
+    {
+      "item": "botania:dry_seeds"
+    },
+    {
+      "item": "botania:golden_seeds"
+    },
+    {
+      "item": "botania:vivid_seeds"
+    },
+    {
+      "item": "botania:scorched_seeds"
+    },
+    {
+      "item": "botania:infused_seeds"
+    },
+    {
+      "item": "botania:mutated_seeds"
+    }
+  ]
+}

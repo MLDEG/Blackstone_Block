@@ -1,0 +1,15 @@
+{
+  "type": "thermal:bottler",
+  "ingredients": [
+    {
+      "item": "cagedmobs:dnasamplernetherite"
+    },
+    {
+      "fluid": "kubejs:dragon_blood",
+      "amount": 250
+    }
+  ],
+  "result": [
+    {"type": "forge:nbt", "item": "cagedmobs:dnasamplernetherite", "count": 1, "nbt": "{entity:\"minecraft:ender_dragon\"}" }
+  ]
+}

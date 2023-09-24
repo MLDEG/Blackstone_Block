@@ -1,0 +1,32 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+  	"63636",
+    "52125",
+    " 424 "
+  ],
+  "key": {
+  	"1": {
+      "item": "create:precision_mechanism"
+    },
+    "2": {
+      "item": "create:brass_casing"
+    },
+    "3": {
+      "tag": "forge:plates/brass"
+    },
+    "4": {
+      "tag": "forge:ingots/brass"
+    },
+    "5": {
+      "item": "create:encased_fan"
+    },
+    "6": {
+      "tag": "forge:cogwheel"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:encased_jet_chestplate",
+    "count": 1
+  }
+}

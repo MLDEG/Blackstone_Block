@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "thermal:nickel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:nickel_dust"
+    }
+  ],
+  "processingTime": 100
+}

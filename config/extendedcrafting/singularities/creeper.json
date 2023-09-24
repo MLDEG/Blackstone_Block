@@ -1,0 +1,10 @@
+{
+  "name": "Creeper",
+  "colors": [
+    "717171",
+    "3d3d3d"
+  ],
+  "ingredient": {
+    "item": "minecraft:gunpowder"
+  }
+}

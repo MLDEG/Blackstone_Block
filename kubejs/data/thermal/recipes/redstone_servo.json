@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R R",
+    " I ",
+    "R R"
+  ],
+  "key": {
+    "I": {
+      "item": "createaddition:iron_rod"
+    },
+    "R": {
+      "item": "envirocore:redstone_imbued_obsidian_plate"
+    }
+  },
+  "result": {
+    "item": "thermal:redstone_servo"
+  }
+}

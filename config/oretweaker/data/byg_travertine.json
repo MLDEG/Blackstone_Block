@@ -1,0 +1,14 @@
+{
+  "oreConfig": [
+    {
+      "ore": "byg:travertine",
+      "filler": "minecraft:stone",
+      "minY": 40,
+      "maxY": 250,
+      "maxVeinSize": 10,
+      "spawnRate": 2,
+      "biomeBlacklist": [],
+      "biomeWhitelist": ["mining_dimension:mining", "OVERWORLD"]
+    }
+  ]
+}

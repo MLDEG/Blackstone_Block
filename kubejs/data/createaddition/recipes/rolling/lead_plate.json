@@ -1,0 +1,10 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"tag": "forge:plates/lead"
+	},
+	"result": {
+		"item": "immersiveengineering:wire_lead",
+		"count": 2
+	}
+}

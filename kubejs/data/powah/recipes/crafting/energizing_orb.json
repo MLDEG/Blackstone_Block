@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"ggg",
+	"gcg",
+	"rer"
+  ],
+  "key": {
+	"r": {
+	  "item": "powah:dielectric_rod_horizontal"
+	},
+	"e": {
+	  "item": "mekanismgenerators:electromagnetic_coil"
+	},
+	"g": {
+	  "item": "mekanismgenerators:reactor_glass"
+	},
+	"c": {
+	  "item": "powah:dielectric_casing"
+	}
+  },
+  "result": {
+	"item": "powah:energizing_orb"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {"item": "storagedrawers:gold_storage_upgrade"},
+      { "item": "create:shadow_steel" }
+    ],
+    "results": [
+      {
+        "item": "storagedrawers:diamond_storage_upgrade",
+        "count": 1
+      }]
+  }

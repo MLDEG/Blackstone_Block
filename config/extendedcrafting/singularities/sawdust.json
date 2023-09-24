@@ -1,0 +1,10 @@
+{
+  "name": "Sawdust",
+  "colors": [
+    "ad957c",
+    "7a4f45"
+  ],
+  "ingredient": {
+    "item": "thermal:sawdust"
+  }
+}

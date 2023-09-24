@@ -1,0 +1,39 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:livingrock_vanaheim"
+  },
+  "transitionalItem": {
+    "item": "kubejs:livingrock_vanaheim_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [{"item": "kubejs:livingrock_vanaheim"}],
+      "results": [{"item": "kubejs:livingrock_vanaheim_slab"}],
+      "processingTime": 150
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:livingrock_vanaheim_slab"},
+        {"item": "kubejs:rune_mold"}
+      ],
+      "results": [
+        {"item": "mythicbotany:vanaheim_rune"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "mythicbotany:vanaheim_rune",
+      "count": 1,
+      "chance": 3.0
+    },
+    {
+      "item": "botania:livingrock_slab",
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

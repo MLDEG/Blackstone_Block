@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "mekanism:ingot_refined_obsidian"
+  },
+  "result": [
+    {
+      "item": "mekanism:dust_refined_obsidian",
+      "count": 1
+    }
+  ],
+  "energy_mod": 0.5
+}

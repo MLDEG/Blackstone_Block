@@ -1,0 +1,29 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:heavy_engineering"
+    },
+    {
+      "item": "extendedcrafting:redstone_ingot_block"
+    },
+    {
+      "item": "minecraft:stripped_oak_wood"
+    },
+    {
+      "item": "minecraft:stripped_oak_wood"
+    },
+    {
+      "item": "minecraft:stripped_oak_wood"
+    },
+    {
+      "item": "minecraft:stripped_oak_wood"
+    }
+  ],
+  "results": [
+    {
+      "item": "industrialforegoing:machine_frame_pity"
+    }
+  ],
+  "heatRequirement": "heated"
+}

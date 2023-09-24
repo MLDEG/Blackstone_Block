@@ -1,0 +1,27 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_winter"
+  },
+  "mana": 8000,
+  "ingredients": [
+    {
+      "tag": "botania:runes/water"
+    },
+    {
+      "tag": "botania:runes/earth"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "quark:snow_bricks"
+    },
+    {
+      "item": "cookingforblockheads:ice_unit"
+    },
+    {
+      "item": "pamhc2foodcore:hotchocolateitem"
+    }
+  ]
+}

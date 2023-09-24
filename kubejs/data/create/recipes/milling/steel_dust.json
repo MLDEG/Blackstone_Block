@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "mekanism:ingot_steel"
+    }
+  ],
+  "results": [
+    {
+      "item": "mekanism:dust_steel"
+    }
+  ],
+  "processingTime": 100
+}

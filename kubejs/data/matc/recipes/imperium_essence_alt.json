@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#C#",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "mysticalagriculture:tertium_essence"
+    },
+    "C": {
+      "item": "matc:tertium_crystal"
+    },
+    "X": {
+      "item": "kubejs:ci3"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:imperium_essence"
+  }
+}

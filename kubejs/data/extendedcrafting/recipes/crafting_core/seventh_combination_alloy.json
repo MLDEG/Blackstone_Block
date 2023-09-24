@@ -1,0 +1,20 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 10000000,
+    "powerRate": 1000000,
+    "input": { "item": "botania:open_bucket" },
+    "ingredients": [
+        {"item": "mysticalagradditions:molten_prudentium_bucket"},
+        {"item": "mysticalagradditions:molten_tertium_bucket"},
+        {"item": "mysticalagradditions:molten_imperium_bucket"},
+        {"item": "mysticalagradditions:molten_supremium_bucket"},
+        {"item": "kubejs:molten_insanium_bucket"},
+        {"item": "mysticalagradditions:molten_soulium_bucket"},
+        {"item": "materialis:molten_draconium_awakened_bucket"},
+        {"item": "materialis:molten_alfsteel_bucket"},
+        {"item": "tinkersarchery:molten_galaxy_alloy_bucket"},
+        {"item": "mysticalagradditions:molten_inferium_bucket"}
+    ],
+    "result": {"item": "kubejs:7alloy_bucket","count": 1 }
+  }
+

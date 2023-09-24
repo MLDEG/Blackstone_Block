@@ -1,0 +1,10 @@
+{
+  "name": "Red Alloy",
+  "colors": [
+    "fc0000",
+    "590505"
+  ],
+  "ingredient": {
+    "item": "projectred-core:red_ingot"
+  }
+}

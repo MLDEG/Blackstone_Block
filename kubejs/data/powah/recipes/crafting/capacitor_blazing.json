@@ -1,0 +1,50 @@
+{
+	"type": "create:sequenced_assembly",
+	"ingredient": {
+	  "item": "powah:capacitor_hardened"
+	},
+	"transitionalItem": {
+	  "item": "powah:capacitor_hardened"
+	},
+	"sequence": [
+	  {
+		"type": "create:deploying",
+		"ingredients": [
+		  {
+			"item": "powah:capacitor_hardened"
+		  },
+		  {
+			"item": "powah:crystal_blazing"
+		  }
+		],
+		"results": [
+		  {
+			"item": "powah:capacitor_hardened"
+		  }
+		]
+	  },
+	  {
+		"type": "create:deploying",
+		"ingredients": [
+		  {
+			"item": "powah:capacitor_hardened"
+		  },
+		  {
+			"item": "powah:capacitor_basic_tiny"
+		  }
+		],
+		"results": [
+		  {
+			"item": "powah:capacitor_hardened"
+		  }
+		]
+	  }
+	],
+	"results": [
+	  {
+		"item": "powah:capacitor_blazing",
+		"count": 1
+	  }
+	],
+	"loops": 4
+  }

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {
+    "item": "kubejs:base_obsidian_cake"
+  },
+  "result": "kubejs:baked_obsidian_cake",
+  "experience": 0.0,
+  "cookingtime": 100
+}

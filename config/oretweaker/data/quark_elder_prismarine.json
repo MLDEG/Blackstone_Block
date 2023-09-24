@@ -1,0 +1,14 @@
+{
+  "oreConfig": [
+    {
+      "ore": "quark:elder_prismarine",
+      "filler": "minecraft:stone",
+      "minY": 252,
+      "maxY": 255,
+      "maxVeinSize": 10,
+      "spawnRate": 50,
+      "biomeBlacklist": [],
+      "biomeWhitelist": ["mining_dimension:mining", "OVERWORLD"]
+    }
+  ]
+}

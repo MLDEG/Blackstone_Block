@@ -1,0 +1,39 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "kubejs:pure_dragon_blood",
+      "amount": 250
+    },
+    {
+      "item": "thermal:blizz_rod"
+    },
+    {
+      "item": "thermal:blizz_rod"
+    },
+    {
+      "item": "thermal:blizz_rod"
+    },
+    {
+      "item": "thermal:blizz_rod"
+    },
+    {
+      "item": "thermal:blizz_rod"
+    },
+    {
+      "item": "thermal:blizz_rod"
+    },
+    {
+      "item": "thermal:blizz_rod"
+    },
+    {
+      "item": "thermal:blizz_rod"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:cold_dragon_blood",
+      "amount": 250
+    }
+  ]
+}

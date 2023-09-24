@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:altar",
+  "input": {
+    "item": "kubejs:slate_imbued"
+  },
+  "output": {
+    "item": "bloodmagic:demonslate"
+  },
+  "upgradeLevel": 3,
+  "altarSyphon": 15000,
+  "consumptionRate": 20,
+  "drainRate": 20
+}

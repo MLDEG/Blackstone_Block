@@ -1,0 +1,24 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+        "tag": "forge:plates/electrum"
+        },
+        {
+        "tag": "forge:plates/electrum"
+        },
+        {
+        "tag": "forge:plates/electrum"
+        },
+        {
+        "tag": "forge:plates/electrum"
+        }
+    ],
+    "results": [
+        {
+        "item": "immersiveengineering:sheetmetal_electrum",
+        "count": 4
+        }
+    ],
+    "heatRequirement": "heated"
+}

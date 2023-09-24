@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iti",
+    "tSt",
+    "iti"
+  ],
+  "key": {
+    "t": {
+      "tag": "forge:plates/tin"
+    },
+    "i": {
+      "tag": "forge:plates/invar"
+    },
+    "S": {
+      "item": "modularrouters:bulk_item_filter"
+    }
+  },
+  "result": {
+    "item": "thermal:item_filter_augment"
+  },
+  "conditions": [
+    {
+      "flag": "filter_augments",
+      "type": "thermal:flag"
+    }
+  ]
+}

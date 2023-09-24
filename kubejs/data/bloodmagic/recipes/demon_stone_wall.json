@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BBB"
+    ],
+    "key": {
+      "N": {
+        "item": "bloodmagic:dungeon_polished"
+      }
+    },
+    "result": {
+      "item": "bloodmagic:dungeon_polished_wall",
+      "count": 6
+    }
+  }

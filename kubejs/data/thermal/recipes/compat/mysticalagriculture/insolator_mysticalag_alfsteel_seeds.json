@@ -1,0 +1,17 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "mysticalagriculture:alfsteel_seeds"
+  },
+  "result": [
+    {
+      "item": "mysticalagriculture:alfsteel_essence",
+      "count": 1
+    },
+    {
+      "item": "mysticalagriculture:alfsteel_seeds",
+      "count": 1
+    }
+  ],
+  "energy": 100000
+}

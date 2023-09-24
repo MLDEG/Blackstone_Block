@@ -1,0 +1,42 @@
+{
+  "group": "draconicmachinery",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "1": {
+      "item": "draconicmachinery:oxygen_pad"
+    },
+    "2": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "3": {
+      "item": "draconicmachinery:oxygen_pad"
+    },
+    "4": {
+      "item": "draconicevolution:awakened_draconium_ingot"
+    },
+    "5": {
+      "item": "draconicmachinery:oxygen_pad"
+    },
+    "6": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "7": {
+      "item": "draconicmachinery:oxygen_pad"
+    },
+    "8": {
+      "item": "draconicevolution:draconium_ingot"
+    }
+  },
+  "result": {
+    "item": "draconicmachinery:oxygen_spreader",
+    "count": 1
+  }
+}

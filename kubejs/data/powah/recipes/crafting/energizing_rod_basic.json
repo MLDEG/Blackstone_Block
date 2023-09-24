@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	" B ",
+	"CRC",
+	"WTW"
+  ],
+  "key": {
+	"B": {
+	  "item": "rftoolsdim:dimensional_blank_block"
+	},
+	"W": {
+	  "item": "powah:energy_cable_basic"
+	},
+	"C": {
+	  "item": "powah:capacitor_basic_large"
+	},
+	"T": {
+	  "item": "powah:energizing_rod_starter"
+	},
+	"R": {
+	  "item": "immersiveengineering:graphite_electrode"
+	}
+  },
+  "result": {
+	"item": "powah:energizing_rod_basic"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "extendedcrafting:combination",
+  "powerCost": 10000000,
+  "powerRate": 100000,
+  "input": { "item": "appliedenergistics2:singularity" },
+  "ingredients": [
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:galaxy\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:electrotine_alloy\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:red_alloy\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:hdpe\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:nautilus_meal\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:cardboard\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:construction_paste\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:sunmetal\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:algal\"}" }
+  ],
+  "result": {"item": "kubejs:singu_ragnarok","count": 1 }
+}

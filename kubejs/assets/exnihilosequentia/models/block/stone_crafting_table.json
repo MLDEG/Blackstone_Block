@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "exnihilosequentia:block/stone_crafting_table_front",
+    "north": "exnihilosequentia:block/stone_crafting_table_front",
+    "south": "exnihilosequentia:block/stone_crafting_table_side",
+    "east": "exnihilosequentia:block/stone_crafting_table_side",
+    "west": "exnihilosequentia:block/stone_crafting_table_front",
+    "up": "exnihilosequentia:block/stone_crafting_table_top",
+    "down": "exnihilosequentia:block/stone_crafting_table_bottom"
+  }
+}

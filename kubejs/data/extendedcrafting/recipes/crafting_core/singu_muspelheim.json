@@ -1,0 +1,18 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 10000000,
+    "powerRate": 100000,
+    "input": { "item": "appliedenergistics2:singularity" },
+    "ingredients": [
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:andesite_alloy\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:apatite\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:ruby\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:slimesteel\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:spirited_crystal\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:sapphire\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:quartz_blaze\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:steel\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:nether_quartz\"}" }
+    ],
+    "result": {"item": "kubejs:singu_muspelheim","count": 1 }
+  }

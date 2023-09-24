@@ -1,0 +1,10 @@
+{
+  "name": "Sapphire",
+  "colors": [
+    "4298fc",
+    "056289"
+  ],
+  "ingredient": {
+    "item": "thermal:sapphire"
+  }
+}

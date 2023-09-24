@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:ender_pearl"
+  },
+  "transitionalItem": {
+    "item": "minecraft:ender_pearl"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:ender_pearl"
+        },
+        {
+          "item": "rftoolsbase:dimensionalshard"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:ender_pearl"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "rftoolsbase:infused_enderpearl",
+      "count": 1
+    }
+  ],
+  "loops": 4
+}

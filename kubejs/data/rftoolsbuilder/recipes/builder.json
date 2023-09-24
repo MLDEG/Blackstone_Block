@@ -1,0 +1,18 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+      " ABA ",
+      "ACDCA",
+      "BDEDB",
+      "ACDCA",
+      " ABA "
+  ],
+  "key": {
+    "A": {"item": "thermal:rich_slag_bricks" },
+    "B": {"item": "powah:ender_core" },
+    "C": {"item": "extendedcrafting:ender_star_block" },
+    "D": {"item": "appliedenergistics2:calculation_processor" },
+    "E": {"item": "rftoolsbase:machine_frame" }
+  },
+  "result": {"item": "rftoolsbuilder:builder"}
+}

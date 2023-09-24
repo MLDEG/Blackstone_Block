@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:diamond"
+  },
+  "transitionalItem": {
+    "item": "minecraft:diamond"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:diamond"
+        },
+        {
+          "item": "rftoolsbase:dimensionalshard"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:diamond"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "rftoolsbase:infused_diamond",
+      "count": 1
+    }
+  ],
+  "loops": 4
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {"type": "forge:nbt", "item": "materialis:wrench_head", "count": 1, "nbt": "{Material:\"tconstruct:steel\"}" },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "result": {
+    "item": "minecraft:flint_and_steel"
+  }
+}

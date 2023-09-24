@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "byg:bulbis_oddity"
+        },
+        {
+          "item": "byg:bulbis_oddity"
+        }
+    ],
+    "result": {
+      "item": "byg:oddity_bush"
+    }
+  }

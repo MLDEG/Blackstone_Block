@@ -1,0 +1,27 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_autumn"
+  },
+  "mana": 8000,
+  "ingredients": [
+    {
+      "tag": "botania:runes/fire"
+    },
+    {
+      "tag": "botania:runes/air"
+    },
+    {
+      "item": "mysticalagriculture:nature_agglomeratio"
+    },
+    {
+      "tag": "minecraft:leaves"
+    },
+    {
+      "tag": "quark:leaf_carpet"
+    },
+    {
+      "item": "pamhc2foodextended:pizzasliceitem"
+    }
+  ]
+}

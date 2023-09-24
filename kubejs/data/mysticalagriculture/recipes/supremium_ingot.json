@@ -1,0 +1,27 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "mysticalagriculture:imperium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    },
+    {
+      "item": "mysticalagriculture:supremium_essence"
+    }
+  ],
+  "output": {
+    "item": "mysticalagriculture:supremium_ingot",
+    "count": 1
+  },
+  "syphon": 5000,
+  "ticks": 40,
+  "upgradeLevel": 4
+}

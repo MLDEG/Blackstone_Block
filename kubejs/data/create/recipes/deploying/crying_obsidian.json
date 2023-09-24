@@ -1,0 +1,12 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "minecraft:obsidian"},
+    {"item": "minecraft:ghast_tear"}
+  ],
+  "results": [
+    {
+      "item": "minecraft:crying_obsidian",
+      "count": 1
+    }]
+}

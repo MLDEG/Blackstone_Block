@@ -1,0 +1,25 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "kubejs:ci4"
+    },
+    {
+      "item": "kubejs:ci4"
+    },
+    {
+      "item": "kubejs:ci4"
+    },
+    {
+      "fluid": "tconstruct:venom",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:ci5",
+      "count": 1
+    }
+  ],
+  "heatRequirement": "superheated"
+}

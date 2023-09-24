@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:baked_dirt_cake"
+    },
+    {
+      "fluid": "kubejs:overworld_icing",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "telepastries:overworld_cake"
+    }
+  ]
+}

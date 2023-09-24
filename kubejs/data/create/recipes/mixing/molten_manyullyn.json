@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "tconstruct:molten_debris",
+      "amount": 144
+    },
+    {
+      "fluid": "tconstruct:molten_cobalt",
+      "amount": 432
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_manyullyn",
+      "amount": 576
+    }
+  ],
+  "heatRequirement": "superheated"
+}

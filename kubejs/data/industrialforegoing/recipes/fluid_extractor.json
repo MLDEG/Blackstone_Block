@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:fluid_extractor",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "IGI",
+          "CPC",
+          "IMI"
+        ],
+        "key": {
+          "I": {
+            "tag": "forge:plates/steel"
+          },
+          "G": {
+            "item": "thermal:gold_gear"
+          },
+          "C": {
+            "item": "quark:rusty_iron_plate"
+          },
+          "M": {
+            "tag": "industrialforegoing:machine_frame/pity"
+          },
+          "P": {
+            "item": "thermal:device_tree_extractor"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:fluid_extractor"
+        }
+      }
+    }
+  ]
+}

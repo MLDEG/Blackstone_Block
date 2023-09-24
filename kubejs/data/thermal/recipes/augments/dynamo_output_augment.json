@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "SXS",
+    "IGI"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gears/netherite"
+    },
+    "S": {
+      "tag": "forge:plates/signalum"
+    },
+    "I": {
+      "tag": "forge:plates/invar"
+    },
+    "X": {
+      "tag": "thermal:glass/hardened"
+    }
+  },
+  "result": {
+    "item": "thermal:dynamo_output_augment"
+  }
+}

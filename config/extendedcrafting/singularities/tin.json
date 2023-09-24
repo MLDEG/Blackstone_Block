@@ -1,0 +1,10 @@
+{
+  "name": "Tin",
+  "colors": [
+    "b8d3da",
+    "a0bcc7"
+  ],
+  "ingredient": {
+    "item": "thermal:tin_ingot"
+  }
+}

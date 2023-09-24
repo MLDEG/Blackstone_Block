@@ -1,0 +1,22 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "  A  ",
+        " BCB ",
+        "PDEDP",
+        " FGF ",
+        "  H  "
+    ],
+    "key": {
+        "A": {"item": "thermal:upgrade_augment_3" },
+        "B": {"item": "kubejs:cobalt_plate" },
+        "C": {"item": "mythicbotany:alfsteel_pylon" },
+        "D": {"item": "powah:thermoelectric_plate" },
+        "E": {"item": "mekanism:steel_casing" },
+        "F": {"item": "excompressum:compressed_flint" },
+        "G": {"item": "mekanism:advanced_control_circuit" },
+        "H": {"item": "bloodmagic:etherealslate" },
+        "P": {"item": "createaddition:overcharged_casing"}
+    },
+    "result": {"item": "mekanism:osmium_compressor"}
+    }

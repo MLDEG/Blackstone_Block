@@ -1,0 +1,14 @@
+{
+  "type": "powah:energizing",
+  "ingredients": [
+	{
+	  "item": "quark:diamond_heart"
+	},
+	{"type": "forge:nbt", "item": "cagedmobs:dnasamplernetherite", "count": 1, "nbt": "{entity:\"minecraft:ender_dragon\"}" }
+  ],
+  "energy": 100000,
+  "result": {
+	"item": "draconicevolution:dragon_heart",
+	"count": 1
+  }
+}

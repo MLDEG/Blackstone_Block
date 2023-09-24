@@ -1,0 +1,21 @@
+{
+  "type": "mythicbotany:infusion",
+  "group": "infuser",
+  "output": {
+    "item": "mysticalagriculture:prosperity_shard"
+  },
+  "mana": 10000000,
+  "ingredients": [
+    {
+      "item": "mekanism:pellet_polonium"
+    },
+    {
+      "item": "cagedmobs:nether_star_fragment"
+    },
+    {
+      "item": "rftoolsbase:dimensionalshard"
+    }
+  ],
+  "fromColor": 3383987,
+  "toColor": 11455692
+}

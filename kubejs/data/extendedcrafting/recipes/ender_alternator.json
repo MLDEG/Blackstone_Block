@@ -1,0 +1,27 @@
+{
+  "type": "betterendforge:infusion",
+  "input": 
+  {
+     "item": "minecraft:ender_eye"
+  },
+  "output": "extendedcrafting:ender_alternator",
+  "time": 80,
+  "catalysts": [
+    {
+      "item": "rftoolsbase:infused_enderpearl",
+      "index": 0
+    },
+    {
+      "item": "extendedcrafting:ender_ingot",
+      "index": 3
+    },
+    {
+      "item": "extendedcrafting:ender_ingot",
+      "index": 4
+    },
+    {
+      "item": "extendedcrafting:ender_ingot",
+      "index": 5
+    }
+  ]
+}

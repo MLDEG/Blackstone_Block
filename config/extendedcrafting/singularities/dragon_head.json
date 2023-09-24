@@ -1,0 +1,10 @@
+{
+  "name": "Dragon Head",
+  "colors": [
+    "131313",
+    "860ca1"
+  ],
+  "ingredient": {
+    "item": "minecraft:dragon_head"
+  }
+}

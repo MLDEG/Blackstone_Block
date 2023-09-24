@@ -1,0 +1,21 @@
+{
+  "type": "immersivepetroleum:hydrotreater",
+  "time": 10,
+  "energy": 1024,
+  "result": {
+    "fluid": "kubejs:flux_waste",
+    "amount": 1
+  },
+  "input": {
+    "tag": "forge:diesel_sulfur",
+    "amount": 5
+  },
+  "secondary_input": {
+    "tag": "forge:molten_signalum",
+    "amount": 10
+  },
+  "secondary_result": {
+    "item": "fluxnetworks:flux_dust",
+    "chance": "0.50"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Galaxy",
+  "colors": [
+    "000000",
+    "280099"
+  ],
+  "ingredient": {
+    "item": "tinkersarchery:galaxy_alloy_ingot"
+  }
+}

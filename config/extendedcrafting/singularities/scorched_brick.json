@@ -1,0 +1,10 @@
+{
+  "name": "Scorched Brick",
+  "colors": [
+    "655449",
+    "3d2f28"
+  ],
+  "ingredient": {
+    "item": "tconstruct:scorched_brick"
+  }
+}

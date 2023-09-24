@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "thermal:lead_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:lead_dust"
+    }
+  ],
+  "processingTime": 100
+}

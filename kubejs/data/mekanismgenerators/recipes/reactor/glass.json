@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanismgenerators:reactor_glass","count":4},"pattern":["SIS","IGI","SIS"],"key":{"G":{"item":"engineersdecor:panzerglass_block"},"I":{"tag":"forge:ingots/lead"},"S":{"item":"mekanism:enriched_iron"}}}

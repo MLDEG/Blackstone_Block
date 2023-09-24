@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "tinkersarchery:crushed_tantalum"
+    }
+  ],
+  "results": [
+    {
+      "item": "tinkersarchery:tantalum_nugget",
+      "count": 10
+    },
+    {
+      "item": "tinkersarchery:tantalum_nugget",
+      "count": 5,
+      "chance": 0.5
+    }
+  ]
+}

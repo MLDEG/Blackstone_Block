@@ -1,0 +1,28 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "ores": [
+        {
+            "chance": 0.10,
+            "output": {
+                "item": "mythicbotany:elementium_ore"
+            }
+        },
+        {
+            "chance": 0.10,
+            "output": {
+                "item": "mythicbotany:dragonstone_ore"
+            }
+        },
+        {
+            "chance": 0.80,
+            "output": {
+                "item": "mythicbotany:gold_ore"
+            }
+        }
+    ],
+    "dimensions": [
+        "mythicbotany:alfheim"
+    ],
+    "weight": 0.1,
+    "fail_chance": 0.15
+}

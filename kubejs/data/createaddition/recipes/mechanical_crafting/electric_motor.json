@@ -1,0 +1,32 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+  	"  A  ",
+    " BEB ",
+    "BSRSB",
+    " BCB "
+  ],
+  "key": {
+  	"A": {
+      "item": "create:andesite_alloy"
+    },
+    "C": {
+      "item": "createaddition:heater"
+    },
+    "B": {
+      "item": "simplyjetpacks:armorplating_te2"
+    },
+    "R": {
+      "item": "engineersdecor:thin_steel_pole"
+    },
+    "S": {
+      "item": "createaddition:copper_spool"
+    },
+    "E": {
+      "item": "kubejs:integrated_circuit"
+    }
+  },
+  "result": {
+    "item": "createaddition:electric_motor"
+  }
+}

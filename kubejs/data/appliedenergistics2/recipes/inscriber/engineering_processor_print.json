@@ -1,0 +1,9 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "minecraft:diamond"},
+    {"item": "appliedenergistics2:engineering_processor_press"}
+  ],
+  "results": [{"item": "appliedenergistics2:printed_engineering_processor"}],
+  "keepHeldItem": true
+}

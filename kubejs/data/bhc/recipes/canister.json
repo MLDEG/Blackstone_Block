@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:sheetmetal_iron"
+    }
+  ],
+  "results": [
+    {
+      "item": "bhc:canister"
+    }
+  ]
+}

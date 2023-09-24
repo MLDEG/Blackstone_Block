@@ -1,0 +1,30 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_jotunheim"
+  },
+  "mana": 16000,
+  "ingredients": [
+    {
+      "item": "industrialforegoing:pink_slime_ingot"
+    },
+    {
+      "item": "kubejs:slate_ethereal"
+    },
+    {
+      "tag": "botania:runes/earth"
+    },
+    {
+      "tag": "botania:runes/autumn"
+    },
+    {
+      "tag": "botania:runes/gluttony"
+    },
+    {
+      "item": "minecraft:blackstone"
+    },
+    {
+      "item": "thermal:tar_block"
+    }
+  ]
+}

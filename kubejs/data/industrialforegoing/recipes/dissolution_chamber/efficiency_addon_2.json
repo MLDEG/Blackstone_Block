@@ -1,0 +1,36 @@
+{
+  "input": [
+    {
+      "item": "botania:bifrost_pane"
+    },
+    {
+      "item": "industrialforegoing:efficiency_addon_1"
+    },
+    {
+      "item": "botania:bifrost_pane"
+    },
+    {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    {
+      "item": "thermal:diamond_gear"
+    },
+    {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    {
+      "item": "thermal:diamond_gear"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:4000}",
+  "processingTime": 200,
+  "output": {
+    "item": "industrialforegoing:efficiency_addon_2",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Efficiency:0.8f}}"
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

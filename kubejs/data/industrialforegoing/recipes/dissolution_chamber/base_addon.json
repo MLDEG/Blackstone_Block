@@ -1,0 +1,35 @@
+{
+  "input": [
+    {
+      "item": "industrialforegoing:plastic"
+    },
+    {
+      "item": "kubejs:integrated_circuit"
+    },
+    {
+      "item": "industrialforegoing:plastic"
+    },
+    {
+      "item": "industrialforegoing:plastic"
+    },
+    {
+      "item": "industrialforegoing:plastic"
+    },
+    {
+      "item": "industrialforegoing:plastic"
+    },
+    {
+      "item": "kubejs:steel_gear"
+    },
+    {
+      "item": "industrialforegoing:plastic"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:4000}",
+  "processingTime": 200,
+  "output": {
+    "item": "kubejs:base_addon",
+    "count": 1
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

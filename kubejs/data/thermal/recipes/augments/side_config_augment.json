@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    "iGi",
+    " i "
+  ],
+  "key": {
+    "i": {
+      "item": "thermal:invar_plate"
+    },
+    "G": {
+      "item": "pipez:universal_pipe"
+    }
+  },
+  "result": {
+    "item": "thermal:side_config_augment"
+  }
+}

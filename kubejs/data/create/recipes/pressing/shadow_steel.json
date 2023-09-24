@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/shadow_steel"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:shadow_steel_plate"
+    }
+  ]
+}

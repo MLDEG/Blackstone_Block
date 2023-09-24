@@ -1,0 +1,12 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "appliedenergistics2:crafting_unit"},
+    { "item": "appliedenergistics2:16k_cell_component" }
+  ],
+  "results": [
+    {
+      "item": "appliedenergistics2:16k_crafting_storage",
+      "count": 1
+    }]
+}

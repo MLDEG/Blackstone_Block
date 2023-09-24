@@ -1,0 +1,27 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "mysticalagradditions:insanium_ingot"
+    },
+    {
+      "item": "kubejs:demonium_essence"
+    },
+    {
+      "item": "kubejs:demonium_essence"
+    },
+    {
+      "item": "kubejs:demonium_essence"
+    },
+    {
+      "item": "kubejs:demonium_essence"
+    }
+  ],
+  "output": {
+    "item": "kubejs:demonium_ingot",
+    "count": 1
+  },
+  "syphon": 100000,
+  "ticks": 60,
+  "upgradeLevel": 4
+}

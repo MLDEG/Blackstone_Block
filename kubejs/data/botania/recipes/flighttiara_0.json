@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDC",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "bloodmagic:reagentair"
+    },
+    "B": {
+      "item": "botania:life_essence"
+    },
+    "C": {"type": "forge:nbt", "item": "materialis:wrench_head", "count": 1, "nbt": "{Material:\"materialis:elementium\"}" },
+    "D": {
+      "item": "miniutilities:nether_star_opinium_core"
+    }
+  },
+  "result": {
+    "item": "botania:flight_tiara"
+  }
+}

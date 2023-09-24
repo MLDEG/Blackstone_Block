@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "torchmaster:frozen_pearl"
+    },
+    {
+      "fluid": "kubejs:mana",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:mana_pearl"
+    }
+  ]
+}

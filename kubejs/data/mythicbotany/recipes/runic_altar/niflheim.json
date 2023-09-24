@@ -1,0 +1,30 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_niflheim"
+  },
+  "mana": 16000,
+  "ingredients": [
+    {
+      "item": "industrialforegoing:pink_slime_ingot"
+    },
+    {
+      "item": "kubejs:slate_ethereal"
+    },
+    {
+      "tag": "botania:runes/water"
+    },
+    {
+      "tag": "botania:runes/winter"
+    },
+    {
+      "tag": "botania:runes/wrath"
+    },
+    {
+      "item": "minecraft:blue_ice"
+    },
+    {
+      "item": "byg:raw_pendorite_block"
+    }
+  ]
+}

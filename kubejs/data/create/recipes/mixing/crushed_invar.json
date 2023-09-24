@@ -1,0 +1,21 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:crushed_iron_ore"
+    },
+    {
+      "item": "create:crushed_iron_ore"
+    },
+    {
+      "item": "create:crushed_nickel_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:crushed_invar",
+      "count": 3
+    }
+  ],
+  "heatRequirement": "heated"
+}

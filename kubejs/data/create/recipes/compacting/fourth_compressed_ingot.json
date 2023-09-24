@@ -1,0 +1,37 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "thermal:enderium_ingot"
+      },
+      {
+        "item": "thermal:lead_ingot"
+      },
+      {
+        "item": "projectred-core:electrotine_ingot"
+      },
+      {
+        "item": "tconstruct:cobalt_ingot"
+      },
+      {
+        "item": "botania:manasteel_ingot"
+      },
+      {
+        "item": "mysticalagriculture:imperium_ingot"
+      },
+      {
+        "item": "extendedcrafting:crystaltine_ingot"
+      },
+      {
+        "item": "tconstruct:slimesteel_ingot"
+      },
+      {
+        "item": "betterendforge:thallasium_ingot"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:uci4"
+      }
+    ]
+  }

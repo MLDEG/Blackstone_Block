@@ -1,0 +1,13 @@
+{
+  "block.ironchest.iron_chest": "Brass Chest",
+  "block.ironchest.gold_chest": "Shadow Chest",
+  "block.ironchest.diamond_chest": "Refined Radiance Chest",
+  "block.ironchest.copper_chest": "Zinc Chest",
+  "block.ironchest.silver_chest": "Chromatic Chest",
+
+  "ironchest.container.iron_chest": "Brass Chest",
+  "ironchest.container.gold_chest": "Shadow Chest",
+  "ironchest.container.diamond_chest": "Refined Radiance Chest",
+  "ironchest.container.copper_chest": "Zinc Chest",
+  "ironchest.container.silver_chest": "Chromatic Chest"
+}

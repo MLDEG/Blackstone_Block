@@ -1,0 +1,18 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 10000000,
+    "powerRate": 100000,
+    "input": { "item": "appliedenergistics2:singularity" },
+    "ingredients": [
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:slime\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:brass\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:glowstone\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:rope\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:tin\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:iron\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:coal\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:blazing_crystal\"}" },
+      {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:manyullyn\"}" }
+    ],
+    "result": {"item": "kubejs:singu_vanaheim","count": 1 }
+  }

@@ -1,0 +1,14 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "tag": "tconstruct:casts/multi_use/ingot"
+  },
+  "fluid": {
+    "name": "kubejs:molten_black_iron",
+    "amount": 144
+  },
+  "result": {
+    "item": "extendedcrafting:black_iron_ingot"
+  },
+  "cooling_time": 65
+}

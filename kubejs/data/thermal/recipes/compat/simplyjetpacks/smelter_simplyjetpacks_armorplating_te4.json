@@ -1,0 +1,28 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "simplyjetpacks:armorplating_te3"},
+  "transitionalItem": {"item": "simplyjetpacks:armorplating_te3"},
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "simplyjetpacks:armorplating_te3"},
+        {"item": "kubejs:refined_radiance_plate"}
+      ],
+      "results": [{"item": "simplyjetpacks:armorplating_te3"}]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {"item": "simplyjetpacks:armorplating_te3"}
+      ],
+      "results": [
+        {"item": "simplyjetpacks:armorplating_te3"}
+      ]
+    }
+  ],
+  "results": [
+    {"item": "simplyjetpacks:armorplating_te4","count": 1}
+  ],
+  "loops": 4
+}

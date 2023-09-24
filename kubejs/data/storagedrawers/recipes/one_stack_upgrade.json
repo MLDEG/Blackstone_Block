@@ -1,0 +1,12 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {"item": "storagedrawers:upgrade_template"},
+      { "item": "minecraft:flint" }
+    ],
+    "results": [
+      {
+        "item": "storagedrawers:one_stack_upgrade",
+        "count": 1
+      }]
+  }

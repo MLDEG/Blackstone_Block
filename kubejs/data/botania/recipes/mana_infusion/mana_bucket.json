@@ -1,0 +1,10 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "minecraft:bucket"
+  },
+  "output": {
+    "item": "kubejs:mana_bucket"
+  },
+  "mana": 10000
+}

@@ -1,0 +1,37 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "result": {
+    "item": "kubejs:draconic_catalyst"
+  },
+  "catalyst": {
+    "item": "draconicevolution:awakened_core"
+  },
+  "total_energy": 256000,
+  "tier": "WYVERN",
+  "ingredients": [
+    {
+      "item": "draconicevolution:wyvern_relay_crystal"
+    },
+    {
+        "item": "draconicevolution:wyvern_relay_crystal"
+    },
+    {
+        "item": "draconicevolution:awakened_draconium_ingot"
+    },
+    {
+        "item": "draconicevolution:awakened_draconium_ingot"
+    },
+    {
+      "item": "draconicevolution:awakened_draconium_ingot"
+    },
+    {
+        "item": "draconicevolution:awakened_draconium_ingot"
+    },
+    {
+        "item": "draconicevolution:wyvern_relay_crystal"
+    },
+    {
+        "item": "draconicevolution:wyvern_relay_crystal"
+    }
+  ]
+}

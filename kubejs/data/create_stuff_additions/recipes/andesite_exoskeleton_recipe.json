@@ -1,0 +1,33 @@
+{
+  "group": "create_stuff_additions",
+  "type": "create:mechanical_crafting",
+  "pattern": [
+  	"63536",
+    "32123",
+    "34243"
+  ],
+  "key": {
+  	"1": {
+      "item": "create:precision_mechanism"
+    },
+    "2": {
+      "item": "create:andesite_casing"
+    },
+    "3": {
+      "item": "create:andesite_alloy"
+    },
+    "4": {
+      "item": "create:andesite_alloy"
+    },
+    "5": {
+      "tag": "forge:cogwheel/large"
+    },
+    "6": {
+      "tag": "forge:cogwheel"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:andesite_exoskeleton_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "mysticalagriculture:inferium_ingot"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    },
+    {
+      "item": "mysticalagriculture:prudentium_essence"
+    }
+  ],
+  "output": {
+    "item": "mysticalagriculture:prudentium_ingot",
+    "count": 1
+  },
+  "syphon": 2000,
+  "ticks": 40,
+  "upgradeLevel": 2
+}

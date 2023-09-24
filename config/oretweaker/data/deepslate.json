@@ -1,0 +1,14 @@
+{
+  "oreConfig": [
+    {
+      "ore": "quark:deepslate",
+      "filler": "minecraft:stone",
+      "minY": 0,
+      "maxY": 15,
+      "maxVeinSize": 50,
+      "spawnRate": 20.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": ["mining_dimension:mining", "OVERWORLD"]
+    }
+  ]
+}

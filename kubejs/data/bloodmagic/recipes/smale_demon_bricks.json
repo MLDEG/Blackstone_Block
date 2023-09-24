@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "bloodmagic:dungeon_tile"
+        },
+        {
+          "item": "bloodmagic:dungeon_tile"
+        },
+        {
+          "item": "bloodmagic:dungeon_tile"
+        },
+        {
+          "item": "bloodmagic:dungeon_tile"
+        }
+    ],
+    "result": {
+      "item": "bloodmagic:dungeon_smallbrick"
+    }
+  }

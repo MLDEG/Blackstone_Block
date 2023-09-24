@@ -1,0 +1,38 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:refined_radiance_plate"
+  },
+  "transitionalItem": {
+    "item": "kubejs:refined_radiance_plate"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:refined_radiance_plate"},
+        {"item": "kubejs:refined_radiance_plate"}
+      ],
+      "results": [
+        {"item": "kubejs:refined_radiance_plate"}
+      ]
+    },
+    {
+        "type": "create:pressing",
+        "ingredients": [{"item": "kubejs:refined_radiance_plate"}],
+        "results": [{"item": "kubejs:refined_radiance_plate"}]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:canister_press",
+      "count": 1,
+      "chance": 3.0
+    },
+    {
+      "item": "kubejs:refined_radiance_plate",
+      "chance": 1.0
+    }
+  ],
+  "loops": 6
+}

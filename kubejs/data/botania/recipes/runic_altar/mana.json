@@ -1,0 +1,22 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_mana"
+  },
+  "mana": 8000,
+  "ingredients": [
+    {
+      "tag": "forge:dusts/mana"
+    },
+    {
+      "tag": "forge:ingots/manasteel"
+    },
+    {"type": "forge:nbt", "item": "tconstruct:tool_binding", "count": 1, "nbt": "{Material:\"materialis:draconium\"}" },
+    {
+      "item": "botania:mana_quartz"
+    },
+    {
+      "item": "botania:mana_bottle"
+    }
+  ]
+}

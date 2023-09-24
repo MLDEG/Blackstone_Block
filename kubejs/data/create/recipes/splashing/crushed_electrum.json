@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "kubejs:crushed_electrum"
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:electrum_nugget",
+      "count": 10
+    },
+    {
+      "item": "thermal:electrum_nugget",
+      "count": 5,
+      "chance": 0.5
+    }
+  ]
+}

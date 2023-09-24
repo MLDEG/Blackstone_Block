@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/refined_radiance"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:refined_radiance_plate"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "group": "draconicmachinery",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_ingot"
+    },
+    "1": {
+      "item": "draconicevolution:draconium_core"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "4": {
+      "item": "minecraft:note_block"
+    },
+    "5": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "6": {
+      "item": "minecraft:iron_ingot"
+    },
+    "7": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "8": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "draconicmachinery:alarm",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_midgard"
+  },
+  "mana": 16000,
+  "ingredients": [
+    {
+      "item": "industrialforegoing:pink_slime_ingot"
+    },
+    {
+      "item": "kubejs:slate_ethereal"
+    },
+    {
+      "tag": "botania:runes/earth"
+    },
+    {
+      "tag": "botania:runes/spring"
+    },
+    {
+      "tag": "botania:runes/greed"
+    },
+    {
+      "item": "minecraft:grass_block"
+    },
+    {
+      "item": "thermal:slag_block"
+    }
+  ]
+}

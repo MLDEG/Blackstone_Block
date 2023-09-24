@@ -1,0 +1,35 @@
+{
+  "input": [
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "item": "rftoolsbase:machine_frame"
+    },
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "item": "cagedmobs:star_infused_netherite_block"
+    },
+    {
+      "item": "cagedmobs:star_infused_netherite_block"
+    },
+    {
+      "item": "botania:mana_diamond"
+    },
+    {
+      "item": "create:electron_tube"
+    },
+    {
+      "item": "botania:mana_diamond"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:ether_gas\",Amount:1000}",
+  "processingTime": 300,
+  "output": {
+    "item": "industrialforegoing:machine_frame_supreme",
+    "count": 1
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

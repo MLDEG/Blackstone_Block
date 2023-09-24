@@ -1,0 +1,46 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "botania:creative_pool",
+    "count": 1
+  },
+  "mana": 1000000,
+  "ingredients": [
+    {
+      "item": "botania:fabulous_pool"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    },
+    {
+      "item": "botania:mana_bottle"
+    },
+    {
+      "item": "botania:mana_bottle"
+    },
+    {
+      "item": "botania:mana_bottle"
+    },
+    {
+      "item": "botania:mana_bottle"
+    },
+    {
+      "item": "botania:mana_bottle"
+    },
+    {
+      "item": "botania:mana_bottle"
+    },
+    {
+      "item": "botania:mana_bottle"
+    },
+    {
+      "item": "botania:mana_bottle"
+    },
+    {
+      "item": "botania:mana_bottle"
+    },
+    {
+      "item": "mysticalagradditions:creative_essence"
+    }
+  ]
+}

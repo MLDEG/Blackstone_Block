@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IXI",
+    "GCG",
+    "IPI"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:bucket"
+    },
+    "G": {
+      "tag": "forge:glass"
+    },
+    "I": {
+      "tag": "minecraft:planks"
+    },
+    "P": {
+      "item": "kubejs:integrated_circuit"
+    },
+    "X": {
+      "tag": "appliedenergistics2:gears/wooden"
+    }
+  },
+  "result": {
+    "item": "thermal:device_tree_extractor"
+  }
+}

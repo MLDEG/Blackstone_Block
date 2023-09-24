@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "quark:myalite"
+        },
+        {
+          "item": "minecraft:obsidian"
+        }
+    ],
+    "result": {
+      "item": "quark:dusky_myalite"
+    }
+  }

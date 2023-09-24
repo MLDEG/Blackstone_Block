@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:biofuel_generator",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ABA",
+          "CDC",
+          "EFE"
+        ],
+        "key": {
+          "A": {
+            "item": "industrialforegoing:plastic"
+          },
+          "B": {
+            "item": "immersiveengineering:generator"
+          },
+          "C": {
+            "item": "minecraft:piston"
+          },
+          "D": {
+            "item": "industrialforegoing:machine_frame_simple"
+          },
+          "E": {
+            "item": "thermal:diamond_gear"
+          },
+          "F": {
+            "item": "industrialforegoing:biofuel_bucket"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:biofuel_generator"
+        }
+      }
+    }
+  ]
+}

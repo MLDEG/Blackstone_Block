@@ -1,0 +1,19 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 10000000,
+    "powerRate": 100000,
+    "input": { "item": "appliedenergistics2:singularity" },
+    "ingredients": [
+        {"item": "kubejs:singu_nidavellir" },
+        {"item": "kubejs:singu_niflheim" },
+        {"item": "kubejs:singu_muspelheim" },
+        {"item": "kubejs:singu_jotunheim" },
+        {"item": "kubejs:singu_midgard" },
+        {"item": "kubejs:singu_alfheim" },
+        {"item": "kubejs:singu_vanaheim" },
+        {"item": "kubejs:singu_asgard" },
+        {"item": "kubejs:singu_helheim" },
+        {"item": "kubejs:singu_ragnarok" }
+    ],
+    "result": {"item": "kubejs:eternal_singularity","count": 1 }
+  }

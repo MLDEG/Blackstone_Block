@@ -1,0 +1,10 @@
+{
+  "name": "Quartz",
+  "colors": [
+    "e2dcd3",
+    "b4a28c"
+  ],
+  "ingredient": {
+    "item": "minecraft:quartz"
+  }
+}

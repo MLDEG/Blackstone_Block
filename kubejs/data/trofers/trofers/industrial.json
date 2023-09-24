@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#e8e8e8",
+    "text": "Industrial Foregoing Trophy"
+  },
+  "animation":{
+      "type": "spinning",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1
+  },
+  "item": {
+    "item": "industrialforegoing:plastic"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#e8e8e8"
+  }
+}

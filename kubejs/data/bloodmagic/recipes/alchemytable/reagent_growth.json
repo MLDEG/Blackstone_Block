@@ -1,0 +1,20 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "botania:rune_earth"
+    },
+    {
+      "item": "betterendforge:eternal_crystal"
+    },
+    {
+      "item": "botania:overgrowth_seed"
+    }
+  ],
+  "output": {
+    "item": "bloodmagic:reagentgrowth"
+  },
+  "syphon": 8000,
+  "ticks": 200,
+  "upgradeLevel": 3
+}

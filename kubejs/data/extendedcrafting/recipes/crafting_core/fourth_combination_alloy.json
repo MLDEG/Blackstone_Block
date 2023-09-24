@@ -1,0 +1,20 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 10000000,
+    "powerRate": 1000000,
+    "input": { "item": "botania:open_bucket" },
+    "ingredients": [
+        {"item": "immersivepetroleum:napalm_bucket"},
+        {"item": "immersiveengineering:ethanol_bucket"},
+        {"item": "immersiveengineering:biodiesel_bucket"},
+        {"item": "immersiveengineering:herbicide_bucket"},
+        {"item": "immersivepetroleum:oil_bucket"},
+        {"item": "immersivepetroleum:diesel_bucket"},
+        {"item": "immersivepetroleum:diesel_sulfur_bucket"},
+        {"item": "immersivepetroleum:lubricant_bucket"},
+        {"item": "immersivepetroleum:gasoline_bucket"},
+        {"item": "immersiveengineering:creosote_bucket"}
+    ],
+    "result": {"item": "kubejs:4alloy_bucket","count": 1 }
+  }
+

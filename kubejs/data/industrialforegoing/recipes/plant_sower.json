@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:plant_sower",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ABA",
+          "CDC",
+          "EFE"
+        ],
+        "key": {
+          "A": {
+            "item": "tdelight:gildedfern_ingot"
+          },
+          "B": {
+            "item": "botanypots:botany_pot"
+          },
+          "C": {
+            "item": "minecraft:piston"
+          },
+          "D": {
+            "item": "industrialforegoing:machine_frame_simple"
+          },
+          "E": {
+            "item": "thermal:electrum_gear"
+          },
+          "F": {
+            "item": "extendedcrafting:redstone_ingot_block"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:plant_sower"
+        }
+      }
+    }
+  ]
+}

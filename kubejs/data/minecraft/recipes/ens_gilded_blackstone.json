@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xgx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "botania:pebble"
+    },
+    "g": {
+      "item": "kubejs:raw_gold"
+    }
+  },
+  "result": {
+    "item": "minecraft:gilded_blackstone"
+  }
+}

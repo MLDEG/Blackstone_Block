@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "fluid": "kubejs:mana",
+      "nbt": {},
+      "amount": 50
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:mana_glass"
+    }
+  ]
+}

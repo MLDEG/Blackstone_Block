@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "quark:shards"
+    },
+    {
+      "fluid": "kubejs:liquid_prosperity",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:prosperity_shard"
+    }
+  ]
+}

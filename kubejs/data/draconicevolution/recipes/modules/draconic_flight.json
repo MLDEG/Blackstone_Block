@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#C#",
+    "ABA",
+    "#D#"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:ingots/draconium_awakened"
+    },
+    "A": {
+      "item": "draconicevolution:wyvern_core"
+    },
+    "B": {
+      "item": "draconicevolution:wyvern_flight_module"
+    },
+    "C": {
+      "item": "mekanism:module_gravitational_modulating_unit"
+    },
+    "D": {
+      "item": "minecraft:firework_rocket"
+    }
+  },
+  "result": {
+    "item": "draconicevolution:draconic_flight_module"
+  }
+}

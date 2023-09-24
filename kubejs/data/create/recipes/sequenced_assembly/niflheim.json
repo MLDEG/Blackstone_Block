@@ -1,0 +1,39 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:livingrock_niflheim"
+  },
+  "transitionalItem": {
+    "item": "kubejs:livingrock_niflheim_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [{"item": "kubejs:livingrock_niflheim"}],
+      "results": [{"item": "kubejs:livingrock_niflheim_slab"}],
+      "processingTime": 150
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:livingrock_niflheim_slab"},
+        {"item": "kubejs:rune_mold"}
+      ],
+      "results": [
+        {"item": "mythicbotany:niflheim_rune"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "mythicbotany:niflheim_rune",
+      "count": 1,
+      "chance": 3.0
+    },
+    {
+      "item": "botania:livingrock_slab",
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

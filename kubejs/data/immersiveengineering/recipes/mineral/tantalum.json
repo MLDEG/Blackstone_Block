@@ -1,0 +1,42 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "ores": [
+        {
+            "chance": 0.70,
+            "output": {
+                "item": "tinkersarchery:tantalum_ore"
+            }
+        },
+        {
+            "chance": 0.15,
+            "output": {
+                "item": "thermal:silver_ore"
+            }
+        },
+        {
+            "chance": 0.15,
+            "output": {
+                "item": "create:zinc_ore"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 0.2,
+            "output": {
+                "item": "minecraft:gravel"
+            }
+        },
+        {
+            "chance": 0.5,
+            "output": {
+                "item": "minecraft:cobblestone"
+            }
+        }
+    ],
+    "dimensions": [
+        "mining_dimension:mining"
+    ],
+    "weight": 1,
+    "fail_chance": 0.15
+}

@@ -1,0 +1,20 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "botania:rune_mana"
+    },
+    {
+      "item": "betterendforge:eternal_crystal"
+    },
+    {
+      "item": "outvoted:void_heart"
+    }
+  ],
+  "output": {
+    "item": "bloodmagic:reagentvoid"
+  },
+  "syphon": 12000,
+  "ticks": 200,
+  "upgradeLevel": 4
+}

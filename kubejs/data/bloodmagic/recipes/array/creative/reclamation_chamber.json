@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "mysticalagradditions:creative_essence"
+  },
+  "addedinput": {
+    "item": "thermal:machine_catalyst_augment"
+  },
+  "output": {
+    "item": "thermal:machine_catalyst_creative_augment"
+  }
+}

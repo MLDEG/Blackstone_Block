@@ -1,0 +1,20 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 10000000,
+    "powerRate": 1000000,
+    "input": { "item": "botania:open_bucket" },
+    "ingredients": [
+        {"item": "tconstruct:earth_slime_bucket"},
+        {"item": "tconstruct:sky_slime_bucket"},
+        {"item": "tconstruct:ender_slime_bucket"},
+        {"item": "tconstruct:magma_bucket"},
+        {"item": "tconstruct:seared_stone_bucket"},
+        {"item": "tconstruct:scorched_stone_bucket"},
+        {"item": "tconstruct:molten_clay_bucket"},
+        {"item": "tconstruct:molten_glass_bucket"},
+        {"item": "tconstruct:liquid_soul_bucket"},
+        {"item": "tconstruct:blood_bucket"}
+    ],
+    "result": {"item": "kubejs:2alloy_bucket","count": 1 }
+  }
+

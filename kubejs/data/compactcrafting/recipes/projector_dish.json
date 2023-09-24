@@ -1,0 +1,12 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "compactmachines:wall"},
+    {"item": "immersiveengineering:floodlight"}    
+  ],
+  "results": [
+    {
+      "item": "compactcrafting:projector_dish",
+      "count": 1
+    }]
+}

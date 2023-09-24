@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "xreliquary:shears_of_winter"
+  },
+  "addition": {
+    "item": "miniutilities:unstable_ingot"
+  },
+  "result": {
+    "item": "miniutilities:precision_shears"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Niter",
+  "colors": [
+    "b8afaf",
+    "735a65"
+  ],
+  "ingredient": {
+    "item": "thermal:niter"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "extendedcrafting:combination",
+  "powerCost": 10000000,
+  "powerRate": 100000,
+  "input": { "item": "appliedenergistics2:singularity" },
+  "ingredients": [
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:blaze\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:blackstone\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:biotite\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:dimensional_shard\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:redstone\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:refined_glowstone\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:refined_obsidian\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:pink_slime_ingot\"}" },
+    {"type": "forge:nbt", "item": "extendedcrafting:singularity", "nbt": "{Id:\"extendedcrafting:obsidian\"}" }
+  ],
+  "result": {"item": "kubejs:singu_midgard","count": 1 }
+}

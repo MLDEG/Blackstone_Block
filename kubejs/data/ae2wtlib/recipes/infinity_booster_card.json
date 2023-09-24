@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " ABA ",
+    "ACDCA",
+    "EDFDE",
+    "ACDCA",
+    " AGA "
+  ],
+  "key": {
+    "A": {"item": "appliedenergistics2:quantum_ring"},
+    "B": {"item": "appliedenergistics2:wireless_receiver"},
+    "C": {"item": "appliedenergistics2:fluix_pearl"},
+    "D": {"item": "appliedenergistics2:128_cubed_spatial_cell_component"},
+    "E": {"item": "appliedenergistics2:quantum_entangled_singularity"},
+    "F": {"item": "appliedenergistics2:advanced_card"},
+    "G": {"item": "powah:ender_core"}
+  },
+  "result": {
+    "item": "ae2wtlib:infinity_booster_card"
+  }
+}

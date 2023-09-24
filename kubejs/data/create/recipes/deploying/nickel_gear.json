@@ -1,0 +1,13 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"tag": "forge:storage_blocks/nickel"},
+    {"item": "kubejs:gear_mold"}
+  ],
+  "results": [
+    {
+      "item": "thermal:nickel_gear",
+      "count": 1
+    }],
+    "keepHeldItem": true
+}

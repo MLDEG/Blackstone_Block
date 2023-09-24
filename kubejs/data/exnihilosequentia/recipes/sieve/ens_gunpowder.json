@@ -1,0 +1,23 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.07,
+      "mesh": "flint"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "diamond"
+    },
+    {
+      "chance": 0.3,
+      "mesh": "netherite"
+    }
+  ],
+  "input": {
+    "item": "exnihilosequentia:dust"
+  },
+  "result": {
+    "item": "minecraft:gunpowder"
+  }
+}

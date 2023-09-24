@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "EBE",
+    " I "
+  ],
+  "key": {
+    "P": {
+      "item": "rftoolscontrol:console_module"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "B": {
+      "item": "create:linked_controller"
+    },
+    "I": {
+      "item": "kubejs:refined_radiance_plate"
+    }
+  },
+  "result": {
+    "item": "compactmachines:personal_shrinking_device"
+  }
+}

@@ -1,0 +1,42 @@
+{
+	"type": "create:sequenced_assembly",
+	"ingredient": {
+	  "item": "kubejs:baked_chocolat_cake"
+	},
+	"transitionalItem": {
+	  "item": "kubejs:baked_chocolat_cake"
+	},
+	"sequence": [
+    {
+        "type": "create:filling",
+        "ingredients": [
+            {"item": "kubejs:baked_chocolat_cake"},
+            {"fluid": "create:chocolate","nbt": {},"amount": 250}
+        ],
+        "results": [{"item": "kubejs:baked_chocolat_cake"}]  
+    },
+	  {
+		"type": "create:deploying",
+		"ingredients": [
+		  {
+			"item": "kubejs:baked_chocolat_cake"
+		  },
+		  {
+			"item": "thermal:strawberry"
+		  }
+		],
+		"results": [
+		  {
+			"item": "kubejs:baked_chocolat_cake"
+		  }
+		]
+	  }
+	],
+	"results": [
+	  {
+		"item": "thermal:chocolate_cake",
+		"count": 1
+	  }
+	],
+	"loops": 1
+  }

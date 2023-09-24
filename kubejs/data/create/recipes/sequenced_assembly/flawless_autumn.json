@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:livingrock_autumn"
+  },
+  "transitionalItem": {
+    "item": "kubejs:livingrock_autumn_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [{"item": "kubejs:livingrock_autumn"}],
+      "results": [{"item": "kubejs:livingrock_autumn_slab"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:livingrock_autumn_slab"},
+        {"item": "kubejs:rune_mold_alt"}
+      ],
+      "results": [
+        {"item": "botania:rune_autumn"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:rune_autumn",
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

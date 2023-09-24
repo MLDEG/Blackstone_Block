@@ -1,0 +1,11 @@
+{
+"criteria":
+	{
+	"bloodmagic:enter_new_dungeon":
+		{
+		"trigger": "minecraft:changed_dimension",
+		"conditions": { "to": "bloodmagic:dungeon" }
+		}
+	},
+"rewards": { "function": "bloodmagic:enter_new_dungeon" }
+}

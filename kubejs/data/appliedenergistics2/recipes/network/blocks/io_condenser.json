@@ -1,0 +1,18 @@
+{
+  "result": {
+    "item": "appliedenergistics2:condenser"
+  },
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["aba", "bcb", "aba"],
+  "key": {
+    "b": {
+      "tag": "appliedenergistics2:glass"
+    },
+    "a": {
+      "item": "mekanism:hdpe_sheet"
+    },
+    "c": {
+      "item": "appliedenergistics2:purified_fluix_crystal"
+    }
+  }
+}

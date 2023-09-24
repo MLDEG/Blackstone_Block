@@ -1,0 +1,14 @@
+{
+  "oreConfig": [
+    {
+      "ore": "quark:limestone",
+      "filler": "minecraft:stone",
+      "minY": 100,
+      "maxY": 250,
+      "maxVeinSize": 30,
+      "spawnRate": 5,
+      "biomeBlacklist": [],
+      "biomeWhitelist": ["mining_dimension:mining", "OVERWORLD"]
+    }
+  ]
+}

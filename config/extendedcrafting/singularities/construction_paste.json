@@ -1,0 +1,10 @@
+{
+  "name": "Construction Paste",
+  "colors": [
+    "eceae4",
+    "a59a97"
+  ],
+  "ingredient": {
+    "item": "buildinggadgets:construction_paste"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "kubejs:creative_energy_core"
+  },
+  "addedinput": {
+    "item": "appliedenergistics2:dense_energy_cell"
+  },
+  "output": {
+    "item": "appliedenergistics2:creative_energy_cell"
+  }
+}

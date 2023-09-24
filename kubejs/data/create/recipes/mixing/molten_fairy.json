@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:crushed_gold_ore"
+    },
+    {
+      "fluid": "tconstruct:liquid_soul",
+      "amount": 1000
+    },
+    {
+      "fluid": "minecraft:milk",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "materialis:molten_fairy",
+      "amount": 144
+    }
+  ],
+  "heatRequirement": "heated"
+}

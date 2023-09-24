@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      " Q ",
+      "QRQ",
+      " Q "
+    ],
+    "key": {
+        "Q": {
+          "item": "bloodmagic:dungeon_emitter"
+        },
+        "R": {
+          "item": "minecraft:redstone_block"
+        }
+    },
+    "result": {
+      "item": "bloodmagic:dungeon_alternator"
+    }
+  }

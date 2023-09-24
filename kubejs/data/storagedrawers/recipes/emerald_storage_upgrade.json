@@ -1,0 +1,12 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {"item": "storagedrawers:diamond_storage_upgrade"},
+      { "item": "create:refined_radiance" }
+    ],
+    "results": [
+      {
+        "item": "storagedrawers:emerald_storage_upgrade",
+        "count": 1
+      }]
+  }

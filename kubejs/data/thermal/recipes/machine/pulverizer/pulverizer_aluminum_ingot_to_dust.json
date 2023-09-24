@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "immersiveengineering:ingot_aluminum"
+  },
+  "result": [
+    {
+      "item": "immersiveengineering:dust_aluminum",
+      "count": 1
+    }
+  ],
+  "energy_mod": 0.5
+}

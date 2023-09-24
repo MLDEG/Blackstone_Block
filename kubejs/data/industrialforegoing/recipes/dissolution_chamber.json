@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:dissolution_chamber",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ABA",
+          "CDC",
+          "EFE"
+        ],
+        "key": {
+          "A": {
+            "item": "industrialforegoing:plastic"
+          },
+          "B": {
+            "item": "bloodmagic:alchemicalreactionchamber"
+          },
+          "C": {
+            "item": "mekanism:basic_fluid_tank"
+          },
+          "D": {
+            "item": "industrialforegoing:machine_frame_pity"
+          },
+          "E": {
+            "item": "kubejs:shadow_steel_plate"
+          },
+          "F": {
+            "item": "thermal:enderium_gear"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:dissolution_chamber"
+        }
+      }
+    }
+  ]
+}

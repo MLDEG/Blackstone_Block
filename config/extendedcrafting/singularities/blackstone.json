@@ -1,0 +1,10 @@
+{
+  "name": "Blackstone",
+  "colors": [
+    "292730",
+    "150c12"
+  ],
+  "ingredient": {
+    "item": "minecraft:blackstone"
+  }
+}

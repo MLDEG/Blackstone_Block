@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "mekanism:ingot_steel"
+    },
+    {
+      "fluid": "kubejs:mana",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:manasteel_ingot"
+    }
+  ]
+}

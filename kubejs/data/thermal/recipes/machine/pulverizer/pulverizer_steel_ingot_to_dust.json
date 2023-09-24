@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "mekanism:ingot_steel"
+  },
+  "result": [
+    {
+      "item": "mekanism:dust_steel",
+      "count": 1
+    }
+  ],
+  "energy_mod": 0.5
+}

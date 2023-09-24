@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ECE",
+    "CDC",
+    "ECE"
+  ],
+  "key": {
+    "E": {
+      "item": "kubejs:demonium_essence"
+    },
+    "C": {
+      "item": "draconicevolution:large_chaos_frag"
+    },
+    "D": {
+      "tag": "forge:storage_blocks/diamond"
+    }
+  },
+  "result": {
+    "item": "kubejs:chaotic_crux"
+  }
+}

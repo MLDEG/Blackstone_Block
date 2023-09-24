@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "thermal:signalum_nugget"
+      },
+      "B": {
+        "item": "compactmachines:wall"
+      }
+    },
+    "result": {"type": "forge:nbt", "item": "compactmachines:tunnel", "count": 4, "nbt": "{definition:{id:\"compactmachines:redstone_in\"}}" }
+  }

@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "thermal:tin_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:tin_dust"
+    }
+  ],
+  "processingTime": 100
+}

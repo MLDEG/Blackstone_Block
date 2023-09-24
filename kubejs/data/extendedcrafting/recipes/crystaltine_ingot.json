@@ -1,0 +1,28 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "kubejs:purified_charged_certus_quartz_crystal"
+    },
+    {
+      "item": "bloodmagic:ingot_hellforged"
+    },
+    {
+      "item": "cagedmobs:star_infused_netherite_nugget"
+    },
+    {
+      "item": "envirocore:xerothium_wafer"
+    },
+    {
+      "fluid": "kubejs:liquid_prosperity",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "extendedcrafting:crystaltine_ingot"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

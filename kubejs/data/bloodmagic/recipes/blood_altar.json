@@ -1,0 +1,16 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {"type": "forge:nbt", "item": "tconstruct:large_plate", "count": 1, "nbt": "{Material:\"tconstruct:bloodbone\"}" },
+    "B": {"item": "createdeco:netherite_sheet_metal"},
+    "C": {"item": "botania:runic_altar"}
+  },
+  "result": {
+    "item": "bloodmagic:altar"
+  }
+}

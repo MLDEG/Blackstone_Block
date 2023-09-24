@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ingots/elementium",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ],
+  "ingredient": {
+    "tag": "forge:ores/elementium"
+  },
+  "result": {
+    "fluid": "materialis:molten_elementium",
+    "amount": 288
+  },
+  "temperature": 1160,
+  "time": 85
+}

@@ -1,0 +1,18 @@
+{"type": "compactcrafting:miniaturization","recipeSize": 3,"layers":[
+  {"type": "compactcrafting:mixed",
+  "pattern": [
+      ["B", "X", "B"],
+      ["X", "C", "X"],
+      ["B", "X", "B"]]},
+  {"type": "compactcrafting:mixed", 
+  "pattern": [
+      ["A", "A", "A"], 
+      ["A", "A", "A"], 
+      ["A", "A", "A"]]}],
+  "catalyst": {"id": "draconicevolution:draconium_core","Count": 1},
+  "components": {
+      "A": {"type": "compactcrafting:block","block": "minecraft:iron_block"}, 
+      "B": {"type": "compactcrafting:block","block": "botania:mana_diamond_block"}, 
+      "C": {"type": "compactcrafting:block","block": "draconicevolution:energy_core_stabilizer"}, 
+      "X": {"type": "compactcrafting:block","block": "minecraft:air"}},
+  "outputs": [{"id": "draconicevolution:basic_crafting_injector","Count": 1}]}

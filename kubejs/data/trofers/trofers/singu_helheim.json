@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#7da9fc",
+    "text": "Helheim Singularity Trophy"
+  },
+  "animation":{
+      "type": "tumbling",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "item": {
+    "item": "kubejs:singu_helheim"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#7da9fc"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Awakened Draconium",
+  "colors": [
+    "fc6100",
+    "d32200"
+  ],
+  "ingredient": {
+    "item": "draconicevolution:awakened_draconium_ingot"
+  }
+}

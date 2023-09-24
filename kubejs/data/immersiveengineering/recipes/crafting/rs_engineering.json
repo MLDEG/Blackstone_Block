@@ -1,0 +1,1 @@
+{"type":"immersiveengineering:turn_and_copy","pattern":["iri","rcr","iri"],"key":{"i":{"tag":"forge:sheetmetals/iron"},"c":{"item":"kubejs:integrated_circuit"},"r":{"item":"extendedcrafting:redstone_nugget"}},"result":{"item":"immersiveengineering:rs_engineering","count":1},"quarter_turn":true}

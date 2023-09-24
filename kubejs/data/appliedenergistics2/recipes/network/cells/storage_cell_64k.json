@@ -1,0 +1,12 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "appliedenergistics2:empty_storage_cell"},
+    { "item": "appliedenergistics2:64k_cell_component" }
+  ],
+  "results": [
+    {
+      "item": "appliedenergistics2:64k_storage_cell",
+      "count": 1
+    }]
+}

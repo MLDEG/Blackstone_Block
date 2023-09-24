@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:plant_gatherer",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ABA",
+          "CDC",
+          "EFE"
+        ],
+        "key": {
+          "A": {
+            "item": "immersiveengineering:plate_uranium"
+          },
+          "B": {
+            "item": "bloodmagic:reagentgrowth"
+          },
+          "C": {
+            "item": "betterendforge:aeternium_axe"
+          },
+          "D": {
+            "item": "industrialforegoing:machine_frame_advanced"
+          },
+          "E": {
+            "item": "betterendforge:aeternium_hoe"
+          },
+          "F": {
+            "item": "thermal:emerald_gear"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:plant_gatherer"
+        }
+      }
+    }
+  ]
+}

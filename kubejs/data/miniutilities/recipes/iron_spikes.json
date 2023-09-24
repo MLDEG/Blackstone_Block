@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "XYX",
+    "YZY"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_sword"
+    },
+    "Y": {
+      "tag": "forge:ingots/iron"
+    },
+    "Z": {
+      "item": "miniutilities:wooden_spikes"
+    }
+  },
+  "result": {
+    "item": "miniutilities:iron_spikes"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:ore_laser_base",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ABA",
+          "CDC",
+          "EFE"
+        ],
+        "key": {
+          "A": {
+            "item": "tconstruct:hepatizon_ingot"
+          },
+          "B": {
+            "item": "create_stuff_additions:shadow_steel_pickaxe"
+          },
+          "C": {
+            "tag": "forge:ores"
+          },
+          "D": {
+            "item": "industrialforegoing:machine_frame_supreme"
+          },
+          "E": {
+            "item": "thermal:netherite_gear"
+          },
+          "F": {
+            "item": "extendedcrafting:redstone_ingot_block"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:ore_laser_base"
+        }
+      }
+    }
+  ]
+}

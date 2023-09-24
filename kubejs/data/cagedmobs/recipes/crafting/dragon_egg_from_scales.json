@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "item": "cagedmobs:dragon_scales"
+      },
+      {
+        "item": "cagedmobs:dragon_scales"
+      },
+      {
+        "item": "cagedmobs:dragon_scales"
+      },
+      {
+        "item": "cagedmobs:dragon_scales"
+      }
+  ],
+  "result": {
+    "item": "minecraft:dragon_egg"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.05,
+      "mesh": "diamond"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "netherite"
+    }
+  ],
+  "input": {
+    "item": "minecraft:sand"
+  },
+  "result": {
+    "item": "minecraft:nautilus_shell"
+  },
+  "waterlogged": true
+}

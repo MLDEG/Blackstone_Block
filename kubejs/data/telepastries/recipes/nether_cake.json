@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:baked_soulsand_cake"
+    },
+    {
+      "fluid": "kubejs:nether_icing",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "telepastries:nether_cake"
+    }
+  ]
+}

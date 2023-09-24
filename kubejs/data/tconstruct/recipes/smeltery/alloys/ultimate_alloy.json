@@ -1,0 +1,38 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    {
+      "name": "kubejs:1alloy",
+      "amount": 10
+    },
+    {
+      "name": "kubejs:2alloy",
+      "amount": 10
+    },
+    {
+      "name": "kubejs:3alloy",
+      "amount": 10
+    },
+    {
+      "name": "kubejs:4alloy",
+      "amount": 10
+    },
+    {
+      "name": "kubejs:5alloy",
+      "amount": 10
+    },
+    {
+      "name": "kubejs:6alloy",
+      "amount": 10
+    },
+    {
+      "name": "kubejs:7alloy",
+      "amount": 10
+    }
+  ],
+  "result": {
+    "fluid": "kubejs:ultimate_alloy",
+    "amount": 1
+  },
+  "temperature": 1500
+}

@@ -1,0 +1,25 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "  L  ",
+    "RRQRR",
+    " CCC "
+  ],
+  "key": {
+    "L": {
+      "item": "kubejs:cobalt_plate"
+    },
+    "R": {
+      "tag": "forge:ingots/red_alloy"
+    },
+    "Q": {
+      "item": "immersiveengineering:circuit_board"
+    },
+    "C": {
+      "tag": "forge:nuggets/brass"
+    }
+  },
+  "result": {
+    "item": "kubejs:integrated_circuit"
+  }
+}

@@ -1,0 +1,51 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "industrialforegoing:plastic"
+    },
+    "transitionalItem": {
+      "item": "industrialforegoing:plastic"
+    },
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "industrialforegoing:plastic"
+          },
+          {
+            "item": "extendedcrafting:redstone_ingot"
+          }
+        ],
+        "results": [
+          {
+            "item": "industrialforegoing:plastic"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "industrialforegoing:plastic"
+          },
+          {
+            "item": "mekanism:enriched_gold"
+          }
+        ],
+        "results": [
+          {
+            "item": "industrialforegoing:plastic"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:empty_tier_installer",
+        "count": 1
+      }
+    ],
+    "loops": 1
+  }
+  

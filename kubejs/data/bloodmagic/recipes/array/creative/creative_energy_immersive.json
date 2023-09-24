@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "kubejs:creative_energy_core"
+  },
+  "addedinput": {
+    "item": "immersiveengineering:capacitor_hv"
+  },
+  "output": {
+    "item": "immersiveengineering:capacitor_creative"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "rftoolsbase:machine_frame"
+    }
+  ],
+  "results": [
+    {
+      "item": "rftoolsbase:machine_base"
+    }
+  ]
+}

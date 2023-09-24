@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "excompressum:compressed_end_stone"
+    }
+  ],
+  "results": [
+    {
+      "item": "excompressum:compressed_ender_gravel"
+    }
+  ],
+  "processingTime": 150
+}

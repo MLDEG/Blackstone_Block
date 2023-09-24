@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "DED"
+  ],
+  "key": {
+    "A": { "item": "kubejs:overcharged_plate" },
+    "B": { "item": "create:precision_mechanism" },
+    "C": { "item": "createaddition:overcharged_casing" },
+    "D": { "item": "createaddition:overcharged_alloy" },
+    "E": { "item": "simplyjetpacks:thruster_te4" }
+  },
+  "result": {
+    "item": "simplyjetpacks:thruster_te5",
+    "count": 1
+  }
+}

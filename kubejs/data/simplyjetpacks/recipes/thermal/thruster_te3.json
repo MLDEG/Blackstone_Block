@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "DED"
+  ],
+  "key": {
+    "A": { "item": "kubejs:shadow_steel_plate" },
+    "B": { "item": "create:precision_mechanism" },
+    "C": { "item": "create:shadow_steel_casing" },
+    "D": { "tag": "forge:ingots/shadow_steel" },
+    "E": { "item": "simplyjetpacks:thruster_te2" }
+  },
+  "result": {
+    "item": "simplyjetpacks:thruster_te3",
+    "count": 1
+  }
+}

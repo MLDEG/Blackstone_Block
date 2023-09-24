@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "Y#Y",
+    "#X#",
+    "Y#Y"
+  ],
+  "key": {
+    "Y": {
+      "tag": "forge:ingots/shadow_steel"
+    },
+    "X": {
+       "item": "ironfurnaces:silver_furnace"
+    },
+    "#": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "ironfurnaces:gold_furnace"
+  }
+}

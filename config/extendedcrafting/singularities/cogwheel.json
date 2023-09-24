@@ -1,0 +1,10 @@
+{
+  "name": "Cogwheel",
+  "colors": [
+    "7e7e7e",
+    "765835"
+  ],
+  "ingredient": {
+    "tag": "forge:cogwheel"
+  }
+}

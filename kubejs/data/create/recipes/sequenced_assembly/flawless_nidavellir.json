@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:livingrock_nidavellir"
+  },
+  "transitionalItem": {
+    "item": "kubejs:livingrock_nidavellir_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [{"item": "kubejs:livingrock_nidavellir"}],
+      "results": [{"item": "kubejs:livingrock_nidavellir_slab"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:livingrock_nidavellir_slab"},
+        {"item": "kubejs:rune_mold_alt"}
+      ],
+      "results": [
+        {"item": "mythicbotany:nidavellir_rune"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "mythicbotany:nidavellir_rune",
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

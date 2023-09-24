@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:grass_block"
+    },
+    {
+      "item": "mysticalagriculture:nature_agglomeratio"
+    },
+    {
+      "fluid": "create:honey",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:overworld_icing",
+      "amount": 1000
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,36 @@
+{
+  "input": [
+    {
+      "item": "botania:bifrost_pane"
+    },
+    {
+      "item": "kubejs:base_addon"
+    },
+    {
+      "item": "botania:bifrost_pane"
+    },
+    {
+      "item": "createdeco:iron_sheet_metal"
+    },
+    {
+      "item": "createdeco:iron_sheet_metal"
+    },
+    {
+      "item": "createdeco:iron_sheet_metal"
+    },
+    {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    {
+      "item": "createdeco:iron_sheet_metal"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:2000}",
+  "processingTime": 200,
+  "output": {
+    "item": "industrialforegoing:range_addon3",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Range:3.0f}}"
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

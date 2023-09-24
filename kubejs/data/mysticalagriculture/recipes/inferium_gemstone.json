@@ -1,0 +1,27 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "mysticalagriculture:prosperity_gemstone"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    {
+      "item": "mysticalagriculture:inferium_essence"
+    }
+  ],
+  "output": {
+    "item": "mysticalagriculture:inferium_gemstone",
+    "count": 1
+  },
+  "syphon": 1000,
+  "ticks": 40,
+  "upgradeLevel": 2
+}

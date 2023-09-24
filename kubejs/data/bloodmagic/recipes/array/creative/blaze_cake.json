@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "mysticalagradditions:creative_essence"
+  },
+  "addedinput": {
+    "item": "create:blaze_cake"
+  },
+  "output": {
+    "item": "create:creative_blaze_cake"
+  }
+}

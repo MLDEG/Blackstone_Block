@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Food",
+    "colour": "BLACK",
+    "weights": [
+      30,
+      50,
+      20,
+      10,
+      1
+    ],
+    "groups": [
+      {
+        "id": "e7816f6d-812f-40df-851c-95083c6ca752",
+        "name": "Spagetti",
+        "limit": 0,
+        "items": [
+          {
+            "id": "pamhc2foodextended:spagettiitem",
+            "Count": 8
+          }
+        ]
+      },
+      {
+        "id": "71fe05e3-4f9d-400a-a483-225b83be5244",
+        "name": "Pancake",
+        "limit": 50,
+        "items": [
+          {
+            "id": "supplementaries:pancake",
+            "Count": 16
+          }
+        ]
+      },
+      {
+        "id": "41724085-af49-4e57-a18c-4fc6ba728f3a",
+        "name": "Meatloaf",
+        "limit": 0,
+        "items": [
+          {
+            "id": "pamhc2foodcore:meatloafitem",
+            "Count": 8
+          }
+        ]
+      }
+    ]
+  }
+]

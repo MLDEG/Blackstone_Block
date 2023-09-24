@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:andesite"
+    },
+    {
+      "fluid": "tconstruct:molten_zinc",
+      "nbt": {},
+      "amount": 16
+    }
+  ],
+  "results": [
+    {
+      "item": "create:andesite_alloy"
+    }
+  ],
+  "heatRequirement": "heated"
+}

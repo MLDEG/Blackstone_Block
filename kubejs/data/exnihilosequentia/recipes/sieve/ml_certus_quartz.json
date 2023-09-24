@@ -1,0 +1,27 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.10,
+      "mesh": "iron"
+    },
+    {
+      "chance": 0.10,
+      "mesh": "diamond"
+    },
+    {
+      "chance": 0.30,
+      "mesh": "emerald"
+    },
+    {
+      "chance": 0.50,
+      "mesh": "netherite"
+    }
+  ],
+  "input": {
+    "item": "kubejs:crushed_sky_stone"
+  },
+  "result": {
+    "item": "appliedenergistics2:certus_quartz_crystal"
+  }
+}

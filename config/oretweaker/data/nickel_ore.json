@@ -1,0 +1,14 @@
+{
+  "oreConfig": [
+    {
+      "ore": "thermal:nickel_ore",
+      "filler": "minecraft:stone",
+      "minY": 30,
+      "maxY": 60,
+      "maxVeinSize": 4,
+      "spawnRate": 3.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": ["mining_dimension:mining", "OVERWORLD"]
+    }
+  ]
+}

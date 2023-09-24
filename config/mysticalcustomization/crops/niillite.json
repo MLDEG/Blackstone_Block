@@ -1,0 +1,13 @@
+{
+  "name": "Niillite",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_niillite",
+    "essence": "mysticalagriculture:item/essence_niillite",
+    "seeds": "mysticalagriculture:item/niillite_seeds"
+  }
+}

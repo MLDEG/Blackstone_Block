@@ -1,0 +1,13 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"tag": "forge:storage_blocks/enderium"},
+    {"item": "kubejs:gear_mold"}
+  ],
+  "results": [
+    {
+      "item": "thermal:enderium_gear",
+      "count": 1
+    }],
+    "keepHeldItem": true
+}

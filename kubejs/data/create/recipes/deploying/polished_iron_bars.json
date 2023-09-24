@@ -1,0 +1,13 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {"item": "minecraft:iron_bars"},
+      {"item": "kubejs:insanium_paper"}
+    ],
+    "results": [
+      {
+        "item": "createdeco:polished_iron_bars",
+        "count": 1
+      }],
+      "keepHeldItem": true
+  }

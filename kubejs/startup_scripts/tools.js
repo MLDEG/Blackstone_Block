@@ -1,0 +1,16 @@
+onEvent('item.modification', e => {
+	e.modify([
+		//Picks
+		'minecraft:wooden_pickaxe', 'minecraft:stone_pickaxe', 'betterendforge:thallasium_pickaxe', 'betterendforge:terminite_pickaxe', 'botania:manasteel_pick', 'minecraft:netherite_pickaxe', 'minecraft:diamond_pickaxe', 'minecraft:iron_pickaxe', 'minecraft:golden_pickaxe', 'create_stuff_additions:blazing_pickaxe', 'byg:pendorite_pickaxe', 'appliedenergistics2:nether_quartz_pickaxe', 'appliedenergistics2:certus_quartz_pickaxe', 'betterendforge:aeternium_pickaxe', 'botania:glass_pickaxe', 'create_stuff_additions:copper_pickaxe', 'create_stuff_additions:zinc_pickaxe', 'botania:elementium_pickaxe', 'create_stuff_additions:brass_pickaxe', 'immersiveengineering:pickaxe_steel',
+		//Axes
+		'minecraft:wooden_axe', 'minecraft:stone_axe', 'minecraft:golden_axe', 'minecraft:iron_axe', 'minecraft:diamond_axe', 'minecraft:netherite_axe', 'appliedenergistics2:certus_quartz_axe', 'appliedenergistics2:nether_quartz_axe', 'betterendforge:aeternium_axe', 'betterendforge:thallasium_axe', 'betterendforge:terminite_axe', 'botania:manasteel_axe', 'botania:elementium_axe', 'create_stuff_additions:brass_axe', 'create_stuff_additions:zinc_axe', 'create_stuff_additions:copper_axe', 'create_stuff_additions:blazing_axe', 'byg:pendorite_axe', 'immersiveengineering:axe_steel',
+		//Shovels
+		'minecraft:wooden_shovel', 'minecraft:stone_shovel', 'minecraft:golden_shovel', 'minecraft:iron_shovel', 'minecraft:diamond_shovel', 'minecraft:netherite_shovel', 'appliedenergistics2:certus_quartz_shovel', 'appliedenergistics2:nether_quartz_shovel', 'betterendforge:aeternium_shovel', 'immersiveengineering:shovel_steel', 'betterendforge:thallasium_shovel', 'betterendforge:terminite_shovel', 'botania:manasteel_shovel', 'botania:elementium_shovel', 'create_stuff_additions:brass_shovel', 'create_stuff_additions:zinc_shovel', 'create_stuff_additions:copper_shovel', 'create_stuff_additions:blazing_shovel', 'byg:pendorite_shovel',
+		//Hoes
+		'minecraft:wooden_hoe', 'minecraft:stone_hoe', 'minecraft:golden_hoe', 'minecraft:iron_hoe', 'minecraft:diamond_hoe', 'minecraft:netherite_hoe', 'appliedenergistics2:certus_quartz_hoe', 'appliedenergistics2:nether_quartz_hoe', 'betterendforge:aeternium_hoe', 'betterendforge:thallasium_hoe', 'betterendforge:terminite_hoe', 'botania:manasteel_hoe', 'botania:elementium_hoe', 'create_stuff_additions:brass_hoe', 'create_stuff_additions:zinc_hoe', 'create_stuff_additions:copper_hoe', 'immersiveengineering:hoe_steel', 'byg:pendorite_hoe',
+		//Swords
+		'minecraft:wooden_sword', 'minecraft:stone_sword', 'minecraft:golden_sword', 'minecraft:iron_sword', 'minecraft:diamond_sword', 'minecraft:netherite_sword', 'appliedenergistics2:certus_quartz_sword', 'appliedenergistics2:nether_quartz_sword', 'betterendforge:aeternium_sword', 'betterendforge:thallasium_sword', 'betterendforge:terminite_sword', 'botania:manasteel_sword', 'botania:elementium_sword', 'create_stuff_additions:brass_sword', 'create_stuff_additions:zinc_sword', 'create_stuff_additions:copper_sword', 'immersiveengineering:sword_steel', 'byg:pendorite_sword'
+	], item => {
+	  item.maxDamage = 1
+	})
+  })

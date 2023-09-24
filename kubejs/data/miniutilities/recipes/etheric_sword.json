@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "mysticalagriculture:inferium_sword"
+  },
+  "addition": {
+    "item": "miniutilities:unstable_ingot"
+  },
+  "result": {
+    "item": "miniutilities:etheric_sword"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "byg:brimstone"
+  },
+  "result": "quark:brimstone",
+  "experience": 0.1,
+  "cookingtime": 100
+}

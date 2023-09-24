@@ -1,0 +1,22 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+      " AAA ",
+      "ABCBA",
+      "ADEFA",
+      "ABGBA",
+      " AAA "
+    ],
+    "key": {
+      "A": {"type": "forge:nbt", "item": "tconstruct:large_plate", "count": 1, "nbt": "{Material:\"tinkersarchery:galaxy_alloy\"}" },
+      "B": {"item": "bloodmagic:ingot_hellforged"},
+      "C": {"item": "bloodmagic:corrosivecrystal"},
+      "D": {"item": "bloodmagic:destructivecrystal"},
+      "E": {"item": "bloodmagic:crystalline_resonator"},
+      "F": {"item": "bloodmagic:vengefulcrystal"},
+      "G": {"item": "bloodmagic:steadfastcrystal"}
+    },
+    "result": {
+      "item": "kubejs:infinite_resonator"
+    }
+  }

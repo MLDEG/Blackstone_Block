@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:livingrock_mana"
+  },
+  "transitionalItem": {
+    "item": "kubejs:livingrock_mana_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [{"item": "kubejs:livingrock_mana"}],
+      "results": [{"item": "kubejs:livingrock_mana_slab"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:livingrock_mana_slab"},
+        {"item": "kubejs:rune_mold_alt"}
+      ],
+      "results": [
+        {"item": "botania:rune_mana"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:rune_mana",
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

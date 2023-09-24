@@ -1,0 +1,21 @@
+{
+	"x": -100,
+	"y": 60,
+	"width": 200,
+	"height": 26,
+	"langKey": "fml.menu.mods",
+	"action": "OPEN_GUI",
+	"data": "MODS",
+	"u": 0,
+	"v": 0,
+	"hoverU": 0,
+	"hoverV": 26,
+	"texWidth": 200,
+	"texHeight": 52,
+	"texture": "blackstoneblock:textures/buttonmods.png",
+	"fontColor": 16777215,
+	"hoverFontColor": 14732061,
+	"dropShadow": true,
+	"textXOffset": 0,
+	"textYOffset": -4
+}

@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "kubejs:crushed_bronze"
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:bronze_nugget",
+      "count": 10
+    },
+    {
+      "item": "thermal:bronze_nugget",
+      "count": 5,
+      "chance": 0.5
+    }
+  ]
+}

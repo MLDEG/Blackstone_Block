@@ -1,0 +1,30 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "tconstruct:blood_congealed_slime"
+    },
+    {
+      "item": "thermal:gunpowder_mushroom_spores"
+    },
+    {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    {
+      "item": "botania:gaia_ingot"
+    },
+    {
+      "item": "botania:rune_wrath"
+    },
+    {
+      "item": "botania:phantom_ink"
+    }
+  ],
+  "output": {
+    "item": "bloodmagic:arcaneashes",
+    "nbt": "{Damage:0}"
+  },
+  "syphon": 2500,
+  "ticks": 200,
+  "upgradeLevel": 2
+}

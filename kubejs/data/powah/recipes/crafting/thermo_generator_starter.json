@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"iii",
+	"cdc",
+	"pXp"
+  ],
+  "key": {
+	"c": {
+	  "item": "powah:capacitor_basic"
+	},
+	"i": {
+	  "item": "powah:dielectric_paste"
+	},
+	"p": {
+	  "item": "powah:thermoelectric_plate"
+	},
+	"d": {
+	  "item": "powah:dielectric_casing"
+	},
+	"X": {
+	  "item": "mekanism:ultimate_control_circuit"
+	}
+  },
+  "result": {
+	"item": "powah:thermo_generator_starter"
+  }
+}

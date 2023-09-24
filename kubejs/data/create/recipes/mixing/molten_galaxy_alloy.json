@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "tconstruct:molten_emerald",
+      "amount": 144
+    },
+    {
+      "fluid": "tinkersarchery:molten_tantalum",
+      "amount": 288
+    },
+    {
+      "item": "minecraft:soul_sand"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tinkersarchery:molten_galaxy_alloy",
+      "amount": 432
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Cobalt Tantalum",
+  "type": "resource",
+  "tier": "mysticalagriculture:4",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_cobalt_tantalum",
+    "essence": "mysticalagriculture:item/essence_cobalt_tantalum",
+    "seeds": "mysticalagriculture:item/cobalt_tantalum_seeds"
+  }
+}

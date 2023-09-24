@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "TXT",
+    "IGI"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gears/iron"
+    },
+    "T": {
+      "tag": "forge:plates/tin"
+    },
+    "I": {
+      "tag": "forge:plates/invar"
+    },
+    "X": {
+      "item": "thermal:redstone_servo"
+    }
+  },
+  "result": {
+    "item": "thermal:area_radius_augment"
+  }
+}

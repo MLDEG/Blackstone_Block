@@ -1,0 +1,13 @@
+{
+  "name": "Cinnabar",
+  "type": "resource",
+  "tier": "mysticalagriculture:2",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_cinnabar",
+    "essence": "mysticalagriculture:item/essence_cinnabar",
+    "seeds": "mysticalagriculture:item/cinnabar_seeds"
+  }
+}

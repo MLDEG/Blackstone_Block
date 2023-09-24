@@ -1,0 +1,10 @@
+{
+  "name": "Hepatizon",
+  "colors": [
+    "5e4769",
+    "1d0627"
+  ],
+  "ingredient": {
+    "item": "tconstruct:hepatizon_ingot"
+  }
+}

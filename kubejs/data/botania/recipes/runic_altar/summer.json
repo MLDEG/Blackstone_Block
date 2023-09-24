@@ -1,0 +1,27 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_summer"
+  },
+  "mana": 8000,
+  "ingredients": [
+    {
+      "tag": "botania:runes/earth"
+    },
+    {
+      "tag": "botania:runes/air"
+    },
+    {
+      "item": "mob_grinding_utils:delightful_dirt"
+    },
+    {
+      "tag": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    },
+    {
+      "item": "pamhc2foodextended:pinacoladaitem"
+    }
+  ]
+}

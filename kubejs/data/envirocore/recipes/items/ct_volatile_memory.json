@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iri",
+    "ili",
+    "iri"
+  ],
+  "key": {
+    "i": {
+      "item": "kubejs:shadow_steel_plate"
+    },
+    "r": {
+      "item": "rftoolscontrol:ram_chip"
+    },
+    "l": {
+      "item": "envirocore:litherite_crystal"
+    }
+  },
+  "result": {
+    "item": "envirocore:volatile_memory",
+    "count": 1
+  }
+}

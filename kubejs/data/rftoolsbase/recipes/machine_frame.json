@@ -1,0 +1,19 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "  A  ",
+    " BCB ",
+    "ACDCA",
+    " BCB ",
+    "  A  "
+  ],
+  "key": {
+    "A": {"item": "immersiveengineering:component_steel" },
+    "B": {"item": "immersiveengineering:ingot_hop_graphite"},
+    "C": {"item": "rftoolsbase:infused_diamond"},
+    "D": {"item": "industrialforegoing:machine_frame_advanced"}
+  },
+  "result": {
+    "item": "rftoolsbase:machine_frame"
+  }
+}

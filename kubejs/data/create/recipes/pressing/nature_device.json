@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "botania:glimmering_livingwood"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:natura_device"
+    }
+  ]
+}

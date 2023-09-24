@@ -1,0 +1,20 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.05,
+      "mesh": "emerald"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "netherite"
+    }
+  ],
+  "input": {
+    "item": "minecraft:sand"
+  },
+  "result": {
+    "item": "minecraft:turtle_egg"
+  },
+  "waterlogged": true
+}

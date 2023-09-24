@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "mekanism:fluorite_gem"
+    }
+  ],
+  "results": [
+    {
+      "item": "mekanism:dust_fluorite"
+    }
+  ],
+  "processingTime": 100
+}

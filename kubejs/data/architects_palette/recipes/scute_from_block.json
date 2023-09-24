@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "architects_palette:scute_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:scute"
+    }
+}

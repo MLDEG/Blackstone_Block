@@ -1,0 +1,39 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:livingrock_envy"
+  },
+  "transitionalItem": {
+    "item": "kubejs:livingrock_envy_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [{"item": "kubejs:livingrock_envy"}],
+      "results": [{"item": "kubejs:livingrock_envy_slab"}],
+      "processingTime": 150
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:livingrock_envy_slab"},
+        {"item": "kubejs:rune_mold"}
+      ],
+      "results": [
+        {"item": "botania:rune_envy"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:rune_envy",
+      "count": 1,
+      "chance": 3.0
+    },
+    {
+      "item": "botania:livingrock_slab",
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

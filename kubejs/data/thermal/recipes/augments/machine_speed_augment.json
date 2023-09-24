@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ILI",
+    "EXE",
+    "ILI"
+  ],
+  "key": {
+    "E": {
+      "tag": "forge:plates/electrum"
+    },
+    "L": {
+      "tag": "forge:gears/netherite"
+    },
+    "I": {
+      "tag": "forge:plates/invar"
+    },
+    "X": {
+      "item": "thermal:rf_coil"
+    }
+  },
+  "result": {
+    "item": "thermal:machine_speed_augment"
+  }
+}

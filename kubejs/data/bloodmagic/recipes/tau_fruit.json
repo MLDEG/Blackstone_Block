@@ -1,0 +1,21 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+      " ABA ",
+      "ACDCA",
+      "EDFDE",
+      "ACDCA",
+      " AEA "
+    ],
+    "key": {
+      "A": {"item": "bloodmagic:ritualstone"},
+      "B": {"item": "bloodmagic:ritualdiviner"},
+      "C": {"item": "pamhc2trees:dragonfruititem"},
+      "D": {"item": "bloodmagic:dungeon_emitter"},
+      "E": {"item": "bloodmagic:dungeon_alternator"},
+      "F": {"item": "bloodmagic:masterritualstone"}
+    },
+    "result": {
+      "item": "bloodmagic:weak_tau"
+    }
+  }

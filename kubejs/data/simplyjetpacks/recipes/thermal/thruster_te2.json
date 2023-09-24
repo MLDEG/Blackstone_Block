@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "DED"
+  ],
+  "key": {
+    "A": { "tag": "forge:plates/brass" },
+    "B": { "item": "create:precision_mechanism" },
+    "C": { "item": "create:brass_casing" },
+    "D": { "tag": "forge:ingots/brass" },
+    "E": { "item": "simplyjetpacks:thruster_te1" }
+  },
+  "result": {
+    "item": "simplyjetpacks:thruster_te2",
+    "count": 1
+  }
+}

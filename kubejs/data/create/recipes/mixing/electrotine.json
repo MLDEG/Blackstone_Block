@@ -1,0 +1,17 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "fluid": "kubejs:electrified_water",
+        "nbt": {},
+        "amount": 10
+      }
+    ],
+    "results": [
+      {
+        "item": "projectred-core:electrotine_dust",
+        "count": 1
+      }
+    ],
+    "heatRequirement": "superheated"
+  }

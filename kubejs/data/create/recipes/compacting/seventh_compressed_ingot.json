@@ -1,0 +1,37 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tconstruct:manyullyn_ingot"
+      },
+      {
+        "item": "draconicevolution:draconium_ingot"
+      },
+      {
+        "item": "cagedmobs:star_infused_netherite_ingot"
+      },
+      {
+        "item": "mekanism:ingot_refined_obsidian"
+      },
+      {
+        "item": "byg:pendorite_ingot"
+      },
+      {
+        "item": "immersiveengineering:ingot_hop_graphite"
+      },
+      {
+        "item": "extendedcrafting:black_iron_ingot"
+      },
+      {
+        "item": "minecraft:netherite_ingot"
+      },
+      {
+        "item": "tinkersarchery:galaxy_alloy_ingot"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:uci7"
+      }
+    ]
+  }

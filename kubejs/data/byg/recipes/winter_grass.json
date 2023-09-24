@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "minecraft:snowball"
+        },
+        {
+          "item": "minecraft:grass"
+        }
+    ],
+    "result": {
+      "item": "byg:winter_grass"
+    }
+  }

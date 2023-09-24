@@ -1,0 +1,8 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "kubejs:item/singu_asgard",
+        "layer1": "kubejs:item/singu_asgard_overlay",
+        "layer2": "kubejs:item/combined_singularity_mask"
+    }
+}

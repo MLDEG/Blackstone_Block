@@ -1,0 +1,37 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "tdelight:hamletite_ingot"
+      },
+      {
+        "item": "extendedcrafting:redstone_ingot"
+      },
+      {
+        "item": "projectred-core:red_ingot"
+      },
+      {
+        "item": "mysticalagriculture:supremium_ingot"
+      },
+      {
+        "item": "thermal:signalum_ingot"
+      },
+      {
+        "item": "draconicevolution:awakened_draconium_ingot"
+      },
+      {
+        "item": "thermal:bronze_ingot"
+      },
+      {
+        "item": "thermal:copper_ingot"
+      },
+      {
+        "item": "mysticalagriculture:tertium_ingot"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:uci1"
+      }
+    ]
+  }

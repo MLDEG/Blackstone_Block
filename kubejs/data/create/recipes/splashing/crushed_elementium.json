@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "mythicbotany:crushed_elementium"
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:elementium_nugget",
+      "count": 10
+    },
+    {
+      "item": "botania:elementium_nugget",
+      "count": 5,
+      "chance": 0.5
+    }
+  ]
+}

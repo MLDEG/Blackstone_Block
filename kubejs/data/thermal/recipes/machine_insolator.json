@@ -1,0 +1,22 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "  A  ",
+    " BCB ",
+    "PDEDP",
+    " FGF ",
+    "  H  "
+  ],
+  "key": {
+    "A": {"item": "botania:corporea_index" },
+    "B": {"tag": "forge:gears/lumium" },
+    "C": {"item": "bloodmagic:tauoil" },
+    "D": {"item": "botania:light_relay" },
+    "E": {"item": "thermal:machine_frame" },
+    "F": {"item": "thermal:lumium_glass" },
+    "G": {"item": "thermal:slime_mushroom_spores" },
+    "H": {"item": "thermal:rf_coil" },
+    "P": {"item": "simplyjetpacks:armorplating_te4"}
+  },
+  "result": {"item": "thermal:machine_insolator"}
+}

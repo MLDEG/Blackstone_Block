@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "COC",
+    "O#O",
+    "COC"
+  ],
+  "key": {
+    "#": {
+      "item": "powah:ender_core"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "C": {
+      "tag": "forge:chests/wooden"
+    }
+  },
+  "result": {
+    "item": "entangled:block"
+  }
+}

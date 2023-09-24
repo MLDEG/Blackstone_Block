@@ -1,0 +1,24 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_earth"
+  },
+  "mana": 5200,
+  "ingredients": [
+    {
+      "tag": "forge:dusts/mana"
+    },
+    {
+      "tag": "forge:ingots/manasteel"
+    },
+    {
+      "item": "mysticalagriculture:earth_agglomeratio"
+    },
+    {
+      "item": "minecraft:grass_block"
+    },
+    {
+      "item": "minecraft:wheat"
+    }
+  ]
+}

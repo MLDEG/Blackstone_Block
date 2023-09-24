@@ -1,0 +1,26 @@
+{
+  "type": "excompressum:compressed_hammer",
+  "input": {
+    "item":"kubejs:compressed_black_gravel"
+  },
+  "lootTable": {
+    "type": "minecraft:block",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:dirt",
+            "functions": [
+              {
+                "function": "minecraft:set_count",
+                "count": 9
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

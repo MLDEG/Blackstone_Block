@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:ingot_aluminum"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:dust_aluminum"
+    }
+  ],
+  "processingTime": 100
+}

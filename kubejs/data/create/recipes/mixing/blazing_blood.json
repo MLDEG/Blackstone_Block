@@ -1,0 +1,20 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "powah:crystal_blazing"
+    },
+    {
+      "fluid": "minecraft:lava",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:blazing_blood",
+      "amount": 250
+    }
+  ],
+  "heatRequirement": "heated"
+}

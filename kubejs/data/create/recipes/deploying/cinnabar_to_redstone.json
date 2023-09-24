@@ -1,0 +1,13 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {"item": "thermal:cinnabar_dust"},
+      {"item": "kubejs:insanium_paper"}
+    ],
+    "results": [
+      {
+        "item": "minecraft:redstone",
+        "count": 1
+      }],
+      "keepHeldItem": true
+  }

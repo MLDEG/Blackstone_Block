@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+    	"igi",
+        "gbg",
+        "igi"
+    ],
+    "key":{
+        "i":{"tag":"forge:ingots/brass"},
+        "b":{"tag":"forge:barrels/copper"},
+        "g":{"tag":"forge:glass"}
+    },
+    "result":{"item":"metalbarrels:iron_barrel"}
+}

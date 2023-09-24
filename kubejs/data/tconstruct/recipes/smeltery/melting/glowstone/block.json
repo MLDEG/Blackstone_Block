@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:storage_blocks/glowstone"
+    },
+    [{
+      "tag": "chisel:glowstone"
+    }]
+  ],
+  "result": {
+    "fluid": "thermal:glowstone",
+    "amount": 1000
+  },
+  "temperature": 637,
+  "time": 110
+}

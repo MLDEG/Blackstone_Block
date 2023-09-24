@@ -1,0 +1,10 @@
+{
+  "name": "Fluix",
+  "colors": [
+    "8f5ccb",
+    "252f5a"
+  ],
+  "ingredient": {
+    "item": "appliedenergistics2:fluix_crystal"
+  }
+}

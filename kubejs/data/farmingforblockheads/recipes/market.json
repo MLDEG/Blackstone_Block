@@ -1,0 +1,25 @@
+{
+  "result": {
+    "item": "farmingforblockheads:market"
+  },
+  "type": "crafting_shaped",
+  "pattern": [
+    "PCP",
+    "WIW",
+    "WWW"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:red_wool"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "W": {
+      "tag": "minecraft:logs"
+    },
+    "I": {
+      "item": "miniutilities:emerald_opinium_core"
+    }
+  }
+}

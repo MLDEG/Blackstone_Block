@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "matc:imperium_crystal"
+    },
+    {
+      "fluid": "mysticalagradditions:molten_supremium",
+      "amount": 864
+    }
+  ],
+  "results": [
+    {
+      "item": "matc:supremium_crystal"
+    }
+  ]
+}

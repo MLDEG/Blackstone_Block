@@ -1,0 +1,24 @@
+{
+    "controllerId": "barrel",
+    "name": "Barrel",
+    "textureOverride": "immersiveengineering:block/wooden_device/barrel_side",
+    "ports": [
+        {
+            "type": "masterfulmachinery:items",
+            "name": "Items",
+            "id": "items",
+            "data": {
+                "rows": 2,
+                "columns": 2
+            }
+        },
+        {
+            "type": "masterfulmachinery:fluids",
+            "name": "Fluid",
+            "id": "fluid",
+            "data": {
+                "capacity": 10000
+            }
+        }
+    ]
+}

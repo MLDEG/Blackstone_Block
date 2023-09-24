@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "D D"
+  ],
+  "key": {
+    "A": { "tag": "forge:ingots/refined_radiance" },
+    "B": { "item": "createaddition:electric_motor" },
+    "C": { "item": "simplyjetpacks:jetpack_te3" },
+    "D": { "item": "simplyjetpacks:thruster_te4" }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_te4",
+    "count": 1
+  }
+}

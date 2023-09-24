@@ -1,0 +1,23 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "tag": "forge:ores/tantalum"
+    }
+  ],
+  "results": [
+    {
+      "item": "tinkersarchery:crushed_tantalum"
+    },
+    {
+      "item": "tinkersarchery:crushed_tantalum",
+      "count": 2,
+      "chance": 0.3
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 300
+}

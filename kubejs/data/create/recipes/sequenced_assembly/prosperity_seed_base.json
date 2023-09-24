@@ -1,0 +1,46 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:wheat_seeds"
+  },
+  "transitionalItem": {
+    "item": "minecraft:wheat_seeds"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "minecraft:wheat_seeds"},
+        {"item": "mysticalagriculture:prosperity_shard"}
+      ],
+      "results": [
+        {"item": "minecraft:wheat_seeds"}
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {"item": "minecraft:wheat_seeds"}
+      ],
+      "results": [
+        {"item": "minecraft:wheat_seeds"}
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "mysticalagriculture:prosperity_seed_base",
+      "count": 1,
+      "chance": 25.0
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard",
+      "chance": 2.0
+    },
+    {
+      "item": "minecraft:wheat_seeds",
+      "chance": 2.0
+    }
+  ],
+  "loops": 4
+}

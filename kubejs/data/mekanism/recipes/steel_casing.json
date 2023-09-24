@@ -1,0 +1,73 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "thermal:machine_frame"
+    },
+    "transitionalItem": {
+      "item": "thermal:machine_frame"
+    },
+    "sequence": [
+        {
+          "type": "create:deploying",
+          "ingredients": [
+            {
+              "item": "thermal:machine_frame"
+            },
+            {
+              "item": "create:super_glue"
+            }
+          ],
+          "results": [
+            {
+              "item": "thermal:machine_frame"
+            }
+          ]
+        },
+        {
+          "type": "create:deploying",
+          "ingredients": [
+            {
+              "item": "thermal:machine_frame"
+            },
+            {
+              "item": "thermal:rich_slag"
+            }
+          ],
+          "results": [
+            {
+              "item": "thermal:machine_frame"
+            }
+          ]
+        },
+        {
+          "type": "create:deploying",
+          "ingredients": [
+            {
+              "item": "thermal:machine_frame"
+            },
+            {"type": "forge:nbt", "item": "tconstruct:large_plate", "nbt": "{Material:\"tconstruct:steel\"}" }
+          ],
+          "results": [
+            {
+              "item": "thermal:machine_frame"
+            }
+          ]
+        },
+        {
+          "type": "create:pressing",
+          "ingredients": [
+            {"item": "thermal:machine_frame"}
+          ],
+          "results": [
+            {"item": "thermal:machine_frame"}
+          ]
+        }
+    ],
+    "results": [
+      {
+        "item": "mekanism:steel_casing",
+        "count": 1
+      }
+    ],
+    "loops": 4
+  }

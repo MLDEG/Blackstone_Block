@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "matc:inferium_crystal"
+    },
+    {
+      "fluid": "mysticalagradditions:molten_prudentium",
+      "amount": 864
+    }
+  ],
+  "results": [
+    {
+      "item": "matc:prudentium_crystal"
+    }
+  ]
+}

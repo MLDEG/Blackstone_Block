@@ -1,0 +1,37 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+      {
+        "item": "botania:gaia_ingot"
+      },
+      {
+        "item": "tconstruct:rose_gold_ingot"
+      },
+      {
+        "item": "tconstruct:pig_iron_ingot"
+      },
+      {
+        "item": "industrialforegoing:pink_slime_ingot"
+      },
+      {
+        "item": "materialis:fairy_ingot"
+      },
+      {
+        "item": "tdelight:rosenquartz_ingot"
+      },
+      {
+        "item": "botania:elementium_ingot"
+      },
+      {
+        "item": "tconstruct:hepatizon_ingot"
+      },
+      {
+        "item": "mysticalagriculture:soulium_ingot"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:uci6"
+      }
+    ]
+  }

@@ -1,0 +1,74 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:integrated_circuit"
+  },
+  "transitionalItem": {
+    "item": "kubejs:integrated_circuit"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:integrated_circuit"
+        },
+        {
+          "item": "create:brass_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:integrated_circuit"
+        }
+      ]
+    },
+    {
+        "type": "create:filling",
+        "ingredients": [
+            {"item": "kubejs:integrated_circuit"},
+            {"fluid": "thermal:redstone","nbt": {},"amount": 1000}
+        ],
+        "results": [{"item": "kubejs:integrated_circuit"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:integrated_circuit"
+        },
+        {
+          "item": "create:brass_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:integrated_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kubejs:integrated_circuit"
+        },
+        {
+          "item": "thermal:diamond_gear"
+        }
+      ],
+      "results": [
+        {
+          "item": "kubejs:integrated_circuit"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:upgrade_augment_1",
+      "count": 1
+    }
+  ],
+  "loops": 2
+}

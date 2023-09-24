@@ -1,0 +1,1389 @@
+{
+  "name": "The Progression Line",
+  "quests": [
+    {
+      "uuid": "6d6129cb-6e81-46d8-9885-41027545c5f0",
+      "name": "Thermal Machine Frame",
+      "description": "Thermal Machine Frame",
+      "x": 156,
+      "y": 145,
+      "icon": {
+        "id": "thermal:machine_frame",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Thermal Machine Frame is used to craft the Thermal Series machines and the Mekanism Steel Casing.",
+          "items": [
+            {
+              "item": {
+                "id": "thermal:machine_frame",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "2515739f-6f7c-4119-8aa2-63024f576193"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "createaddition:overcharged_alloy",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d7b689f6-59ee-4ee0-ace5-5c53cab6184f",
+      "name": "Black Iron Ingot",
+      "description": "Black Iron Ingot",
+      "x": 199,
+      "y": 14,
+      "icon": {
+        "id": "extendedcrafting:black_iron_ingot",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Simply cast Molten Black Iron in an Ingot Cast to get Black Iron ingots.\nThis ingot is used in every Extended Crafting Machine crafts.",
+          "items": [
+            {
+              "item": {
+                "id": "extendedcrafting:black_iron_ingot",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "dabc6785-b1d8-4ea3-b4a5-4f9e53cec67a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "extendedcrafting:black_iron_ingot",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7d83cfc5-87d9-4dfc-8b78-a7c8ade419b5",
+      "name": "The Ethereal Slate",
+      "description": "The Ethereal Slate",
+      "x": 33,
+      "y": 113,
+      "icon": {
+        "id": "bloodmagic:etherealslate",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Ethereal Slate is used to craft Mekanism machines and make MythicBotany Runes.",
+          "items": [
+            {
+              "item": {
+                "id": "bloodmagic:etherealslate",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "9d5ba1be-84ac-4eab-9b21-6cfafb018a23"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "bloodmagic:etherealslate",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ba107e9d-a046-4ecb-bf3a-0dc9db8e0f7a",
+      "name": "Turn the heat ON",
+      "description": "Turn the heat ON",
+      "x": 66,
+      "y": 13,
+      "icon": {
+        "id": "create:blaze_burner",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To get a Blaze Burner you need to capture a Blaze with an Empty Blaze Burner.\nWith it, you can start to processing alloys, make Distilled Water, get Netherite, make your icing for TelePastries and begin Botania.",
+          "items": [
+            {
+              "item": {
+                "id": "create:blaze_burner",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7a59e3a6-cdd3-4ffb-9864-7ba8555e042b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "outvoted:wildfire_piece",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0c97f597-31b3-448d-833d-1ea795dae737",
+      "name": "The Integrated Circuit",
+      "description": "The Integrated Circuit",
+      "x": 100,
+      "y": 47,
+      "icon": {
+        "id": "kubejs:integrated_circuit",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "With the help of Mechanical Crafter, you can make integrated circuits, which are used in the main blocks of Immersive.",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:integrated_circuit",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "ba107e9d-a046-4ecb-bf3a-0dc9db8e0f7a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "projectred-core:red_ingot",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e15e1694-2c6e-4467-abc6-f7ab589c6c78",
+      "name": "Void Miner",
+      "description": "Void Miner",
+      "x": 199,
+      "y": 139,
+      "icon": {
+        "id": "envirotech:litherite_void_miner_ccu",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Litherite Void Miner is the first tier of Void Miner and need Plastic to get made.\nYou are going to need to go through all the tier of Environmental Tech to get the Xerothium.",
+          "items": [
+            {
+              "item": {
+                "id": "envirotech:litherite_void_miner_ccu",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "db0a84d4-bfe8-4b67-821a-23e295c31309"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "envirocore:litherite",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2515739f-6f7c-4119-8aa2-63024f576193",
+      "name": "Supreme Machine Frame",
+      "description": "Supreme Machine Frame",
+      "x": 168,
+      "y": 113,
+      "icon": {
+        "id": "industrialforegoing:machine_frame_supreme",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Supreme Machine Frame is used to auto spawn the wither Boss, craft the Mob Duplicator and make the Machine Frame from Thermal Series.",
+          "items": [
+            {
+              "item": {
+                "id": "industrialforegoing:machine_frame_supreme",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b9a4df6a-aa7c-4bf8-a254-69a7dc342ce4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "industrialforegoing:ether_gas_bucket",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "95897869-1df2-43fb-aadd-0d8f427bc38c",
+      "name": "The Pity Machine Frame",
+      "description": "The Pity Machine Frame",
+      "x": 168,
+      "y": 13,
+      "icon": {
+        "id": "industrialforegoing:machine_frame_pity",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Pity Machine Frame is manly use to craft the Simple Machine Frame, but you can make some machine with it, like the Latex Processing Unit, Dissolution Chamber, Fluid and Block Placer, also the Item and Fluid Transporter.",
+          "items": [
+            {
+              "item": {
+                "id": "industrialforegoing:machine_frame_pity",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "302b707b-d847-4cd6-888c-adafe66e4317"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "extendedcrafting:redstone_ingot_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "dabc6785-b1d8-4ea3-b4a5-4f9e53cec67a",
+      "name": "Molten Black Iron",
+      "description": "Molten Black Iron",
+      "x": 199,
+      "y": 58,
+      "icon": {
+        "id": "kubejs:molten_black_iron_bucket",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To get the Molten Black Iron you need to mix Sulfuric Acid, Molten Netherite, Aethium Powder, Dirty Iron Dust and HOP Graphite Dust with a Blaze Burner Super-Heated !",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:molten_black_iron_bucket",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b9bed65e-5f34-4ce6-aa2c-890079a06b45"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "kubejs:molten_black_iron_bucket",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "59850d82-1f15-4408-a122-af49ca44c87b",
+      "name": "Infinite Dimension",
+      "description": "Infinite Dimension",
+      "x": 286,
+      "y": 13,
+      "bigicon": true,
+      "icon": {
+        "id": "rftoolsdim:empty_dimension_tab",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Empty Dimension Tab is used to create dimension with RFTools, but you need first to beat the hell out of the Chaos Guardian !\n\nGood Luck, you\u0027re gonna need it.",
+          "items": [
+            {
+              "item": {
+                "id": "rftoolsdim:empty_dimension_tab",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "d2a50fac-9d3a-484f-ba95-d8e1132f714a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "draconicevolution:large_chaos_frag",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "37174a27-074c-4738-bcb2-eda2d75bd7d8",
+      "name": "Now prosperity",
+      "description": "Now prosperity",
+      "x": 20,
+      "y": 179,
+      "bigicon": true,
+      "icon": {
+        "id": "mysticalagriculture:prosperity_shard",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Yes, the Prosperity Shard is WAY too expensive, but you can duplicate this shard infinitely and finally start getting resources through Mystical Agriculture.",
+          "items": [
+            {
+              "item": {
+                "id": "mysticalagriculture:prosperity_shard",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "a6ed5b81-3b00-4082-bd03-8f531810d90e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "kubejs:prosperity_dust",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b1506a5c-ede5-4699-a967-f0d4454c8e16",
+      "name": "Blast Furnace",
+      "description": "Blast Furnace",
+      "x": 100,
+      "y": 13,
+      "icon": {
+        "id": "immersiveengineering:blast_furnace",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "With your Blast Furnace, you can begin making Steel.",
+          "items": [
+            {
+              "item": {
+                "id": "immersiveengineering:blastbrick",
+                "Count": 1
+              },
+              "required": 27
+            },
+            {
+              "item": {
+                "id": "mekanism:ingot_steel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "ba107e9d-a046-4ecb-bf3a-0dc9db8e0f7a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mekanism:ingot_steel",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "302b707b-d847-4cd6-888c-adafe66e4317",
+      "name": "The Heavy Engineering Block",
+      "description": "The Heavy Engineering Block",
+      "x": 134,
+      "y": 13,
+      "icon": {
+        "id": "immersiveengineering:heavy_engineering",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Heavy engineering Block is used to make Pity Machine Frame.",
+          "items": [
+            {
+              "item": {
+                "id": "immersiveengineering:heavy_engineering",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b1506a5c-ede5-4699-a967-f0d4454c8e16",
+        "0c97f597-31b3-448d-833d-1ea795dae737"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "kubejs:integrated_circuit",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "58d91b6f-3066-4d41-b420-a2568a5f9263",
+      "name": "Beautiful flowers",
+      "description": "Beautiful flowers",
+      "x": 66,
+      "y": 50,
+      "icon": {
+        "id": "botania:fertilizer",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Floral Fertilizer is used to make Botania Flowers on Grass Block.",
+          "items": [
+            {
+              "item": {
+                "id": "botania:fertilizer",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "ba107e9d-a046-4ecb-bf3a-0dc9db8e0f7a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:bone_block",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9d5ba1be-84ac-4eab-9b21-6cfafb018a23",
+      "name": "Time to bleed",
+      "description": "Time to bleed",
+      "x": 19,
+      "y": 83,
+      "icon": {
+        "id": "bloodmagic:altar",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To progress through Botania and get to the Alfheim dimension, you need to go deep into Blood Magic.",
+          "items": [
+            {
+              "item": {
+                "id": "bloodmagic:altar",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "73c2591a-4050-475f-a4e8-38c8ae1dd531"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "bloodmagic:life_essence_bucket",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "73c2591a-4050-475f-a4e8-38c8ae1dd531",
+      "name": "Living Stuff",
+      "description": "Living Stuff",
+      "x": 31,
+      "y": 50,
+      "icon": {
+        "id": "botania:livingrock",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To get livingrock and livingwood, you have to go to the end and find the right biome that has ether stone and ether wood.",
+          "items": [
+            {
+              "item": {
+                "id": "botania:livingrock",
+                "Count": 1
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "botania:livingwood",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "58d91b6f-3066-4d41-b420-a2568a5f9263"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "botania:livingrock",
+          "Count": 16
+        },
+        {
+          "id": "botania:livingwood",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d9e89ef7-98ab-461b-b18c-6fb2c8cefaff",
+      "name": "Me Controller",
+      "description": "Me Controller",
+      "x": 286,
+      "y": 111,
+      "bigicon": true,
+      "icon": {
+        "id": "appliedenergistics2:controller",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The holy grail of Applied. Lot of effort to get one of these, but the game is worth the candle.",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:controller",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6d9f0eda-15ea-4feb-b468-703c93f4af97"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "appliedenergistics2:64k_storage_cell",
+          "Count": 1,
+          "tag": "{}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a6ed5b81-3b00-4082-bd03-8f531810d90e",
+      "name": "Finally Polonium",
+      "description": "Finally Polonium",
+      "x": 83,
+      "y": 182,
+      "icon": {
+        "id": "mekanism:pellet_polonium",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Now that you are in the Alfheim dimension, you can finally use the sun to turn on the Solar Neutron Activator and make Polonium !",
+          "items": [
+            {
+              "item": {
+                "id": "mekanism:pellet_polonium",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "cf6e3e85-5e62-4e7c-8c56-9101ec35673d",
+        "55a878f2-1b2e-4de4-ad20-61d4be9e8d0d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mekanism:pellet_polonium",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "bdd8b62e-7d9e-4b8e-aacc-305042ab7733",
+      "name": "Suck the tree juice",
+      "description": "Suck the tree juice",
+      "x": 137,
+      "y": 66,
+      "icon": {
+        "id": "thermal:device_tree_extractor",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "With the Arboreal Extractor you can suck the juice from tree, Latex, Resin or Sap.",
+          "items": [
+            {
+              "item": {
+                "id": "thermal:device_tree_extractor",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "0c97f597-31b3-448d-833d-1ea795dae737"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:jungle_sapling",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "db0a84d4-bfe8-4b67-821a-23e295c31309",
+      "name": "Plastic is Fantastic",
+      "description": "Plastic is Fantastic",
+      "x": 199,
+      "y": 182,
+      "icon": {
+        "id": "mekanism:hdpe_sheet",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "HDPE is used in Plastic Block, very important for the end game of Blackstone Block.",
+          "items": [
+            {
+              "item": {
+                "id": "mekanism:hdpe_sheet",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "55a878f2-1b2e-4de4-ad20-61d4be9e8d0d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mekanism:hdpe_sheet",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "bbfbe51d-0e9c-4ca1-a95d-ef05e87ccd59",
+      "name": "Tar Tar",
+      "description": "Tar Tar",
+      "x": 127,
+      "y": 116,
+      "icon": {
+        "id": "thermal:machine_pyrolyzer",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Pyrolyzer is used to process Coal and Bitumen to get Tar.\nTar is a key ingredient to start using Powah mod !",
+          "items": [
+            {
+              "item": {
+                "id": "thermal:machine_pyrolyzer",
+                "Count": 1
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "thermal:tar",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6d6129cb-6e81-46d8-9885-41027545c5f0"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "thermal:tar",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "071a3269-1d69-4561-8178-84972c663354",
+      "name": "Singularities madness",
+      "description": "Singularities madness",
+      "x": 240,
+      "y": 33,
+      "bigicon": true,
+      "icon": {
+        "id": "extendedcrafting:compressor",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Quantum Compressor is only used to make Singularities.",
+          "items": [
+            {
+              "item": {
+                "id": "extendedcrafting:compressor",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "d7b689f6-59ee-4ee0-ace5-5c53cab6184f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "extendedcrafting:black_iron_slate",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b9a4df6a-aa7c-4bf8-a254-69a7dc342ce4",
+      "name": "RFTools Machine Frame",
+      "description": "RFTools Machine Frame",
+      "x": 168,
+      "y": 80,
+      "icon": {
+        "id": "rftoolsbase:machine_frame",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Machine Frame give you access to fast and powerful auto crafters, the Builder, Xnet and the Supreme Machine Frame.",
+          "items": [
+            {
+              "item": {
+                "id": "rftoolsbase:machine_frame",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b4d06a6c-ba5e-476a-a4a9-55b4b8625109"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "immersiveengineering:ingot_hop_graphite",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "01b37186-0e22-434b-b281-f2fd597ab373",
+      "name": "It\u0027s POWAH",
+      "description": "It\u0027s POWAH",
+      "x": 95,
+      "y": 142,
+      "bigicon": true,
+      "icon": {
+        "id": "powah:dielectric_paste",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Using the Crushing Wheel from Create, you can get Dielectric paste from Tar and start Powah.",
+          "items": [
+            {
+              "item": {
+                "id": "powah:dielectric_paste",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "bbfbe51d-0e9c-4ca1-a95d-ef05e87ccd59"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "powah:dielectric_paste",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0224dbad-2efc-422c-b59f-9ae925717cf4",
+      "name": "Latex",
+      "description": "Latex",
+      "x": 102,
+      "y": 83,
+      "icon": {
+        "id": "thermal:latex_bucket",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To obtain a bucket of latex you need to suck the juice from a Jungle Tree.",
+          "items": [
+            {
+              "item": {
+                "id": "thermal:latex_bucket",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "bdd8b62e-7d9e-4b8e-aacc-305042ab7733"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "thermal:latex_bucket",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cf6e3e85-5e62-4e7c-8c56-9101ec35673d",
+      "name": "The Alfheim dimension",
+      "description": "The Alfheim dimension",
+      "x": 60,
+      "y": 146,
+      "icon": {
+        "id": "mythicbotany:alfheim_rune",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "LOCATION",
+          "longDescription": "Simply go to the Alfheim dimension.",
+          "locations": [
+            {
+              "name": "Go to Alfheim",
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "dim": "mythicbotany:alfheim",
+              "radius": -1,
+              "visible": "LOCATION",
+              "icon": {
+                "id": "mythicbotany:alfheim_rune",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "d32843ac-16de-4e8a-beef-4ea023387b99"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicbotany:alfsteel_armor_upgrade",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d2a50fac-9d3a-484f-ba95-d8e1132f714a",
+      "name": "Dra Ko Nik",
+      "description": "Dra Ko Nik",
+      "x": 274,
+      "y": 63,
+      "icon": {
+        "id": "draconicevolution:draconium_core",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Craft your first Draconic core with Plastic, matter ball, Molten Draconium and finally Xerothium !",
+          "items": [
+            {
+              "item": {
+                "id": "draconicevolution:draconium_core",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "4cd93524-414f-4b68-96e5-83d98219864a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "draconicevolution:draconium_core",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "54cc96c6-3df1-465f-b225-256d7141bb43",
+      "name": "Get moving stuff !",
+      "description": "Get moving stuff !",
+      "x": 66,
+      "y": 100,
+      "bigicon": true,
+      "icon": {
+        "id": "create:belt_connector",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To get a Mechanical Belt you need to cook Rubber and combine 6 Cured Rubber together.\nGet your Rubber by compacting Latex in a Basin.",
+          "items": [
+            {
+              "item": {
+                "id": "create:belt_connector",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "0224dbad-2efc-422c-b59f-9ae925717cf4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "create:belt_connector",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7a59e3a6-cdd3-4ffb-9864-7ba8555e042b",
+      "name": "Your first Andesite Alloy",
+      "description": "Your first Andesite Alloy",
+      "x": 19,
+      "y": 10,
+      "bigicon": true,
+      "icon": {
+        "id": "create:andesite_alloy",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To obtain your first Andesite Alloy, and start playing with Create, you need to pour Molten Iron, or Zinc, on an Andesite Block.",
+          "items": [
+            {
+              "item": {
+                "id": "create:andesite_alloy",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "dd19662b-37d3-415a-b00f-a1f314163b21"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "excompressum:compressed_andesite",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6d9f0eda-15ea-4feb-b468-703c93f4af97",
+      "name": "Singularity",
+      "description": "Singularity",
+      "x": 289,
+      "y": 182,
+      "icon": {
+        "id": "appliedenergistics2:singularity",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "You can pump fluid into the Matter Condenser to get the Singularity way faster.",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:singularity",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "51b59d1f-e90b-42fe-8d62-3467ce270b86"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "appliedenergistics2:singularity",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4cd93524-414f-4b68-96e5-83d98219864a",
+      "name": "Xerothium Crystal",
+      "description": "Xerothium Crystal",
+      "x": 243,
+      "y": 110,
+      "icon": {
+        "id": "envirocore:xerothium_crystal",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Get through all tier of Environmental Tech to obtain the Xerothium in the End.\nIt\u0027s a gate to go into Draconic Evolution.",
+          "items": [
+            {
+              "item": {
+                "id": "envirocore:xerothium_crystal",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "e15e1694-2c6e-4467-abc6-f7ab589c6c78"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "envirocore:xerothium_crystal",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "55a878f2-1b2e-4de4-ad20-61d4be9e8d0d",
+      "name": "Steel Casing",
+      "description": "Steel Casing",
+      "x": 156,
+      "y": 182,
+      "icon": {
+        "id": "mekanism:steel_casing",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Steel Casing is used to make all powerful Mekanism machines !",
+          "items": [
+            {
+              "item": {
+                "id": "mekanism:steel_casing",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6d6129cb-6e81-46d8-9885-41027545c5f0"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "create:super_glue",
+          "Count": 1,
+          "tag": "{Damage:0}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "51b59d1f-e90b-42fe-8d62-3467ce270b86",
+      "name": "Matter Condenser",
+      "description": "Matter Condenser",
+      "x": 242,
+      "y": 182,
+      "icon": {
+        "id": "appliedenergistics2:condenser",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Matter Condenser is used to get Matter Ball and Singularity, which are used to form the ME Controller.",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:condenser",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "db0a84d4-bfe8-4b67-821a-23e295c31309"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "kubejs:canister_press",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b9bed65e-5f34-4ce6-aa2c-890079a06b45",
+      "name": "Aethium Powder",
+      "description": "Aethium Powder",
+      "x": 199,
+      "y": 102,
+      "icon": {
+        "id": "envirocore:aethium_powder",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Aethium Crystal is the last crystal you can farm in the overworld (the other is in the End dimension now).\nYou need to crush the crystal in the Crushing Wheel to get its powders.\nThis powder is a key ingredient to make Molten Black Iron.",
+          "items": [
+            {
+              "item": {
+                "id": "envirocore:aethium_crystal",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "envirocore:aethium_powder",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "e15e1694-2c6e-4467-abc6-f7ab589c6c78"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "envirocore:aethium",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b4d06a6c-ba5e-476a-a4a9-55b4b8625109",
+      "name": "Advanced Machine Frame",
+      "description": "Advanced Machine Frame",
+      "x": 168,
+      "y": 47,
+      "icon": {
+        "id": "industrialforegoing:machine_frame_advanced",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Advanced Machine Frame is used to craft Generator, Fluid Laser Base, Mob Crusher, Material StoneWork Factory and make the Machine Frame from RFTools.",
+          "items": [
+            {
+              "item": {
+                "id": "industrialforegoing:machine_frame_advanced",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "95897869-1df2-43fb-aadd-0d8f427bc38c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "cagedmobs:star_infused_netherite_ingot",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d32843ac-16de-4e8a-beef-4ea023387b99",
+      "name": "The way to Alfheim",
+      "description": "The way to Alfheim",
+      "x": 23,
+      "y": 146,
+      "icon": {
+        "id": "mythicbotany:kvasir_mead",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "In order to enter the Alfeim dimension, you need to make a sacrifice by making a Ritual with the Rune Tablet of Fimbultyr.\nSacrifice a Wandering Trader.",
+          "items": [
+            {
+              "item": {
+                "id": "mythicbotany:kvasir_mead",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7d83cfc5-87d9-4dfc-8b78-a7c8ade419b5"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "mythicbotany:alfsteel_ingot",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "In this page you\u0027re going to find how the progression is made in this pack."
+}

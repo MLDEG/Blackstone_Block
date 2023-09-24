@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","result":{"item":"mekanism:radioactive_waste_barrel"},"pattern":["ABA","CDC","ABA"],"key":{"A":{"item":"immersiveengineering:plate_steel"},"B":{"type": "forge:nbt", "item": "tconstruct:large_plate", "count": 1, "nbt": "{Material:\"tconstruct:lead\"}" },"C":{"item":"byg:yellow_nether_brick"},"D":{"item":"engineersdecor:sign_radioactive"}}}

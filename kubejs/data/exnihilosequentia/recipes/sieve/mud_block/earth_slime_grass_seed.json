@@ -1,0 +1,27 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.01,
+      "mesh": "iron"
+    },
+    {
+      "chance": 0.05,
+      "mesh": "diamond"
+    },
+    {
+      "chance": 0.05,
+      "mesh": "emerald"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "netherite"
+    }
+  ],
+  "input": {
+    "item": "byg:mud_block"
+  },
+  "result": {
+    "item": "tconstruct:earth_slime_grass_seeds"
+  }
+}

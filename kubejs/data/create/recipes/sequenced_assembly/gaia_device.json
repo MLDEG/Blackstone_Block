@@ -1,0 +1,43 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "botania:elementium_block"
+  },
+  "transitionalItem": {
+    "item": "botania:elementium_block"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "botania:elementium_block"
+        },
+        {
+          "item": "botania:dragonstone"
+        }
+      ],
+      "results": [
+        {
+          "item": "botania:elementium_block"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:gaia_device",
+      "count": 1,
+      "chance": 30.0
+    },
+    {
+      "item": "botania:elementium_nugget",
+      "chance": 2.0
+    },
+    {
+      "item": "botania:dragonstone",
+      "chance": 2.0
+    }
+  ],
+  "loops": 1
+}

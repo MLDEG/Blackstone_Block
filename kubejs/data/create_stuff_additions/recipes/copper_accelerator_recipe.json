@@ -1,0 +1,31 @@
+{
+  "group": "create_stuff_additions",
+  "type": "create:mechanical_crafting",
+          "pattern": [
+            "ZKZ",
+			"PRP",
+			"C C",
+			"P P"
+        ],
+        "key": {
+			"Z": {
+                "tag": "forge:cogwheel"
+            },
+            "K": {
+                "item": "create:precision_mechanism"
+            },
+            "P": {
+                "tag": "forge:ingots/copper" 
+            },
+            "R": {
+                "tag": "forge:plates/copper"          
+            },
+			"C": {
+                "item": "create:copper_casing"
+            }
+        },
+  "result": {
+    "item": "create_stuff_additions:copper_accelerator_leggings",
+    "count": 1
+  }
+}

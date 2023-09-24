@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "tconstruct:sky_slime_ball"
+    },
+    {
+      "fluid": "tconstruct:molten_iron",
+      "amount": 144
+    },
+    {
+      "fluid": "tconstruct:seared_stone",
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_slimesteel",
+      "amount": 288
+    }
+  ],
+  "heatRequirement": "superheated"
+}

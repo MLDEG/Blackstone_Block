@@ -1,0 +1,34 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "kubejs:steel_gear"
+    },
+    "transitionalItem": {
+      "item": "kubejs:steel_gear"
+    },
+    "sequence": [
+        {
+          "type": "create:deploying",
+          "ingredients": [
+            {
+              "item": "kubejs:steel_gear"
+            },
+            {
+              "tag": "forge:plates/steel"
+            }
+          ],
+          "results": [
+            {
+              "item": "kubejs:steel_gear"
+            }
+          ]
+        }
+    ],
+    "results": [
+      {
+        "item": "immersiveengineering:component_steel",
+        "count": 1
+      }
+    ],
+    "loops": 4
+}

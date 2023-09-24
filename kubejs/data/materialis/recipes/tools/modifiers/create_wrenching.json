@@ -1,0 +1,53 @@
+{
+  "type": "tconstruct:modifier",
+  "conditions": [
+    {
+      "modid": "create",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "inputs": [
+    {
+      "tag": "forge:cogwheel"
+    },
+    {
+      "item": "create:wrench"
+    },
+    {
+      "tag": "forge:cogwheel"
+    }
+  ],
+  "tools": {
+    "type": "mantle:intersection",
+    "ingredients": [
+      {
+        "tag": "tconstruct:modifiable/durability"
+      },
+      {
+        "tag": "tconstruct:modifiable/interactable"
+      }
+    ]
+  },
+  "slots": {
+    "upgrades": 1
+  },
+  "requirements": {
+    "options": [
+      {
+        "name": "materialis:wrenching",
+        "level": 1
+      },
+      {
+        "name": "materialis:wrenching_hidden",
+        "level": 1
+      }
+    ],
+    "matches_needed": 1,
+    "error": "recipe.materialis.modifier.create_wrenching_requirements"
+  },
+  "result": {
+    "name": "materialis:create_wrenching",
+    "level": 1
+  },
+  "max_level": 1
+}

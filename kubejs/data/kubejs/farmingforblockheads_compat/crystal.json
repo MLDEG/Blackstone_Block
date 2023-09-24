@@ -1,0 +1,21 @@
+{
+  "customCategories": {
+    "corundum": {
+      "name": "Corundum",
+      "icon": {
+        "item": "quark:red_crystal_cluster"
+      }
+    }
+  },
+  "customEntries": [
+    {"output": {"item": "quark:red_crystal_cluster"},"payment": {"item": "betterendforge:crystal_shards","count": 8},"category": "corundum"},
+    {"output": {"item": "quark:orange_crystal_cluster"},"payment": {"item": "betterendforge:crystal_shards","count": 8},"category": "corundum"},
+    {"output": {"item": "quark:yellow_crystal_cluster"},"payment": {"item": "betterendforge:crystal_shards","count": 8},"category": "corundum"},
+    {"output": {"item": "quark:green_crystal_cluster"},"payment": {"item": "betterendforge:crystal_shards","count": 8},"category": "corundum"},
+    {"output": {"item": "quark:blue_crystal_cluster"},"payment": {"item": "betterendforge:crystal_shards","count": 8},"category": "corundum"},
+    {"output": {"item": "quark:indigo_crystal_cluster"},"payment": {"item": "betterendforge:crystal_shards","count": 8},"category": "corundum"},
+    {"output": {"item": "quark:violet_crystal_cluster"},"payment": {"item": "betterendforge:crystal_shards","count": 8},"category": "corundum"},
+    {"output": {"item": "quark:white_crystal_cluster"},"payment": {"item": "betterendforge:crystal_shards","count": 8},"category": "corundum"},
+    {"output": {"item": "quark:black_crystal_cluster"},"payment": {"item": "betterendforge:crystal_shards","count": 8},"category": "corundum"}
+  ]
+}

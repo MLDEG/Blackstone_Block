@@ -1,0 +1,21 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    " AAA ",
+    "ABCBA",
+    "ADEDA",
+    "ADFDA",
+    " AAA "
+  ],
+  "key": {
+    "A": {"item": "minecraft:gold_block"},
+    "B": {"item": "xreliquary:angelic_feather"},
+    "C": {"item": "minecraft:elytra"},
+    "D": {"item": "miniutilities:gold_opinium_core"},
+    "E": {"item": "simplyjetpacks:jetpack_te5_enderium"},
+    "F": {"item": "mekanism:crystal_gold"}
+  },
+  "result": {
+    "item": "miniutilities:angel_ring"
+  }
+}

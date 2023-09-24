@@ -1,0 +1,12 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "A",
+        "B"
+    ],
+    "key": {
+        "A": {"item": "kubejs:empty_tier_installer"},
+        "B": {"item": "kubejs:elite_tier_card"}
+    },
+    "result": {"item": "mekanism:elite_tier_installer"}
+    }

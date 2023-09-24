@@ -1,0 +1,27 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "mysticalagriculture:prosperity_ingot"
+    },
+    {
+      "item": "mysticalagriculture:soulium_dust"
+    },
+    {
+      "item": "mysticalagriculture:soulium_dust"
+    },
+    {
+      "item": "mysticalagriculture:soulium_dust"
+    },
+    {
+      "item": "mysticalagriculture:soulium_dust"
+    }
+  ],
+  "output": {
+    "item": "mysticalagriculture:soulium_ingot",
+    "count": 1
+  },
+  "syphon": 1000,
+  "ticks": 40,
+  "upgradeLevel": 2
+}

@@ -1,0 +1,9 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "appliedenergistics2:silicon"},
+    {"item": "appliedenergistics2:silicon_press"}
+  ],
+  "results": [{"item": "appliedenergistics2:printed_silicon"}],
+  "keepHeldItem": true
+}

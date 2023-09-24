@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#C#",
+    "X#X"
+  ],
+  "key": {
+    "#":  {
+      "item": "mysticalagradditions:insanium_essence"
+    },
+    "C": {
+      "item": "mysticalagriculture:master_infusion_crystal"
+    },
+    "X": {
+      "item": "extendedcrafting:the_ultimate_ingot"
+    }
+  },
+  "result": {
+    "item": "kubejs:demonium_essence"
+  }
+}

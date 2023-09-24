@@ -1,0 +1,10 @@
+{
+  "name": "Chorus Fruit",
+  "colors": [
+    "a17fa0",
+    "5d2d5b"
+  ],
+  "ingredient": {
+    "item": "minecraft:chorus_fruit"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_fire"
+  },
+  "mana": 5200,
+  "ingredients": [
+    {
+      "tag": "forge:dusts/mana"
+    },
+    {
+      "tag": "forge:ingots/manasteel"
+    },
+    {
+      "item": "mysticalagriculture:fire_agglomeratio"
+    },
+    {
+      "item": "supplementaries:magma_cream_block"
+    },
+    {
+      "item": "minecraft:nether_wart"
+    }
+  ]
+}

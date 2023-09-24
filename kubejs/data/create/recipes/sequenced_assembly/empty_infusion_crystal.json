@@ -1,0 +1,48 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "mysticalagriculture:prosperity_gemstone"
+  },
+  "transitionalItem": {
+    "item": "mysticalagriculture:prosperity_gemstone"
+  },
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [{"item": "mysticalagriculture:prosperity_gemstone"}],
+      "results": [{"item": "mysticalagriculture:prosperity_gemstone"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "mysticalagriculture:prosperity_gemstone"},
+        {"item": "appliedenergistics2:charged_certus_quartz_crystal"}
+      ],
+      "results": [{"item": "mysticalagriculture:prosperity_gemstone"}]
+    },
+    {
+        "type": "create:filling",
+        "ingredients": [
+            {"item": "mysticalagriculture:prosperity_gemstone"},
+            {"fluid": "envirocore:distilled_water","nbt": {},"amount": 1000}
+        ],
+        "results": [{"item": "mysticalagriculture:prosperity_gemstone"}]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:empty_infusion_crystal",
+      "count": 1,
+      "chance": 25.0
+    },
+    {
+      "item": "mysticalagriculture:prosperity_shard",
+      "chance": 5.0
+    },
+    {
+      "item": "mysticalagriculture:prosperity_gemstone",
+      "chance": 0.2
+    }
+  ],
+  "loops": 4
+}

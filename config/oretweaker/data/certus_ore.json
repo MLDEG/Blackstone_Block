@@ -1,0 +1,14 @@
+{
+  "oreConfig": [
+    {
+      "ore": "appliedenergistics2:quartz_ore",
+      "filler": "minecraft:stone",
+      "minY": 10,
+      "maxY": 60,
+      "maxVeinSize": 6,
+      "spawnRate": 5.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": ["mining_dimension:mining", "OVERWORLD"]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "createaddition:capacitor"},
+    {"item": "create:polished_rose_quartz"}
+  ],
+  "results": [
+    {
+      "item": "create:electron_tube",
+      "count": 1
+    }]
+}

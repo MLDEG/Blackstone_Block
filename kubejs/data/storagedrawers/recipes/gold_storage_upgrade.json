@@ -1,0 +1,12 @@
+{
+    "type": "create:deploying",
+    "ingredients": [
+      {"item": "storagedrawers:iron_storage_upgrade"},
+      { "item": "create:chromatic_compound" }
+    ],
+    "results": [
+      {
+        "item": "storagedrawers:gold_storage_upgrade",
+        "count": 1
+      }]
+  }

@@ -1,0 +1,16 @@
+{
+	"type": "create:mechanical_crafting",
+	"pattern": [
+	  "ABA",
+	  "C C",
+	  "ABA"
+	],
+	"key": {
+	  "A": {"item": "thermal:iron_plate"},
+	  "B": {"item": "powah:dielectric_rod_horizontal"},
+	  "C": {"item": "powah:dielectric_rod"}
+	},
+	"result": {
+	  "item": "powah:dielectric_casing"
+	}
+  }

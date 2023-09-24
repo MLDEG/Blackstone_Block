@@ -1,0 +1,10 @@
+{
+  "name": "Nautilus Meal",
+  "colors": [
+    "a48269",
+    "ac4534"
+  ],
+  "ingredient": {
+    "item": "kubejs:nautilus_meal"
+  }
+}

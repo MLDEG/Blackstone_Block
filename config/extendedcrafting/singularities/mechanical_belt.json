@@ -1,0 +1,10 @@
+{
+  "name": "Mechanical Belt",
+  "colors": [
+    "50493c",
+    "23201d"
+  ],
+  "ingredient": {
+    "item": "create:belt_connector"
+  }
+}

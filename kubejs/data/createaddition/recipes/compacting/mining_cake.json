@@ -1,0 +1,43 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "thermal:diamond_dust"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "kubejs:iron_piece_ore"
+    },
+    {
+      "item": "kubejs:iron_piece_ore"
+    },
+    {
+      "item": "kubejs:iron_piece_ore"
+    },
+    {
+      "item": "kubejs:iron_piece_ore"
+    },
+    {
+      "item": "kubejs:gold_piece_ore"
+    },
+    {
+      "item": "kubejs:gold_piece_ore"
+    },
+    {
+      "item": "kubejs:gold_piece_ore"
+    },
+    {
+      "item": "kubejs:gold_piece_ore"
+    },
+    {
+      "item": "kubejs:baked_cobble_cake"
+    }
+  ],
+  "results": [
+    {
+      "item": "telepastries:custom_cake"
+    }
+  ]
+}

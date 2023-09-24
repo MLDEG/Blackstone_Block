@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "simplyjetpacks:jetpack_te1"
+  },
+  "addition": {
+    "item": "simplyjetpacks:armorplating_te1"
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_te1_armored"
+  }
+}

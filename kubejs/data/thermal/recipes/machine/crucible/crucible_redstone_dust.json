@@ -1,0 +1,13 @@
+{
+  "type": "thermal:crucible",
+  "ingredient": {
+    "item": "projectred-core:red_ingot"
+  },
+  "result": [
+    {
+      "fluid": "thermal:redstone",
+      "amount": 100
+    }
+  ],
+  "energy": 8000
+}

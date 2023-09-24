@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "ABA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:shroomlight"
+      },
+      "B": {
+        "item": "byg:red_glowcane_dust"
+      }
+    },
+    "result": {
+      "item": "byg:red_glowcane_block",
+      "count": 8
+    }
+  }

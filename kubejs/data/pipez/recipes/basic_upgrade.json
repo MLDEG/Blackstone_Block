@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "INI",
+    "NRN",
+    "INI"
+  ],
+  "key": {
+    "N": {
+      "item": "thermal:iron_gear"
+    },
+    "I": {
+      "item": "thermal:iron_plate"
+    },
+    "R": {
+      "item": "modularrouters:speed_upgrade"
+    }
+  },
+  "result": {
+    "item": "pipez:basic_upgrade",
+    "count": 1
+  }
+}

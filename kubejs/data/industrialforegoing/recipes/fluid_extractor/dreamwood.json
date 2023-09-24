@@ -1,0 +1,10 @@
+{
+  "input": {
+    "item": "botania:dreamwood"
+  },
+  "result": "minecraft:air",
+  "breakChance": 0.01,
+  "output": "{FluidName:\"industrialforegoing:latex\",Amount:2}",
+  "defaultRecipe": false,
+  "type": "industrialforegoing:fluid_extractor"
+}

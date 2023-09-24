@@ -1,0 +1,28 @@
+{
+	"type": "enderstorage:create_recipe",
+	"result": {
+		"item": "enderstorage:ender_tank"
+	},
+	"pattern": [
+		"BWB",
+		"OCO",
+		"BPB"
+	],
+	"key": {
+		"P": {
+			"item": "powah:ender_core"
+		},
+		"O": {
+			"item": "create:shadow_steel_casing"
+		},
+		"C": {
+			"item": "create:fluid_tank"
+		},
+		"B": {
+			"item": "create:chromatic_compound"
+		},
+		"W": {
+			"tag": "forge:wool"
+		}
+	}
+}

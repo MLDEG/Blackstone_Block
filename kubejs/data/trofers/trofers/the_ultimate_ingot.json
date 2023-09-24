@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#A41012",
+    "text": "The Ultimate Ingot Trophy"
+  },
+  "animation":{
+      "type": "tumbling",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "item": {
+    "item": "extendedcrafting:the_ultimate_ingot"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#A41012"
+  }
+}

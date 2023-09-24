@@ -1,0 +1,13 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "create:rose_quartz"},
+    {"item": "kubejs:insanium_paper"}
+  ],
+  "results": [
+    {
+      "item": "create:polished_rose_quartz",
+      "count": 1
+    }],
+    "keepHeldItem": true
+}

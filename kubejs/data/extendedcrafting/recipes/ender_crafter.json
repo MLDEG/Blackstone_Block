@@ -1,0 +1,43 @@
+{
+  "type": "betterendforge:infusion",
+  "input": 
+  {
+     "item": "minecraft:crafting_table"
+  },
+  "output": "extendedcrafting:ender_crafter",
+  "time": 400,
+  "catalysts": [
+    {
+      "item": "extendedcrafting:ender_ingot_block",
+      "index": 0
+    },
+    {
+      "item": "rftoolsbase:infused_enderpearl",
+      "index": 1
+    },
+    {
+      "item": "extendedcrafting:ender_ingot_block",
+      "index": 2
+    },
+    {
+      "item": "rftoolsbase:infused_enderpearl",
+      "index": 3
+    },
+    {
+      "item": "extendedcrafting:ender_ingot_block",
+      "index": 4
+    },
+    {
+      "item": "rftoolsbase:infused_enderpearl",
+      "index": 5
+    },
+    {
+      "item": "extendedcrafting:ender_ingot_block",
+      "index": 6
+    },
+    {
+      "item": "rftoolsbase:infused_enderpearl",
+      "index": 7
+    }
+  ]
+}

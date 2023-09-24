@@ -1,0 +1,23 @@
+{
+  "name": {
+    "color": "#5d8c84",
+    "text": "Blood Magic Trophy"
+  },
+  "animation":{
+      "type": "spinning",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 0.5,
+    "offset":{
+        "y": 5
+    }
+  },
+  "item": {
+    "item": "bloodmagic:inversion_pillar"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#5d8c84"
+  }
+}

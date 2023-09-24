@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BCB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "create:chromatic_compound"
+    },
+    "B": {
+      "type": "forge:nbt", "item": "tconstruct:large_plate", "count": 1, "nbt": "{Material:\"tconstruct:steel\"}"
+    },
+    "C": {
+      "item": "draconicmachinery:redstone_core"
+    }
+  },
+  "result": {
+    "item": "clickmachine:auto_clicker",
+    "count": 1
+  }
+}

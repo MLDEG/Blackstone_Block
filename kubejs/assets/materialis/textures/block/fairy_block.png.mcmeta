@@ -1,0 +1,8 @@
+{
+"ctm":
+	{
+	"type": "ctm",
+	"ctm_version": 1,
+	"textures": [ "materialis:block/fairy_block-ctm" ]
+	}
+}

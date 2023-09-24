@@ -1,0 +1,17 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "mysticalagriculture:slimesteel_seeds"
+  },
+  "result": [
+    {
+      "item": "mysticalagriculture:slimesteel_essence",
+      "count": 1
+    },
+    {
+      "item": "mysticalagriculture:slimesteel_seeds",
+      "count": 1
+    }
+  ],
+  "energy": 100000
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:emerald_dust"
+    }
+  ],
+  "processingTime": 100
+}

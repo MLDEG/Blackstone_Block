@@ -1,0 +1,58 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "envirocore:aethium_powder"
+    },
+    {
+      "item": "envirocore:aethium_powder"
+    },
+    {
+      "item": "envirocore:aethium_powder"
+    },
+    {
+      "item": "envirocore:aethium_powder"
+    },
+    {
+      "item": "mekanism:dirty_dust_iron"
+    },
+    {
+      "item": "mekanism:dirty_dust_iron"
+    },
+    {
+      "item": "mekanism:dirty_dust_iron"
+    },
+    {
+      "item": "mekanism:dirty_dust_iron"
+    },
+    {
+      "item": "immersiveengineering:dust_hop_graphite"
+    },
+    {
+      "item": "immersiveengineering:dust_hop_graphite"
+    },
+    {
+      "item": "immersiveengineering:dust_hop_graphite"
+    },
+    {
+      "item": "immersiveengineering:dust_hop_graphite"
+    },
+    {
+      "fluid": "mekanism:sulfuric_acid",
+      "nbt": {},
+      "amount": 500
+    },
+    {
+      "fluid": "tconstruct:molten_netherite",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:molten_black_iron",
+      "amount": 288
+    }
+  ],
+  "heatRequirement": "superheated"
+}

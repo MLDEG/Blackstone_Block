@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " I ",
+        "GgG",
+        " I "
+    ],
+    "key": {
+        "I": { "item": "tconstruct:seared_lantern" },
+        "g": { "item": "projectred-core:energized_silicon" },
+        "G": { "item": "botania:mana_glass_pane" }
+    },
+    "result": {
+        "item": "torchmaster:feral_flare_lantern"
+    }
+}

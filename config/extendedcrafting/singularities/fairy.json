@@ -1,0 +1,10 @@
+{
+  "name": "Fairy",
+  "colors": [
+    "fc43a1",
+    "fcb851"
+  ],
+  "ingredient": {
+    "item": "materialis:fairy_ingot"
+  }
+}

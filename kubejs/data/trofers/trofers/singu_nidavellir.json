@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#404b8e",
+    "text": "Nidavellir Singularity Trophy"
+  },
+  "animation":{
+      "type": "tumbling",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "item": {
+    "item": "kubejs:singu_nidavellir"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#404b8e"
+  }
+}

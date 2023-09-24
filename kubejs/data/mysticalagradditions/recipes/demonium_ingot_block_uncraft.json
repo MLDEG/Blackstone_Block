@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kubejs:demonium_ingot_block"
+    }
+  ],
+  "result": {
+    "item": "kubejs:demonium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": [
+        "ABCDEFG"
+    ],
+    "key": {
+      "A": {"item": "kubejs:ui1"},
+      "B": {"item": "kubejs:ui2"},
+      "C": {"item": "kubejs:ui3"},
+      "D": {"item": "kubejs:ui4"},
+      "E": {"item": "kubejs:ui5"},
+      "F": {"item": "kubejs:ui6"},
+      "G": {"item": "kubejs:ui7"}
+    },
+    "result": {"item": "extendedcrafting:the_ultimate_ingot"}
+  }

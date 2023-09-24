@@ -1,0 +1,50 @@
+{
+	"type": "create:sequenced_assembly",
+	"ingredient": {
+	  "item": "powah:capacitor_blazing"
+	},
+	"transitionalItem": {
+	  "item": "powah:capacitor_blazing"
+	},
+	"sequence": [
+	  {
+		"type": "create:deploying",
+		"ingredients": [
+		  {
+			"item": "powah:capacitor_blazing"
+		  },
+		  {
+			"item": "powah:crystal_niotic"
+		  }
+		],
+		"results": [
+		  {
+			"item": "powah:capacitor_blazing"
+		  }
+		]
+	  },
+	  {
+		"type": "create:deploying",
+		"ingredients": [
+		  {
+			"item": "powah:capacitor_blazing"
+		  },
+		  {
+			"item": "powah:capacitor_basic_tiny"
+		  }
+		],
+		"results": [
+		  {
+			"item": "powah:capacitor_blazing"
+		  }
+		]
+	  }
+	],
+	"results": [
+	  {
+		"item": "powah:capacitor_niotic",
+		"count": 1
+	  }
+	],
+	"loops": 4
+  }

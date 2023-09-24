@@ -1,0 +1,42 @@
+{
+  "group": "draconicmachinery",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "1": {
+      "item": "draconicevolution:awakened_core"
+    },
+    "2": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "3": {
+      "item": "draconicevolution:draconium_core"
+    },
+    "4": {
+      "item": "minecraft:dragon_egg"
+    },
+    "5": {
+      "item": "draconicevolution:draconium_core"
+    },
+    "6": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "7": {
+      "item": "minecraft:enchanting_table"
+    },
+    "8": {
+      "item": "draconicevolution:draconium_ingot"
+    }
+  },
+  "result": {
+    "item": "draconicmachinery:sun_dial",
+    "count": 1
+  }
+}

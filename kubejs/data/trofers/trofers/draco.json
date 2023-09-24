@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#620000",
+    "text": "Draconic Evolution Trophy"
+  },
+  "animation":{
+      "type": "spinning",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 0.1
+  },
+  "entity": {
+    "type": "draconicevolution:draconic_guardian"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#620000"
+  }
+}

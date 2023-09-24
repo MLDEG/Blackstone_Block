@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:netherrack"
+    },
+    {
+      "item": "mysticalagriculture:nether_agglomeratio"
+    },
+    {
+      "fluid": "create:honey",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:nether_icing",
+      "amount": 1000
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:mob_slaughter_factory",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ABA",
+          "CDC",
+          "EFE"
+        ],
+        "key": {
+          "A": {
+            "item": "bloodmagic:reagentbinding"
+          },
+          "B": {
+            "item": "botania:lens_damage"
+          },
+          "C": {
+            "item": "byg:pendorite_sword"
+          },
+          "D": {
+            "item": "industrialforegoing:machine_frame_simple"
+          },
+          "E": {
+            "item": "byg:pendorite_axe"
+          },
+          "F": {
+            "item": "projectred-core:infused_silicon"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:mob_slaughter_factory"
+        }
+      }
+    }
+  ]
+}

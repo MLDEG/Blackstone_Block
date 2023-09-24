@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "D D"
+  ],
+  "key": {
+    "A": { "tag": "forge:ingots/shadow_steel" },
+    "B": { "item": "createaddition:electric_motor" },
+    "C": { "item": "simplyjetpacks:jetpack_te2" },
+    "D": { "item": "simplyjetpacks:thruster_te3" }
+  },
+  "result": {
+    "item": "simplyjetpacks:jetpack_te3",
+    "count": 1
+  }
+}

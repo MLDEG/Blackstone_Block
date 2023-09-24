@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NRN",
+    "RUR",
+    "NRN"
+  ],
+  "key": {
+    "N": {
+      "item": "createdeco:netherite_sheet"
+    },
+    "R": {
+      "item": "thermal:netherite_gear"
+    },
+    "U": {
+      "item": "pipez:advanced_upgrade"
+    }
+  },
+  "result": {
+    "item": "pipez:ultimate_upgrade",
+    "count": 1
+  }
+}

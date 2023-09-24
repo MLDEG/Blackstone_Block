@@ -1,0 +1,1 @@
+{"type":"botanypots:soil","input":{"item":"minecraft:farmland"},"display":{"block":"minecraft:farmland","properties":{"moisture":7}},"categories":["farmland"],"growthModifier":0.15}

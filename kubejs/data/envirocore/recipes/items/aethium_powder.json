@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+      {
+        "item": "envirocore:aethium_crystal"
+      }
+    ],
+    "results": [
+      {
+        "item": "envirocore:aethium_powder",
+        "count": 1
+      }
+    ],
+    "processingTime": 40
+  }

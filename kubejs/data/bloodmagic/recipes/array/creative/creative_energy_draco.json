@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "kubejs:creative_energy_core"
+  },
+  "addedinput": {
+    "item": "draconicevolution:chaotic_capacitor"
+  },
+  "output": {
+    "item": "draconicevolution:creative_capacitor"
+  }
+}

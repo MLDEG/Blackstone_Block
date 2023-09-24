@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "item": "minecraft:redstone"
+        },
+        {
+            "fluid": "kubejs:flux_waste",
+            "nbt": {},
+            "amount": 10
+        }
+    ],
+    "results": [
+        {
+            "item": "fluxnetworks:flux_dust"
+        }
+    ]
+}

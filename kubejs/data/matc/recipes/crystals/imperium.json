@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "matc:tertium_crystal"
+    },
+    {
+      "fluid": "mysticalagradditions:molten_imperium",
+      "amount": 864
+    }
+  ],
+  "results": [
+    {
+      "item": "matc:imperium_crystal"
+    }
+  ]
+}

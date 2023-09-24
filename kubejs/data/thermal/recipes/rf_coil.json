@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  R",
+    " I ",
+    "R  "
+  ],
+  "key": {
+    "I": {
+      "item": "envirocore:redstone_imbued_obsidian_plate"
+    },
+    "R": {
+      "item": "createaddition:gold_wire"
+    }
+  },
+  "result": {
+    "item": "thermal:rf_coil"
+  }
+}

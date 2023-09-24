@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"igi",
+	"cdc",
+	"ptp"
+  ],
+  "key": {
+	"c": {
+	  "item": "powah:capacitor_nitro"
+	},
+	"i": {
+	  "item": "powah:dielectric_paste"
+	},
+	"g": {
+	  "item": "powah:nitro_crystal_block"
+	},
+	"p": {
+	  "item": "powah:thermo_generator_spirited"
+	},
+	"d": {
+	  "item": "powah:dielectric_casing"
+	},
+	"t": {
+	  "item": "powah:thermoelectric_plate"
+	}
+  },
+  "result": {
+	"item": "powah:thermo_generator_nitro"
+  }
+}

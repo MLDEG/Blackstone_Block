@@ -1,0 +1,14 @@
+{
+  "oreConfig": [
+    {
+      "ore": "thermal:lead_ore",
+      "filler": "minecraft:stone",
+      "minY": 10,
+      "maxY": 40,
+      "maxVeinSize": 5,
+      "spawnRate": 8.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": ["mining_dimension:mining", "OVERWORLD"]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": "create:mixing",
+    "ingredients": [
+      {
+        "item": "minecraft:crying_obsidian"
+      },
+      {
+        "fluid": "tconstruct:molten_glass",
+        "nbt": {},
+        "amount": 1000
+      },
+      {
+        "fluid": "tconstruct:seared_stone",
+        "nbt": {},
+        "amount": 576
+      }
+    ],
+    "results": [
+      {
+        "item": "mob_grinding_utils:tinted_glass",
+        "count": 4
+      }
+    ],
+    "heatRequirement": "heated"
+  }

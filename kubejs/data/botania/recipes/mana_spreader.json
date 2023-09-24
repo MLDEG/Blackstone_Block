@@ -1,0 +1,17 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+    "AAA",
+    "BCD",
+    "AAA"
+  ],
+  "key": {
+    "A": {"item": "botania:livingwood"},
+    "B": {"item": "thermal:gold_gear"},
+    "C": {"item": "botania:glimmering_livingwood"},
+    "D": {"tag": "botania:petals"}
+  },
+  "result": {
+    "item": "botania:mana_spreader"
+  }
+}

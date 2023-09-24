@@ -1,0 +1,37 @@
+{
+  "type": "draconicevolution:fusion_crafting",
+  "result": {
+    "item": "kubejs:wyvern_catalyst"
+  },
+  "catalyst": {
+    "item": "draconicevolution:wyvern_core"
+  },
+  "total_energy": 32000,
+  "tier": "DRACONIUM",
+  "ingredients": [
+    {
+      "item": "draconicevolution:basic_relay_crystal"
+    },
+    {
+        "item": "draconicevolution:basic_relay_crystal"
+    },
+    {
+        "item": "draconicevolution:draconium_ingot"
+    },
+    {
+        "item": "draconicevolution:draconium_ingot"
+    },
+    {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    {
+        "item": "draconicevolution:draconium_ingot"
+    },
+    {
+        "item": "draconicevolution:basic_relay_crystal"
+    },
+    {
+        "item": "draconicevolution:basic_relay_crystal"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:emptying",
+  "ingredients": [
+    {"type": "forge:nbt", "item": "cagedmobs:dnasamplernetherite", "count": 1, "nbt": "{entity:\"minecraft:ender_dragon\"}" }
+  ],
+  "results": [
+    {
+      "item": "cagedmobs:dnasamplernetherite"
+    },
+    {
+      "fluid": "kubejs:pure_dragon_blood",
+      "amount": 250
+    }
+  ]
+}

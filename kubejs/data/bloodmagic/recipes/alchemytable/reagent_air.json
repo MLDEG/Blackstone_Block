@@ -1,0 +1,20 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "botania:rune_air"
+    },
+    {
+      "item": "betterendforge:eternal_crystal"
+    },
+    {
+      "item": "immersiveengineering:windmill"
+    }
+  ],
+  "output": {
+    "item": "bloodmagic:reagentair"
+  },
+  "syphon": 8000,
+  "ticks": 200,
+  "upgradeLevel": 3
+}

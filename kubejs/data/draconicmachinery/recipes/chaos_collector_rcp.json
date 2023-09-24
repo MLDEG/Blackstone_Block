@@ -1,0 +1,42 @@
+{
+  "group": "draconicmachinery",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "draconicevolution:awakened_draconium_ingot"
+    },
+    "1": {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    "2": {
+      "item": "draconicevolution:awakened_draconium_ingot"
+    },
+    "3": {
+      "item": "draconicevolution:chaotic_core"
+    },
+    "4": {
+      "item": "draconicmachinery:chaos_heart"
+    },
+    "5": {
+      "item": "draconicevolution:chaotic_core"
+    },
+    "6": {
+      "item": "draconicevolution:awakened_draconium_ingot"
+    },
+    "7": {
+      "item": "draconicevolution:chaotic_energy_core"
+    },
+    "8": {
+      "item": "draconicevolution:awakened_draconium_ingot"
+    }
+  },
+  "result": {
+    "item": "draconicmachinery:chaos_collector",
+    "count": 1
+  }
+}

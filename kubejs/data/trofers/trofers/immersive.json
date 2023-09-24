@@ -1,0 +1,23 @@
+{
+  "name": {
+    "color": "#462c11",
+    "text": "Immersive Engineering Trophy"
+  },
+  "animation":{
+      "type": "spinning",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1,
+    "offset": {
+        "y": 5
+    }
+  },
+  "item": {
+    "item": "immersivepetroleum:cokerunit"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#462c11"
+  }
+}

@@ -1,0 +1,37 @@
+{
+    "type": "immersiveengineering:mineral_mix",
+    "ores": [
+        {
+            "chance": 0.40,
+            "output": {
+                "item": "betterendforge:ender_ore"
+            }
+        },
+        {
+            "chance": 0.20,
+            "output": {
+                "item": "betterendforge:thallasium_ore"
+            }
+        },
+        {
+            "chance": 0.40,
+            "output": {
+                "item": "betterendforge:amber_ore"
+            }
+        }
+    ],
+    "spoils": [
+        {
+            "chance": 1.0,
+            "output": {
+                "item": "minecraft:end_stone"
+            }
+        }
+    ],
+    "dimensions": [
+        "minecraft:the_end"
+    ],
+    "weight": 1,
+    "fail_chance": 0.15,
+    "sample_background": "minecraft:end_stone"
+}

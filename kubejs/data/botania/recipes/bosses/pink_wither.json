@@ -1,0 +1,27 @@
+{
+	"type": "cagedmobs:mob_data",
+	"entity": "botania:pink_wither",
+	"samplerTier": 3,
+	"environments": ["gaia", "pink_wither"],
+	"growTicks": 2400,
+	"results": [
+		{
+			"chance": 1.0,
+			"output": {
+					"item": "cagedmobs:nether_star_fragment"
+			},
+			"minAmount": 1,
+			"maxAmount": 4
+		},
+		{
+			"lightning": true,
+			"chance": 0.5,
+			"output": {
+					"item": "minecraft:nether_star"
+			},
+			"minAmount": 1,
+			"maxAmount": 2
+		}
+	]
+	
+}

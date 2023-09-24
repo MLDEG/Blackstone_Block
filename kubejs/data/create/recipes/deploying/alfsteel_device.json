@@ -1,0 +1,12 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "kubejs:natura_device"},
+    {"item": "botania:magenta_petal_block"}
+  ],
+  "results": [
+    {
+      "item": "kubejs:alfsteel_device",
+      "count": 1
+    }]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_wrath"
+  },
+  "mana": 12000,
+  "ingredients": [
+    {
+      "item": "botania:mana_diamond_block"
+    },
+    {
+      "item": "botania:auto_crafting_halo"
+    },
+    {
+      "tag": "botania:runes/winter"
+    },
+    {
+      "tag": "botania:runes/earth"
+    }
+  ]
+}

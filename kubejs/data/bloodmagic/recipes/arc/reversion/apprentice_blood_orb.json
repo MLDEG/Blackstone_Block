@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:arc",
+  "input": {
+    "item": "bloodmagic:apprenticebloodorb"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/reverter"
+  },
+  "output": {
+    "item": "immersiveengineering:ingot_hop_graphite"
+  },
+  "consumeingredient": true
+}

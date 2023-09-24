@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#G#",
+    "#X#",
+    "#G#"
+  ],
+  "key": {
+    "#": {
+      "item": "create:chromatic_compound"
+    },
+    "X": {
+      "item": "ironfurnaces:iron_furnace"
+    },
+    "G": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "ironfurnaces:silver_furnace"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Scute",
+  "colors": [
+    "46bd49",
+    "378b39"
+  ],
+  "ingredient": {
+    "item": "minecraft:scute"
+  }
+}

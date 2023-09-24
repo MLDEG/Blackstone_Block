@@ -1,0 +1,15 @@
+{
+  "type": "powah:energizing",
+  "ingredients": [
+	{"item": "mysticalagradditions:creative_essence"},
+	{"item": "mysticalagradditions:creative_essence"},
+	{"item": "appliedenergistics2:energy_acceptor"},
+	{"item": "mysticalagradditions:creative_essence"},
+	{"item": "mysticalagradditions:creative_essence"}
+  ],
+  "energy": 2147483647,
+  "result": {
+	"item": "kubejs:creative_energy_core",
+	"count": 1
+  }
+}

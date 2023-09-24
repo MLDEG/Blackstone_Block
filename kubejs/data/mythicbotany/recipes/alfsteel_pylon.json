@@ -1,0 +1,50 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "botania:gaia_pylon"
+  },
+  "transitionalItem": {
+    "item": "botania:gaia_pylon"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "botania:gaia_pylon"
+        },
+        {
+          "item": "mythicbotany:alfsteel_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "botania:gaia_pylon"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "botania:gaia_pylon"
+        },
+        {
+          "item": "kubejs:alfsteel_device"
+        }
+      ],
+      "results": [
+        {
+          "item": "botania:gaia_pylon"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "mythicbotany:alfsteel_pylon",
+      "count": 1
+    }
+  ],
+  "loops": 4
+}

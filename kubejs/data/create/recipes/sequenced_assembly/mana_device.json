@@ -1,0 +1,43 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:gold_block"
+  },
+  "transitionalItem": {
+    "item": "minecraft:gold_block"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "minecraft:gold_block"
+        },
+        {
+          "item": "botania:mana_diamond"
+        }
+      ],
+      "results": [
+        {
+          "item": "minecraft:gold_block"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:mana_device",
+      "count": 1,
+      "chance": 30.0
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "chance": 2.0
+    },
+    {
+      "item": "botania:mana_diamond",
+      "chance": 2.0
+    }
+  ],
+  "loops": 1
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "mekanism:ingot_osmium"
+    }
+  ],
+  "results": [
+    {
+      "item": "mekanism:dust_osmium"
+    }
+  ],
+  "processingTime": 100
+}

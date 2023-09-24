@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "excompressum:compressed_diorite"
+    }
+  ],
+  "results": [
+    {
+      "item": "excompressum:compressed_crushed_diorite"
+    }
+  ],
+  "processingTime": 150
+}

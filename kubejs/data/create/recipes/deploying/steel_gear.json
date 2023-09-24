@@ -1,0 +1,13 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"tag": "forge:storage_blocks/steel"},
+    {"item": "kubejs:gear_mold"}
+  ],
+  "results": [
+    {
+      "item": "kubejs:steel_gear",
+      "count": 1
+    }],
+    "keepHeldItem": true
+}

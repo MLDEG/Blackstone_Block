@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "kubejs:crushed_bronze"
+  },
+  "result": "thermal:bronze_ingot",
+  "experience": 0.1,
+  "cookingtime": 200
+}

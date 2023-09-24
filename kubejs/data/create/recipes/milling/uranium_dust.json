@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "mekanism:ingot_uranium"
+    }
+  ],
+  "results": [
+    {
+      "item": "mekanism:dust_uranium"
+    }
+  ],
+  "processingTime": 100
+}

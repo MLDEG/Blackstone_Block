@@ -1,0 +1,13 @@
+{
+  "name": "Gildedfern",
+  "type": "resource",
+  "tier": "mysticalagriculture:3",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_gildedfern",
+    "essence": "mysticalagriculture:item/essence_gildedfern",
+    "seeds": "mysticalagriculture:item/gildedfern_seeds"
+  }
+}

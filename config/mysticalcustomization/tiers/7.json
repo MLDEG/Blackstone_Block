@@ -1,0 +1,8 @@
+{
+    "name": "§87",
+    "value": 7,
+    "farmland": "mysticalagradditions:insanium_farmland",
+    "essence": "kubejs:demonium_essence",
+    "fertilizable": false,
+    "secondarySeedDrop": false
+  }

@@ -1,0 +1,27 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "mysticalagradditions:insanium_gemstone"
+    },
+    {
+      "item": "kubejs:demonium_essence"
+    },
+    {
+      "item": "kubejs:demonium_essence"
+    },
+    {
+      "item": "kubejs:demonium_essence"
+    },
+    {
+      "item": "kubejs:demonium_essence"
+    }
+  ],
+  "output": {
+    "item": "kubejs:demonium_gemstone",
+    "count": 1
+  },
+  "syphon": 100000,
+  "ticks": 60,
+  "upgradeLevel": 4
+}

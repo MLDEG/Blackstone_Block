@@ -1,0 +1,60 @@
+
+#General settings
+[General]
+	#Defines if the pastry usage requires hunger, when set to true it ignores hunger [default: false]
+	ignoreHunger = true
+	#Disable placement of non-overworld cakes in dimensions that aren't the overworld (Meaning you can't go from the nether straight to the end) [default: true]
+	disableHopping = true
+	#Defines if the pastry teleportation point can be reset with a milk bucket [default: false]
+	resetPastry = false
+	#Defines the item needed to reset the pastry teleportation point [default: minecraft:milk_bucket]
+	resetItems = ["minecraft:milk_bucket"]
+
+#Nether settings
+[Nether]
+	#Defines if the Nether Cake gets partly consumed when eaten [default: true]
+	consumeNetherCake = true
+	#Set the refill items used by Nether Cake (Only change if you know what you're doing) [modid:itemname].
+	netherCakeRefillItems = ["kubejs:nether_jelly_baby"]
+	#Defines if the Nether Cake should teleport the player 1x1 (Use this if you're replacing the Nether dimension with one that is 1x1) [default: false].
+	netherCake1x1Logic = false
+
+#End settings
+[End]
+	#Defines if the End Cake gets partly consumed when eaten [default: true]
+	consumeEndCake = true
+	#Set the refill items used by End Cake (Only change if you know what you're doing) [modid:itemname].
+	endCakeRefillItems = ["kubejs:end_jelly_baby"]
+
+#Overworld settings
+[Overworld]
+	#Defines if the Overworld Cake gets partly consumed when eaten [default: true]
+	consumeOverworldCake = true
+	#Set the refill items used by Overworld Cake (Only change if you know what you're doing) [modid:itemname].
+	overworldCakeRefillItems = ["kubejs:overworld_jelly_baby"]
+
+#Compat settings
+[Compat]
+	#Defines if the Twilight Forest Cake gets partly consumed when eaten [default: true]
+	consumeTwilightCake = true
+	#Set the refill items used by the Twilight Forest Cake (Only change if you know what you're doing) [modid:itemname]
+	TwilightCakeRefillItems = ["minecraft:diamond"]
+	#Defines if the Lost Cities Cake gets partly consumed when eaten [default: true]
+	consumeLostCitiesCake = true
+	#Set the refill items used by the Lost Cities Cake (Only change if you know what you're doing) [modid:itemname]
+	lostCitiesCakeRefillItem = ["minecraft:bed"]
+	#Defines if the Custom Cake gets partly consumed when eaten [default: true]
+	consumeCustomCake = true
+	#Defines the name of the cake [default: "Custom"]
+	customCakeName = "Mining"
+	#Defines the dimension bound to the custom cake [default: "minecraft:overworld"]
+	customCakeDimension = "mining_dimension:mining"
+	#Set the refill items used by the Custom Cake (Only change if you know what you're doing) [modid:itemname]
+	customCakeRefillItem = ["kubejs:mining_jelly_baby"]
+	#Set the minimum Y location that the cake can spawn you at [Default: 2]
+	#Range: 1 ~ 256
+	customCakeMinY = 2
+	#Set the maximum Y location that the cake can spawn you at [Default: 2]
+	#Range: 1 ~ 256
+	customCakeMaxY = 254
+

@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:livingrock_winter"
+  },
+  "transitionalItem": {
+    "item": "kubejs:livingrock_winter_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [{"item": "kubejs:livingrock_winter"}],
+      "results": [{"item": "kubejs:livingrock_winter_slab"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:livingrock_winter_slab"},
+        {"item": "kubejs:rune_mold_alt"}
+      ],
+      "results": [
+        {"item": "botania:rune_winter"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:rune_winter",
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

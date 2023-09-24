@@ -1,0 +1,10 @@
+{
+  "name": "Cinnabar",
+  "colors": [
+    "a8212a",
+    "63002e"
+  ],
+  "ingredient": {
+    "item": "thermal:cinnabar"
+  }
+}

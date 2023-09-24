@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#818181",
+    "text": "Applied Trophy"
+  },
+  "animation":{
+      "type": "spinning",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1
+  },
+  "item": {
+    "item": "chisel:futura/controller"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#818181"
+  }
+}

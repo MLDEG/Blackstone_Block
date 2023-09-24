@@ -1,0 +1,35 @@
+{
+  "type": "bloodmagic:meteor",
+  "input": {
+    "item": "cagedmobs:dragon_scale"
+  },
+  "syphon": 500000,
+  "explosion": 30.0,
+  "layers": [
+    {
+      "radius": 7,
+      "additionalWeight": 200,
+      "minWeight": 0,
+      "weightMap": [
+        {
+          "tag": "kubejs:dragonscales_block",
+          "weight": 100
+        }
+      ],
+      "fill": "quark:basalt",
+      "shell": "minecraft:blackstone"
+    },
+    {
+      "radius": 3,
+      "additionalWeight": 0,
+      "minWeight": 0,
+      "weightMap": [
+        {
+          "tag": "architects_palette:entrails",
+          "weight": 100
+        }
+      ],
+      "fill": "kubejs:dragonscales_block"
+    }
+  ]
+}

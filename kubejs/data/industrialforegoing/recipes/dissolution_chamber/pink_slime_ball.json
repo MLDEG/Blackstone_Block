@@ -1,0 +1,31 @@
+{
+  "type": "masterfulmachinery:machine_process",
+  "structureId": "barrel_structure",
+  "controllerId": "barrel",
+  "ticks": 60,
+  "inputs": [
+    {
+      "type": "masterfulmachinery:items",
+      "data": {
+        "item": "minecraft:slime_ball",
+        "count": 1
+      }
+    },
+    {
+      "type": "masterfulmachinery:fluids",
+      "data": {
+        "fluid": "industrialforegoing:pink_slime",
+        "amount": 1000
+      }
+    }
+  ],
+  "outputs": [
+    {
+      "type": "masterfulmachinery:items",
+      "data": {
+        "item": "industrialforegoing:pink_slime",
+        "count": 1
+      }
+    }
+  ]
+}

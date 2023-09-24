@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DG",
+    "GD"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dirt"
+    },
+    "G": {
+      "item": "byg:mud_block"
+    }
+  },
+  "result": {
+    "item": "byg:peat",
+    "count": 4
+  }
+}

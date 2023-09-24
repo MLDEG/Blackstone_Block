@@ -1,0 +1,37 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "exnihilosequentia:grass_seeds"
+    },
+    {
+      "item": "exnihilosequentia:grass_seeds"
+    },
+    {
+      "item": "exnihilosequentia:grass_seeds"
+    },
+    {
+      "item": "kubejs:nautilus_meal"
+    },
+    {
+      "item": "quark:cactus_paste"
+    },
+    {
+      "item": "minecraft:red_dye"
+    },
+    {
+      "item": "minecraft:blue_dye"
+    },
+    {
+      "fluid": "minecraft:water",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:fertilizer"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	" P ",
+	"IRI",
+	"PCP"
+  ],
+  "key": {
+	"P": {
+	  "item": "powah:dielectric_paste"
+	},
+	"I": {
+	  "item": "thermal:iron_plate"
+	},
+	"R": {
+	  "item": "extendedcrafting:redstone_ingot"
+	},
+	"C": {
+	  "item": "createaddition:capacitor"
+	}
+  },
+  "result": {
+	"item": "powah:capacitor_basic",
+	"count": 1
+  }
+}

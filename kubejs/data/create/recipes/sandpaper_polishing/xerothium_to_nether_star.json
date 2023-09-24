@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "envirocore:xerothium_crystal"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:nether_star"
+    }
+  ]
+}

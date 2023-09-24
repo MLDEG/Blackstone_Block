@@ -1,0 +1,21 @@
+{
+  "name": {
+    "color": "#fcb9ee",
+    "text": "Creative Abilities Trophy"
+  },
+  "animation":{
+      "type": "tumbling",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "item": {
+    "item": "tconstruct:creative_slot",
+    "nbt": "{slot:\"abilities\"}"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#fcb9ee"
+  }
+}

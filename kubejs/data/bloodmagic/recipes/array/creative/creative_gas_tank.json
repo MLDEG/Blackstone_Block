@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "mysticalagradditions:creative_essence"
+  },
+  "addedinput": {
+    "item": "mekanism:ultimate_chemical_tank"
+  },
+  "output": {
+    "item": "mekanism:creative_chemical_tank"
+  }
+}

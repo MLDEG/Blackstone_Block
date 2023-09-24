@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "fluid": "tconstruct:molten_iron",
+      "amount": 144
+    },
+    {
+      "fluid": "tconstruct:blood",
+      "amount": 250
+    },
+    {
+      "item": "minecraft:clay_ball"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_pig_iron",
+      "amount": 288
+    }
+  ],
+  "heatRequirement": "heated"
+}

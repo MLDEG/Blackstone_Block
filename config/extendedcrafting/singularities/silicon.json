@@ -1,0 +1,10 @@
+{
+  "name": "Silicon",
+  "colors": [
+    "726b6e",
+    "464348"
+  ],
+  "ingredient": {
+    "item": "appliedenergistics2:silicon"
+  }
+}

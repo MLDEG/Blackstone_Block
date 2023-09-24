@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:baked_obsidian_cake"
+    },
+    {
+      "fluid": "kubejs:end_icing",
+      "nbt": {},
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "telepastries:end_cake"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "XZX",
+    "XYX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:polished_blackstone"
+    },
+    "Y": {
+      "item": "minecraft:polished_blackstone_slab"
+    },
+    "Z": {
+      "item": "minecraft:bucket"
+    }
+  },
+  "result": {
+    "item": "miniutilities:stone_drum"
+  }
+}

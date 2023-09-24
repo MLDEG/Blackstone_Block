@@ -1,0 +1,18 @@
+{"type": "compactcrafting:miniaturization","recipeSize": 3,"layers":[
+  {"type": "compactcrafting:mixed",
+  "pattern": [
+      ["B", "X", "B"],
+      ["X", "C", "X"],
+      ["B", "X", "B"]]},
+  {"type": "compactcrafting:mixed", 
+  "pattern": [
+      ["A", "A", "A"], 
+      ["A", "A", "A"], 
+      ["A", "A", "A"]]}],
+  "catalyst": {"id": "kubejs:draconic_catalyst","Count": 1},
+  "components": {
+      "A": {"type": "compactcrafting:block","block": "draconicevolution:awakened_draconium_block"}, 
+      "B": {"type": "compactcrafting:block","block": "botania:mana_diamond_block"}, 
+      "C": {"type": "compactcrafting:block","block": "draconicevolution:wyvern_crafting_injector"}, 
+      "X": {"type": "compactcrafting:block","block": "minecraft:air"}},
+  "outputs": [{"id": "draconicevolution:awakened_crafting_injector","Count": 1}]}

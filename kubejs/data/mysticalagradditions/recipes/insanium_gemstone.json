@@ -1,0 +1,27 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "mysticalagriculture:supremium_gemstone"
+    },
+    {
+      "item": "mysticalagradditions:insanium_essence"
+    },
+    {
+      "item": "mysticalagradditions:insanium_essence"
+    },
+    {
+      "item": "mysticalagradditions:insanium_essence"
+    },
+    {
+      "item": "mysticalagradditions:insanium_essence"
+    }
+  ],
+  "output": {
+    "item": "mysticalagradditions:insanium_gemstone",
+    "count": 1
+  },
+  "syphon": 10000,
+  "ticks": 40,
+  "upgradeLevel": 4
+}

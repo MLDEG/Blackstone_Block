@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": {
+    "item": "kubejs:red_alloy_ingot_block"
+  },
+  "result": {
+    "fluid": "thermal:redstone",
+    "amount": 900
+  },
+  "temperature": 637,
+  "time": 55
+}

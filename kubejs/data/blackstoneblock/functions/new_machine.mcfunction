@@ -1,0 +1,12 @@
+execute if block ~-1 40 ~ compactmachines:solid_wall positioned ~-1 40 ~ run function blackstoneblock:search_machine
+execute if block ~-2 40 ~ compactmachines:solid_wall positioned ~-2 40 ~ run function blackstoneblock:search_machine
+execute if block ~-3 40 ~ compactmachines:solid_wall positioned ~-3 40 ~ run function blackstoneblock:search_machine
+execute if block ~-4 40 ~ compactmachines:solid_wall positioned ~-4 40 ~ run function blackstoneblock:search_machine
+execute if block ~-5 40 ~ compactmachines:solid_wall positioned ~-5 40 ~ run function blackstoneblock:search_machine
+execute if block ~-6 40 ~ compactmachines:solid_wall positioned ~-6 40 ~ run function blackstoneblock:search_machine
+execute if block ~-7 40 ~ compactmachines:solid_wall positioned ~-7 40 ~ run function blackstoneblock:search_machine
+execute if block ~-8 40 ~ compactmachines:solid_wall positioned ~-8 40 ~ run function blackstoneblock:search_machine
+execute if block ~-9 40 ~ compactmachines:solid_wall positioned ~-9 40 ~ run function blackstoneblock:search_machine
+execute if block ~-10 40 ~ compactmachines:solid_wall positioned ~-10 40 ~ run function blackstoneblock:search_machine
+execute if block ~-11 40 ~ compactmachines:solid_wall positioned ~-11 40 ~ run function blackstoneblock:search_machine
+execute if block ~-12 40 ~ compactmachines:solid_wall positioned ~-12 40 ~ run function blackstoneblock:search_machine

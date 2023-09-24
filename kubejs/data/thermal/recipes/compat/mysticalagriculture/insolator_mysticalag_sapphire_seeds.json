@@ -1,0 +1,17 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "mysticalagriculture:sapphire_seeds"
+  },
+  "result": [
+    {
+      "item": "mysticalagriculture:sapphire_essence",
+      "count": 1
+    },
+    {
+      "item": "mysticalagriculture:sapphire_seeds",
+      "count": 1
+    }
+  ],
+  "energy": 100000
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"ulu",
+	"lcl",
+	"ulu"
+  ],
+  "key": {
+	"u": {
+		"item": "powah:uraninite_block"
+	},
+	"l": {
+	  "item": "powah:capacitor_spirited"
+	},
+	"c": {
+	  "item": "powah:reactor_niotic"
+	}
+  },
+  "result": {
+	"item": "powah:reactor_spirited",
+	"count": 1
+  }
+}

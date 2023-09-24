@@ -1,0 +1,17 @@
+{
+  "type": "mysticalagriculture:tag",
+  "pattern": [
+    "   ",
+    "EEE",
+    "   "
+  ],
+  "key": {
+    "E": {
+      "item": "mysticalagriculture:cinnabar_essence"
+    }
+  },
+  "result": {
+    "tag": "forge:dusts/cinnabar",
+    "count": 8
+  }
+}

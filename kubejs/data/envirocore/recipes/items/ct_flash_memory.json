@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iri",
+    "rvr",
+    "iri"
+  ],
+  "key": {
+    "i": {
+      "item": "kubejs:shadow_steel_plate"
+    },
+    "r": {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    "v": {
+      "item": "envirocore:volatile_memory"
+    }
+  },
+  "result": {
+    "item": "envirocore:flash_memory",
+    "count": 1
+  }
+}

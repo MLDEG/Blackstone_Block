@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "appliedenergistics2:certus_quartz_crystal"
+    },
+    {
+      "fluid": "kubejs:mana",
+      "nbt": {},
+      "amount": 50
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:quartz_mana"
+    }
+  ]
+}

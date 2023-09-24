@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "excompressum:compressed_andesite"
+    }
+  ],
+  "results": [
+    {
+      "item": "excompressum:compressed_crushed_andesite"
+    }
+  ],
+  "processingTime": 150
+}

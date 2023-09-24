@@ -1,0 +1,20 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 10000000,
+    "powerRate": 1000000,
+    "input": { "item": "botania:open_bucket" },
+    "ingredients": [
+        {"item": "create:chocolate_bucket"},
+        {"item": "createaddition:seed_oil_bucket"},
+        {"item": "envirocore:distilled_water_bucket"},
+        {"item": "bloodmagic:life_essence_bucket"},
+        {"item": "exnihilosequentia:bucket_witchwater"},
+        {"item": "exnihilosequentia:bucket_sea_water"},
+        {"item": "minecraft:water_bucket"},
+        {"item": "minecraft:lava_bucket"},
+        {"item": "minecraft:milk_bucket"},
+        {"item": "create:honey_bucket"}
+    ],
+    "result": {"item": "kubejs:3alloy_bucket","count": 1 }
+  }
+

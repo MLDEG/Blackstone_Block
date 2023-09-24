@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "prp",
+    "rcr",
+    "prp"
+  ],
+  "key": {
+    "p": {
+      "item": "extendedcrafting:black_iron_slate"
+    },
+    "r": {
+      "tag": "projectred-core:illumars"
+    },
+    "c": {
+      "item": "draconicevolution:chaotic_energy_core"
+    }
+  },
+  "result": {
+    "item": "rftoolsdim:empty_dimension_tab"
+  }
+}

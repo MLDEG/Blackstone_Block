@@ -1,0 +1,20 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "botania:rune_fire"
+    },
+    {
+      "item": "betterendforge:eternal_crystal"
+    },
+    {
+      "item": "outvoted:wildfire_shield_part"
+    }
+  ],
+  "output": {
+    "item": "bloodmagic:reagentlava"
+  },
+  "syphon": 8000,
+  "ticks": 200,
+  "upgradeLevel": 3
+}

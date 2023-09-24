@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "bloodmagic:dungeon_brick_assorted"
+        }
+    ],
+    "result": {
+      "item": "bloodmagic:dungeon_brick1"
+    }
+  }

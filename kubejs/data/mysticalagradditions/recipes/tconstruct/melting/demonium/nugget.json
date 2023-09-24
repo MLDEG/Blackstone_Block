@@ -1,0 +1,18 @@
+{
+  "type": "tconstruct:melting",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "tconstruct"
+    }
+  ],
+  "ingredient": {
+    "item": "kubejs:demonium_nugget"
+  },
+  "result": {
+    "fluid": "kubejs:molten_demonium",
+    "amount": 16
+  },
+  "temperature": 1500,
+  "time": 33
+}

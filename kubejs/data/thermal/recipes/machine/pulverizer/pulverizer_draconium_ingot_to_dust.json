@@ -1,0 +1,13 @@
+{
+  "type": "thermal:pulverizer",
+  "ingredient": {
+    "item": "draconicevolution:draconium_ingot"
+  },
+  "result": [
+    {
+      "item": "draconicevolution:draconium_dust",
+      "count": 1
+    }
+  ],
+  "energy_mod": 0.5
+}

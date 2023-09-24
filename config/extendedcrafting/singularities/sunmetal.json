@@ -1,0 +1,10 @@
+{
+  "name": "Sunmetal",
+  "colors": [
+    "7d5545",
+    "462727"
+  ],
+  "ingredient": {
+    "item": "architects_palette:sunmetal_brick"
+  }
+}

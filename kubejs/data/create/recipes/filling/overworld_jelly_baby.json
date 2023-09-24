@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "mob_grinding_utils:solid_xp_baby"
+    },
+    {
+      "fluid": "kubejs:overworld_icing",
+      "nbt": {},
+      "amount": 500
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:overworld_jelly_baby"
+    }
+  ]
+}

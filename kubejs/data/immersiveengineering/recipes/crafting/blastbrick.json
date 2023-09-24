@@ -1,0 +1,22 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_brick"
+    },
+    {
+      "item": "tconstruct:scorched_brick"
+    },
+    {
+      "fluid": "tconstruct:magma",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:blastbrick"
+    }
+  ],
+  "heatRequirement": "heated"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+        "item": "minecraft:glowstone_dust"
+    },
+    {
+      "fluid": "tconstruct:molten_silver",
+      "amount": 144
+    },
+    {
+      "fluid": "tconstruct:molten_tin",
+      "amount": 432
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_lumium",
+      "amount": 576
+    }
+  ],
+  "heatRequirement": "superheated"
+}

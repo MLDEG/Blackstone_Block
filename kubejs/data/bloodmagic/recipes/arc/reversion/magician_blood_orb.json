@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:arc",
+  "input": {
+    "item": "bloodmagic:magicianbloodorb"
+  },
+  "tool": {
+    "tag": "bloodmagic:arc/reverter"
+  },
+  "output": {
+    "item": "extendedcrafting:enhanced_ender_ingot"
+  },
+  "consumeingredient": true
+}

@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["ABA","ACA","DED"],"key":{"A":{"item":"miniutilities:ethereal_glass"},"B":{"item":"immersiveengineering:electron_tube"},"C":{"item":"botania:overgrowth_seed"},"D":{"item":"immersiveengineering:treated_scaffold"},"E":{"tag":"botanypots:hopper_botany_pots"}},"result":{"item":"immersiveengineering:cloche"}}

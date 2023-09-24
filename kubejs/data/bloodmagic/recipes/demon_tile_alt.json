@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "bloodmagic:dungeon_tilespecial"
+        }
+    ],
+    "result": {
+      "item": "bloodmagic:dungeon_tile"
+    }
+  }

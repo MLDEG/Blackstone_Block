@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "wbw",
+    "gog"
+  ],
+  "key": {
+    "b": {
+      "item": "botania:dice"
+    },
+    "s": {
+      "item": "bloodmagic:blankrune"
+    },
+    "w": [
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:healing\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:overload\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:night_vision\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:regen_weak\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:regen\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:absorption\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:jump_boost\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:emptiness\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:strength\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:clear\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:haste\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:invisibility\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:bloodthirst\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:soul_cross\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:feather_feet\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:speed\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:resistance\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:water_breathing\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:fire_resistance\"}"},
+      {"type": "forge:nbt","item": "botania:brew_vial","nbt": "{brewKey:\"botania:allure\"}"}
+        ],
+    "g": {
+      "tag": "forge:plates/gold"
+    },
+    "o": {
+      "item": "kubejs:slate_blank"
+    }
+  },
+  "result": {
+    "item": "bloodmagic:alchemytable"
+  }
+}

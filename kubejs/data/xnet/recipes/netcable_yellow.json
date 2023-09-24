@@ -1,0 +1,12 @@
+{
+  "type": "create:mechanical_crafting",
+  "pattern": [
+      "ABCBA"
+  ],
+  "key": {
+    "A": {"tag": "forge:dyes/yellow"},
+    "B": {"item": "botania:red_string"},
+    "C": {"item": "kubejs:integrated_circuit"}
+  },
+  "result": {"item": "xnet:netcable_yellow", "count": 16}
+}

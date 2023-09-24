@@ -1,0 +1,17 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "mysticalagriculture:cobalt_tantalum_seeds"
+  },
+  "result": [
+    {
+      "item": "mysticalagriculture:cobalt_tantalum_essence",
+      "count": 1
+    },
+    {
+      "item": "mysticalagriculture:cobalt_tantalum_seeds",
+      "count": 1
+    }
+  ],
+  "energy": 100000
+}

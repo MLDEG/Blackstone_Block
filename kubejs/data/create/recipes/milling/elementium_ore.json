@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "forge:ores/elementium"
+    }
+  ],
+  "results": [
+    {
+      "item": "mythicbotany:crushed_elementium"
+    }
+  ],
+  "processingTime": 300
+}

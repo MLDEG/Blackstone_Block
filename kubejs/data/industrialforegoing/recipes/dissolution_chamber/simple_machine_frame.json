@@ -1,0 +1,35 @@
+{
+  "input": [
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "tag": "industrialforegoing:machine_frame/pity"
+    },
+    {
+      "tag": "forge:plastic"
+    },
+    {
+      "item": "tconstruct:scorched_brick"
+    },
+    {
+      "item": "tconstruct:scorched_brick"
+    },
+    {
+      "tag": "forge:ingots/electrotine_alloy"
+    },
+    {
+      "tag": "forge:gears/netherite"
+    },
+    {
+      "tag": "forge:ingots/electrotine_alloy"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:1000}",
+  "processingTime": 300,
+  "output": {
+    "item": "industrialforegoing:machine_frame_simple",
+    "count": 1
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

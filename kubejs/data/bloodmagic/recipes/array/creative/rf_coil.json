@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "mysticalagradditions:creative_essence"
+  },
+  "addedinput": {
+    "item": "thermal:rf_coil_augment"
+  },
+  "output": {
+    "item": "thermal:rf_coil_creative_augment"
+  }
+}

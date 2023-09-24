@@ -1,0 +1,13 @@
+{
+  "name": "Pink Slime Ingot",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_pinkslime",
+    "essence": "mysticalagriculture:item/essence_pinkslime",
+    "seeds": "mysticalagriculture:item/pinkslime_seeds"
+  }
+}

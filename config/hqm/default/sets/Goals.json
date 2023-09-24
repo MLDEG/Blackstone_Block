@@ -1,0 +1,2105 @@
+{
+  "name": "Goals",
+  "quests": [
+    {
+      "uuid": "09bb4cfb-9494-44cc-8fce-65bf84ad70c6",
+      "name": "Creative Chemical Tank",
+      "description": "Creative Chemical Tank",
+      "x": 210,
+      "y": 113,
+      "icon": {
+        "id": "mekanism:creative_chemical_tank",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Chemical Tank",
+          "items": [
+            {
+              "item": {
+                "id": "mekanism:creative_chemical_tank",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_chemical_tank\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9108215c-93bc-4b63-b1a1-e16c973ecef5",
+      "name": "Energy Cell (Creative)",
+      "description": "Energy Cell (Creative)",
+      "x": 158,
+      "y": 50,
+      "icon": {
+        "id": "powah:energy_cell_creative",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Energy Cell (Creative)",
+          "items": [
+            {
+              "item": {
+                "id": "powah:energy_cell_creative",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "4fe2fca1-95d0-4dd6-ae98-113f91aae21d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_energy_cell_powah\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "12700f8c-d2eb-4219-b226-6eaae252f7dd",
+      "name": "Immersive Engineering",
+      "description": "Immersive Engineering",
+      "x": 298,
+      "y": 55,
+      "icon": {
+        "id": "immersivepetroleum:cokerunit",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME_QDS",
+          "description": "Petcoke",
+          "longDescription": "Deliver 10000 Petcoke from the Coker.",
+          "items": [
+            {
+              "item": {
+                "id": "immersivepetroleum:petcoke",
+                "Count": 1
+              },
+              "required": 10000
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "302b707b-d847-4cd6-888c-adafe66e4317"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:immersive\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3e47fa53-5f0e-494c-9210-a2c365ee8565",
+      "name": "Vanaheim Singularity",
+      "description": "Vanaheim Singularity",
+      "x": 222,
+      "y": 162,
+      "icon": {
+        "id": "kubejs:singu_vanaheim",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Vanaheim Singularity",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:singu_vanaheim",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "071a3269-1d69-4561-8178-84972c663354"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:singu_vanaheim\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "25426fd8-8cda-4a2d-892d-072d9f3fd45d",
+      "name": "Midgard Singularity",
+      "description": "Midgard Singularity",
+      "x": 94,
+      "y": 162,
+      "icon": {
+        "id": "kubejs:singu_midgard",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Midgard Singularity",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:singu_midgard",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "071a3269-1d69-4561-8178-84972c663354"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:singu_midgard\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "66d6764f-e882-4c33-a2be-7df95f3dd143",
+      "name": "RFTools",
+      "description": "RFTools",
+      "x": 45,
+      "y": 34,
+      "icon": {
+        "id": "rftoolsdim:legendary_lost_knowledge",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME_QDS",
+          "description": "Infusion Diamond",
+          "longDescription": "Deliver 1000 Infused Diamond.",
+          "items": [
+            {
+              "item": {
+                "id": "rftoolsbase:infused_diamond",
+                "Count": 1
+              },
+              "required": 1000
+            }
+          ]
+        },
+        {
+          "type": "KILL",
+          "description": "Legendary Blob",
+          "longDescription": "Kill a Legendary Blob.",
+          "mobs": [
+            {
+              "name": "Legendary Blob",
+              "icon": {
+                "id": "rftoolsdim:legendary_essence",
+                "Count": 1
+              },
+              "mob": "rftoolsdim:dimensional_blob_legendary",
+              "kills": 1
+            }
+          ]
+        },
+        {
+          "type": "CONSUME_QDS",
+          "description": "Knowledge",
+          "longDescription": "Deliver 100 Legendary Lost Knowledge.",
+          "items": [
+            {
+              "item": {
+                "id": "rftoolsdim:legendary_lost_knowledge",
+                "Count": 1
+              },
+              "required": 100
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "59850d82-1f15-4408-a122-af49ca44c87b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:rftools\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "91c4bf19-0146-49c4-99d7-280dc147bbda",
+      "name": "Mystical Agriculture",
+      "description": "Mystical Agriculture",
+      "x": 45,
+      "y": 118,
+      "icon": {
+        "id": "mysticalagradditions:insanium_essence",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Insanium Stuff",
+          "longDescription": "Craft an Insanium Armor and an Insanium Sword.",
+          "items": [
+            {
+              "item": {
+                "id": "mysticaladaptations:insanium_helmet",
+                "Count": 1,
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "item": {
+                "id": "mysticaladaptations:insanium_chestplate",
+                "Count": 1,
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "item": {
+                "id": "mysticaladaptations:insanium_leggings",
+                "Count": 1,
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "item": {
+                "id": "mysticaladaptations:insanium_boots",
+                "Count": 1,
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "item": {
+                "id": "mysticaladaptations:insanium_sword",
+                "Count": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "CONSUME_QDS",
+          "description": "Insanium Essence",
+          "longDescription": "Deliver 1000 Insanium Essence.",
+          "items": [
+            {
+              "item": {
+                "id": "mysticalagradditions:insanium_essence",
+                "Count": 1
+              },
+              "required": 1000
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "37174a27-074c-4738-bcb2-eda2d75bd7d8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:mystical\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "80c282bc-39d8-4936-9c7e-28757c2e7eae",
+      "name": "Create",
+      "description": "Create",
+      "x": 298,
+      "y": 97,
+      "icon": {
+        "id": "create:large_cogwheel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME_QDS",
+          "description": "Sweet snack",
+          "longDescription": "Deliver 1000 of each.",
+          "items": [
+            {
+              "item": {
+                "id": "create:bar_of_chocolate",
+                "Count": 1
+              },
+              "required": 1000
+            },
+            {
+              "item": {
+                "id": "create:sweet_roll",
+                "Count": 1
+              },
+              "required": 1000
+            },
+            {
+              "item": {
+                "id": "create:honeyed_apple",
+                "Count": 1
+              },
+              "required": 1000
+            },
+            {
+              "item": {
+                "id": "createaddition:chocolate_cake",
+                "Count": 1
+              },
+              "required": 1000
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7a59e3a6-cdd3-4ffb-9864-7ba8555e042b"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:create\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "80853a99-a905-4405-abc0-618a97f23f38",
+      "name": "Creative Energy Cell",
+      "description": "Creative Energy Cell",
+      "x": 91,
+      "y": 84,
+      "icon": {
+        "id": "appliedenergistics2:creative_energy_cell",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Energy Cell",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:creative_energy_cell",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "4fe2fca1-95d0-4dd6-ae98-113f91aae21d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_energy_cell_ae2\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "bca2e6f6-57b8-4cd5-a442-0d24da80e743",
+      "name": "Creative RF Coil",
+      "description": "Creative RF Coil",
+      "x": 118,
+      "y": 135,
+      "icon": {
+        "id": "thermal:rf_coil_creative_augment",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative RF Coil",
+          "items": [
+            {
+              "item": {
+                "id": "thermal:rf_coil_creative_augment",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:rf_coil_creative_augment\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f0c9858a-7136-44a8-8e79-f5a213d3c77d",
+      "name": "Creative Fluid Tank",
+      "description": "Creative Fluid Tank",
+      "x": 106,
+      "y": 113,
+      "icon": {
+        "id": "mekanism:creative_fluid_tank",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Fluid Tank",
+          "items": [
+            {
+              "item": {
+                "id": "mekanism:creative_fluid_tank",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_fluid_tank\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6a1128e9-8169-4ff9-b174-8318d91d16b5",
+      "name": "Creative Reclamation Chamber",
+      "description": "Creative Reclamation Chamber",
+      "x": 198,
+      "y": 135,
+      "icon": {
+        "id": "thermal:machine_catalyst_creative_augment",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Reclamation Chamber",
+          "items": [
+            {
+              "item": {
+                "id": "thermal:machine_catalyst_creative_augment",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:machine_catalyst_creative_augment\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "70b675f3-bcc5-4c39-887a-308ed628c549",
+      "name": "Ragnarök Singularity",
+      "description": "Ragnarök Singularity",
+      "x": 234,
+      "y": 183,
+      "icon": {
+        "id": "kubejs:singu_ragnarok",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Ragnarök Singularity",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:singu_ragnarok",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "071a3269-1d69-4561-8178-84972c663354"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:singu_ragnarok\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b90b805d-4243-4241-a1b4-32a7fb9dd068",
+      "name": "Environmental Tech",
+      "description": "Environmental Tech",
+      "x": 270,
+      "y": 34,
+      "icon": {
+        "id": "envirocore:xerothium_interconnect",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME_QDS",
+          "description": "Xerothium",
+          "longDescription": "Deliver 1000 Xerothium Interconnect.",
+          "items": [
+            {
+              "item": {
+                "id": "envirocore:xerothium_interconnect",
+                "Count": 1
+              },
+              "required": 1000
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "4cd93524-414f-4b68-96e5-83d98219864a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:enviro\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "576d15ae-a9f2-4c02-b6d2-039e8b7b5f36",
+      "name": "The Everlasting Guilty Pool",
+      "description": "The Everlasting Guilty Pool",
+      "x": 213,
+      "y": 40,
+      "icon": {
+        "id": "botania:creative_pool",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Everlasting Guilty Pool",
+          "items": [
+            {
+              "item": {
+                "id": "botania:creative_pool",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_pool\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3d2df38b-70b5-40e4-88c2-1dd09abc67ee",
+      "name": "Creative Flux Efficiency",
+      "description": "Creative Flux Efficiency",
+      "x": 94,
+      "y": 135,
+      "icon": {
+        "id": "thermal:machine_efficiency_creative_augment",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Flux Efficiency",
+          "items": [
+            {
+              "item": {
+                "id": "thermal:machine_efficiency_creative_augment",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:machine_efficiency_creative_augment\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f05266ab-e71a-4ea2-a200-961abdf3741f",
+      "name": "Muspelheim Singularity",
+      "description": "Muspelheim Singularity",
+      "x": 198,
+      "y": 162,
+      "icon": {
+        "id": "kubejs:singu_muspelheim",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Muspelheim Singularity",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:singu_muspelheim",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "071a3269-1d69-4561-8178-84972c663354"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:singu_muspelheim\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d50ef129-cfd6-4766-a0c5-9eba197fa920",
+      "name": "Botania",
+      "description": "Botania",
+      "x": 17,
+      "y": 55,
+      "icon": {
+        "id": "botania:gaia_head",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Alfsteel Armor",
+          "longDescription": "Craft the Alfsteel armor.",
+          "items": [
+            {
+              "item": {
+                "id": "mythicbotany:alfsteel_helmet",
+                "Count": 1,
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "item": {
+                "id": "mythicbotany:alfsteel_chestplate",
+                "Count": 1,
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "item": {
+                "id": "mythicbotany:alfsteel_leggings",
+                "Count": 1,
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "item": {
+                "id": "mythicbotany:alfsteel_boots",
+                "Count": 1,
+                "tag": "{Damage:0}"
+              }
+            }
+          ]
+        },
+        {
+          "type": "KILL",
+          "longDescription": "Kill the Guardian of Gaia 10 times.",
+          "mobs": [
+            {
+              "name": "Gaia Guardian",
+              "icon": {
+                "id": "botania:gaia_head",
+                "Count": 1
+              },
+              "mob": "botania:doppleganger",
+              "kills": 10
+            }
+          ]
+        },
+        {
+          "type": "CONSUME_QDS",
+          "description": "Liquid Mana",
+          "longDescription": "Deliver 1000000mb of Mana.",
+          "items": [
+            {
+              "fluid": {
+                "fluid": "kubejs:mana",
+                "volume": {
+                  "d": 1,
+                  "n": 1
+                }
+              },
+              "required": 1000000
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "58d91b6f-3066-4d41-b420-a2568a5f9263"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:gaia_guardian\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "77569a8a-c15a-47bc-a497-91e3dda8aeda",
+      "name": "Eternal Singularity",
+      "description": "Eternal Singularity",
+      "x": 155,
+      "y": 177,
+      "bigicon": true,
+      "icon": {
+        "id": "kubejs:eternal_singularity",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Eternal Singularity",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:eternal_singularity",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "1640b971-cea8-4b5c-a449-bb826d054671",
+        "f05266ab-e71a-4ea2-a200-961abdf3741f",
+        "4fb68b25-1610-473e-b40b-4db405d13608",
+        "76044397-36f9-4ea4-90d2-726dcb946d85",
+        "4a84c269-f430-400b-ba40-875af39bc502",
+        "3e47fa53-5f0e-494c-9210-a2c365ee8565",
+        "7d57553b-8eaf-4f2c-9566-6acf17bab1ad",
+        "25426fd8-8cda-4a2d-892d-072d9f3fd45d",
+        "675dca07-e3e1-4047-881a-f981e784543f",
+        "70b675f3-bcc5-4c39-887a-308ed628c549"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:eternal_singularity\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ce18bfd7-579f-436e-9bb6-2280e057e3e2",
+      "name": "Creative Ability",
+      "description": "Creative Ability",
+      "x": 183,
+      "y": 63,
+      "icon": {
+        "id": "tconstruct:creative_slot",
+        "Count": 1,
+        "tag": "{slot:\"abilities\"}"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Ability",
+          "items": [
+            {
+              "item": {
+                "id": "tconstruct:creative_slot",
+                "Count": 1,
+                "tag": "{slot:\"abilities\"}"
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_slot_abilities\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "14d7cd4d-e114-4146-a692-a1bdf79a42bb",
+      "name": "Blood Magic",
+      "description": "Blood Magic",
+      "x": 17,
+      "y": 13,
+      "icon": {
+        "id": "bloodmagic:altar",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME_QDS",
+          "description": "Ethereal Slate",
+          "longDescription": "Deliver 1000 Ethereal Slate.",
+          "items": [
+            {
+              "item": {
+                "id": "bloodmagic:etherealslate",
+                "Count": 1
+              },
+              "required": 1000
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7d83cfc5-87d9-4dfc-8b78-a7c8ade419b5"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:blood_magic\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3c68062b-6ace-478a-a71e-c0d99c22d3a8",
+      "name": "Creative Essence",
+      "description": "Creative Essence",
+      "x": 155,
+      "y": 137,
+      "bigicon": true,
+      "icon": {
+        "id": "mysticalagradditions:creative_essence",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Essence",
+          "items": [
+            {
+              "item": {
+                "id": "mysticalagradditions:creative_essence",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "77569a8a-c15a-47bc-a497-91e3dda8aeda",
+        "5c7288fa-4822-4d95-9e2b-af2bbf6819af"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_essence\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "04681a63-a01b-4db9-a6af-520631341eff",
+      "name": "Creative Soulium Dagger",
+      "description": "Creative Soulium Dagger",
+      "x": 133,
+      "y": 63,
+      "icon": {
+        "id": "mysticalagriculture:creative_soulium_dagger",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Soulium Dagger",
+          "items": [
+            {
+              "item": {
+                "id": "mysticalagriculture:creative_soulium_dagger",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_soulium_dagger\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c3e795f8-f536-4efa-b5e5-c9c6f06d0fd6",
+      "name": "Applied Energistics",
+      "description": "Applied Energistics",
+      "x": 270,
+      "y": 118,
+      "icon": {
+        "id": "chisel:futura/controller",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME_QDS",
+          "description": "Singularity",
+          "longDescription": "Deliver 1000 Singularity.",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:singularity",
+                "Count": 1
+              },
+              "required": 1000
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "d9e89ef7-98ab-461b-b18c-6fb2c8cefaff"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:applied\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7d57553b-8eaf-4f2c-9566-6acf17bab1ad",
+      "name": "Jötunheim Singularity",
+      "description": "Jötunheim Singularity",
+      "x": 210,
+      "y": 183,
+      "icon": {
+        "id": "kubejs:singu_jotunheim",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Jötunheim Singularity",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:singu_jotunheim",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "071a3269-1d69-4561-8178-84972c663354"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:singu_jotunheim\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ce47e6e9-7550-4aad-aae9-726dad1cb19f",
+      "name": "Mekanism",
+      "description": "Mekanism",
+      "x": 17,
+      "y": 139,
+      "icon": {
+        "id": "mekanism:pellet_antimatter",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "MekaSuit",
+          "longDescription": "Craft the MekaSuit Armor.",
+          "items": [
+            {
+              "item": {
+                "id": "mekanism:mekasuit_helmet",
+                "Count": 1,
+                "tag": "{HideFlags:2}"
+              }
+            },
+            {
+              "item": {
+                "id": "mekanism:mekasuit_bodyarmor",
+                "Count": 1,
+                "tag": "{HideFlags:2}"
+              }
+            },
+            {
+              "item": {
+                "id": "mekanism:mekasuit_pants",
+                "Count": 1,
+                "tag": "{HideFlags:2}"
+              }
+            },
+            {
+              "item": {
+                "id": "mekanism:mekasuit_boots",
+                "Count": 1,
+                "tag": "{HideFlags:2}"
+              }
+            }
+          ]
+        },
+        {
+          "type": "CONSUME_QDS",
+          "description": "Antimatter Pellet",
+          "longDescription": "Deliver 100 Antimatter Pellet.",
+          "items": [
+            {
+              "item": {
+                "id": "mekanism:pellet_antimatter",
+                "Count": 1
+              },
+              "required": 100
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "a6ed5b81-3b00-4082-bd03-8f531810d90e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:meka\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4a84c269-f430-400b-ba40-875af39bc502",
+      "name": "Helheim Singularity",
+      "description": "Helheim Singularity",
+      "x": 82,
+      "y": 183,
+      "icon": {
+        "id": "kubejs:singu_helheim",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Helheim Singularity",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:singu_helheim",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "071a3269-1d69-4561-8178-84972c663354"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:singu_helheim\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4fe2fca1-95d0-4dd6-ae98-113f91aae21d",
+      "name": "Creative Energy Core",
+      "description": "Creative Energy Core",
+      "x": 155,
+      "y": 81,
+      "bigicon": true,
+      "icon": {
+        "id": "kubejs:creative_energy_core",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Energy Core",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:creative_energy_core",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:energy_core\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3f54a857-9d29-4bfc-91de-14abc119fcec",
+      "name": "Infinity Pipe Upgrade",
+      "description": "Infinity Pipe Upgrade",
+      "x": 129,
+      "y": 27,
+      "icon": {
+        "id": "pipez:infinity_upgrade",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Infinity Pipe Upgrade",
+          "items": [
+            {
+              "item": {
+                "id": "pipez:infinity_upgrade",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:infinity_upgrade\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a7755c37-703a-447d-8375-e66a9b8a51c6",
+      "name": "Thermal Series",
+      "description": "Thermal Series",
+      "x": 45,
+      "y": 76,
+      "icon": {
+        "id": "thermal:upgrade_augment_3",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME_QDS",
+          "description": "Resonant Upgrade",
+          "longDescription": "Deliver 1000 Refined Integral Components.",
+          "items": [
+            {
+              "item": {
+                "id": "thermal:upgrade_augment_3",
+                "Count": 1
+              },
+              "required": 1000
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "0c97f597-31b3-448d-833d-1ea795dae737"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:thermal\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "64466a13-4ebb-42a1-88a4-323f33fa67f7",
+      "name": "Powah",
+      "description": "Powah",
+      "x": 17,
+      "y": 97,
+      "icon": {
+        "id": "powah:capacitor_nitro",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME_QDS",
+          "description": "Nitro Capacitor",
+          "longDescription": "Deliver 1000 Nitro Capacitor.",
+          "items": [
+            {
+              "item": {
+                "id": "powah:capacitor_nitro",
+                "Count": 1
+              },
+              "required": 1000
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "01b37186-0e22-434b-b281-f2fd597ab373"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:powah\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "326b8b30-5b39-4dd3-92db-eecd13dfd322",
+      "name": "Creative Capacitor",
+      "description": "Creative Capacitor",
+      "x": 197,
+      "y": 84,
+      "icon": {
+        "id": "draconicevolution:creative_capacitor",
+        "Count": 1,
+        "tag": "{}"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Capacitor",
+          "items": [
+            {
+              "item": {
+                "id": "draconicevolution:creative_capacitor",
+                "Count": 1,
+                "tag": "{}"
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "4fe2fca1-95d0-4dd6-ae98-113f91aae21d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_capacitor_draco\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "4fb68b25-1610-473e-b40b-4db405d13608",
+      "name": "Asgard Singularity",
+      "description": "Asgard Singularity",
+      "x": 130,
+      "y": 183,
+      "icon": {
+        "id": "kubejs:singu_asgard",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Asgard Singularity",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:singu_asgard",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "071a3269-1d69-4561-8178-84972c663354"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:singu_asgard\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "675dca07-e3e1-4047-881a-f981e784543f",
+      "name": "Nidavellir Singularity",
+      "description": "Nidavellir Singularity",
+      "x": 106,
+      "y": 183,
+      "icon": {
+        "id": "kubejs:singu_nidavellir",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Nidavellir Singularity",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:singu_nidavellir",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "071a3269-1d69-4561-8178-84972c663354"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:singu_nidavellir\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "76044397-36f9-4ea4-90d2-726dcb946d85",
+      "name": "Niflheim Singularity",
+      "description": "Niflheim Singularity",
+      "x": 186,
+      "y": 182,
+      "icon": {
+        "id": "kubejs:singu_niflheim",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Niflheim Singularity",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:singu_niflheim",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "071a3269-1d69-4561-8178-84972c663354"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:singu_niflheim\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cdc9c02d-fced-4756-912e-b648bdc76d9c",
+      "name": "Creative Tank Construction",
+      "description": "Creative Tank Construction",
+      "x": 222,
+      "y": 135,
+      "icon": {
+        "id": "thermal:fluid_tank_creative_augment",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Tank Construction",
+          "items": [
+            {
+              "item": {
+                "id": "thermal:fluid_tank_creative_augment",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:fluid_tank_creative_augment\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3002d80a-023b-4bd3-9942-53d75176f9e1",
+      "name": "Quest Delivery System",
+      "description": "How does it work ?",
+      "x": 28,
+      "y": 180,
+      "bigicon": true,
+      "icon": {
+        "id": "hardcorequesting:item_barrel",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "QDS",
+          "longDescription": "The Quest Delivery System (QDS) is used to deliver a certain quantity of items for a selected quest.\nIt works with a hopper, for example, to deliver items.\n\nYou must first select the quest you want to validate in your book, then right click on the QDS to make a mushroom appear on it.",
+          "items": [
+            {
+              "item": {
+                "id": "hardcorequesting:item_barrel",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7598d112-e838-4e46-a916-20ebc3530a81"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "hardcorequesting:item_barrel",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "80aa872d-d7db-4dde-b9c2-6a4772b92a58",
+      "name": "Industrial Foregoing",
+      "description": "Industrial Foregoing",
+      "x": 298,
+      "y": 13,
+      "icon": {
+        "id": "industrialforegoing:plastic",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME_QDS",
+          "description": "Plastic",
+          "longDescription": "Deliver 1000 plastic.",
+          "items": [
+            {
+              "item": {
+                "id": "industrialforegoing:plastic",
+                "Count": 1
+              },
+              "required": 1000
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "95897869-1df2-43fb-aadd-0d8f427bc38c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:industrial\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "754fa50e-cf36-4570-bdd6-595751a81140",
+      "name": "All the ingots",
+      "description": "All the ingots",
+      "x": 298,
+      "y": 139,
+      "icon": {
+        "id": "extendedcrafting:the_ultimate_block",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CONSUME_QDS",
+          "description": "The ultimate Ingot",
+          "longDescription": "Deliver 100 Ultimate Ingot.",
+          "items": [
+            {
+              "item": {
+                "id": "extendedcrafting:the_ultimate_ingot",
+                "Count": 1
+              },
+              "required": 100
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "d7b689f6-59ee-4ee0-ace5-5c53cab6184f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:ultimate\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f9431140-bb1e-4072-ad1a-863b578cc433",
+      "name": "Dimensional Cell (Creative)",
+      "description": "Dimensional Cell (Creative)",
+      "x": 225,
+      "y": 83,
+      "icon": {
+        "id": "rftoolspower:dimensionalcell_creative",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Dimensional Cell (Creative)",
+          "items": [
+            {
+              "item": {
+                "id": "rftoolspower:dimensionalcell_creative",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "4fe2fca1-95d0-4dd6-ae98-113f91aae21d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_energy_cell_rftool\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "9acddaaf-21df-4ec7-ad67-cf752e2d1037",
+      "name": "Creative Capacitor",
+      "description": "Creative Capacitor",
+      "x": 119,
+      "y": 84,
+      "icon": {
+        "id": "immersiveengineering:capacitor_creative",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Capacitor",
+          "items": [
+            {
+              "item": {
+                "id": "immersiveengineering:capacitor_creative",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "4fe2fca1-95d0-4dd6-ae98-113f91aae21d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_capacitor_immersive\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5c7288fa-4822-4d95-9e2b-af2bbf6819af",
+      "name": "The Ultimate Ingot",
+      "description": "The Ultimate Ingot",
+      "x": 137,
+      "y": 108,
+      "icon": {
+        "id": "extendedcrafting:the_ultimate_ingot",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Ultimate Ingot",
+          "items": [
+            {
+              "item": {
+                "id": "extendedcrafting:the_ultimate_ingot",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "dabc6785-b1d8-4ea3-b4a5-4f9e53cec67a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:the_ultimate_ingot\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "1640b971-cea8-4b5c-a449-bb826d054671",
+      "name": "Alfheim Singularity",
+      "description": "Alfheim Singularity",
+      "x": 118,
+      "y": 162,
+      "icon": {
+        "id": "kubejs:singu_alfheim",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Alfheim Singularity",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:singu_alfheim",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "071a3269-1d69-4561-8178-84972c663354"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:singu_alfheim\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "38d587d7-ea5e-4941-b917-018fa0b901c6",
+      "name": "Draconic Evolution",
+      "description": "Draconic Evolution",
+      "x": 270,
+      "y": 76,
+      "icon": {
+        "id": "draconicevolution:chaotic_staff",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "KILL",
+          "description": "Chaos Guardian",
+          "longDescription": "Kill the Chaos Guardian.",
+          "mobs": [
+            {
+              "name": "Chaos Gardian",
+              "icon": {
+                "id": "draconicevolution:chaos_shard",
+                "Count": 1
+              },
+              "mob": "draconicevolution:draconic_guardian",
+              "kills": 1
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "description": "Chaotic Stuff",
+          "longDescription": "Craft the Chaotic Stuff.",
+          "items": [
+            {
+              "item": {
+                "id": "draconicevolution:chaotic_staff",
+                "Count": 1
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "draconicevolution:chaotic_bow",
+                "Count": 1
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "draconicevolution:chaotic_chestpiece",
+                "Count": 1
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        },
+        {
+          "type": "CONSUME_QDS",
+          "description": "Chaotic Core",
+          "longDescription": "Deliver 100 Chaotic Core.",
+          "items": [
+            {
+              "item": {
+                "id": "draconicevolution:chaotic_core",
+                "Count": 1
+              },
+              "required": 100
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "d2a50fac-9d3a-484f-ba95-d8e1132f714a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:draco\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7efe17b7-d5a5-406d-8e73-e1b0c7c3437a",
+      "name": "Creative Upgrade",
+      "description": "Creative Upgrade",
+      "x": 187,
+      "y": 27,
+      "icon": {
+        "id": "tconstruct:creative_slot",
+        "Count": 1,
+        "tag": "{slot:\"upgrades\"}"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Upgrade",
+          "items": [
+            {
+              "item": {
+                "id": "tconstruct:creative_slot",
+                "Count": 1,
+                "tag": "{slot:\"upgrades\"}"
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_slot_upgrades\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "35bea438-1ed7-44cc-a044-a93c6a44c6dd",
+      "name": "Creative Motor",
+      "description": "Creative Motor",
+      "x": 155,
+      "y": 13,
+      "bigicon": true,
+      "icon": {
+        "id": "create:creative_motor",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Motor",
+          "items": [
+            {
+              "item": {
+                "id": "create:creative_motor",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_motor\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "db70adaa-510d-4eff-81bd-e67a2eeaf9f9",
+      "name": "Creative Vending Upgrade",
+      "description": "Creative Vending Upgrade",
+      "x": 102,
+      "y": 41,
+      "icon": {
+        "id": "storagedrawers:creative_vending_upgrade",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Vending Upgrade",
+          "items": [
+            {
+              "item": {
+                "id": "storagedrawers:creative_vending_upgrade",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_vending_upgrade\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d48fa7cd-dd27-4ffc-ac9a-139040cc3720",
+      "name": "Creative Blaze Cake",
+      "description": "Creative Blaze Cake",
+      "x": 180,
+      "y": 109,
+      "icon": {
+        "id": "create:creative_blaze_cake",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Blaze Cake",
+          "items": [
+            {
+              "item": {
+                "id": "create:creative_blaze_cake",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_blaze_cake\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "This page is here just to give you goals to accomplish.\n\nMake them as you please.\n\nAlso, it\u0027s more fun if you make these goals without using the Vending upgrade, but it\u0027s up to you !"
+}

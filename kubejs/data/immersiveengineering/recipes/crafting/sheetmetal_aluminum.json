@@ -1,0 +1,24 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+        "tag": "forge:plates/aluminum"
+        },
+        {
+        "tag": "forge:plates/aluminum"
+        },
+        {
+        "tag": "forge:plates/aluminum"
+        },
+        {
+        "tag": "forge:plates/aluminum"
+        }
+    ],
+    "results": [
+        {
+        "item": "immersiveengineering:sheetmetal_aluminum",
+        "count": 4
+        }
+    ],
+    "heatRequirement": "heated"
+}

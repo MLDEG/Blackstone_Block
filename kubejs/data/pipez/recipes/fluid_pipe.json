@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "BRB",
+    "III"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "I": {
+      "item": "create:fluid_pipe"
+    },
+    "R": {
+      "item": "appliedenergistics2:cyan_smart_cable"
+    }
+  },
+  "result": {
+    "item": "pipez:fluid_pipe",
+    "count": 16
+  }
+}

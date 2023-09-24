@@ -1,0 +1,74 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "thermal:upgrade_augment_1"
+  },
+  "transitionalItem": {
+    "item": "thermal:upgrade_augment_1"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "thermal:upgrade_augment_1"
+        },
+        {
+          "item": "kubejs:shadow_steel_plate"
+        }
+      ],
+      "results": [
+        {
+          "item": "thermal:upgrade_augment_1"
+        }
+      ]
+    },
+    {
+        "type": "create:filling",
+        "ingredients": [
+            {"item": "thermal:upgrade_augment_1"},
+            {"fluid": "thermal:redstone","nbt": {},"amount": 1000}
+        ],
+        "results": [{"item": "thermal:upgrade_augment_1"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "thermal:upgrade_augment_1"
+        },
+        {
+          "item": "kubejs:shadow_steel_plate"
+        }
+      ],
+      "results": [
+        {
+          "item": "thermal:upgrade_augment_1"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "thermal:upgrade_augment_1"
+        },
+        {
+          "item": "thermal:signalum_gear"
+        }
+      ],
+      "results": [
+        {
+          "item": "thermal:upgrade_augment_1"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:upgrade_augment_2",
+      "count": 1
+    }
+  ],
+  "loops": 2
+}

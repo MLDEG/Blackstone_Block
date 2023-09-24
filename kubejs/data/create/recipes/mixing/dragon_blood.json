@@ -1,0 +1,44 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "draconicevolution:draconium_dust"
+    },
+    {
+      "item": "draconicevolution:draconium_dust"
+    },
+    {
+      "item": "draconicevolution:draconium_dust"
+    },
+    {
+      "item": "draconicevolution:draconium_dust"
+    },
+    {
+      "item": "draconicevolution:draconium_dust"
+    },
+    {
+      "item": "draconicevolution:draconium_dust"
+    },
+    {
+      "item": "draconicevolution:draconium_dust"
+    },
+    {
+      "item": "draconicevolution:draconium_dust"
+    },
+    {
+      "fluid": "kubejs:cold_dragon_blood",
+      "amount": 250
+    },
+    {
+      "fluid": "bloodmagic:life_essence_fluid",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "fluid": "kubejs:dragon_blood",
+      "amount": 500
+    }
+  ],
+  "heatRequirement": "superheated"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "DED"
+  ],
+  "key": {
+    "A": { "item": "kubejs:refined_radiance_plate" },
+    "B": { "item": "create:precision_mechanism" },
+    "C": { "item": "create:refined_radiance_casing" },
+    "D": { "tag": "forge:ingots/refined_radiance" },
+    "E": { "item": "simplyjetpacks:thruster_te3" }
+  },
+  "result": {
+    "item": "simplyjetpacks:thruster_te4",
+    "count": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:animal_rancher",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ABA",
+          "CDC",
+          "EFE"
+        ],
+        "key": {
+          "A": {
+            "item": "industrialforegoing:plastic"
+          },
+          "B": {
+            "item": "botania:red_string"
+          },
+          "C": {
+            "item": "xreliquary:shears_of_winter"
+          },
+          "D": {
+            "item": "industrialforegoing:machine_frame_simple"
+          },
+          "E": {
+            "item": "mekanism:basic_fluid_tank"
+          },
+          "F": {
+            "item": "thermal:lead_gear"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:animal_rancher"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "group": "draconicmachinery",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "draconicevolution:chaos_shard"
+    },
+    "3": {
+      "item": "draconicevolution:chaos_shard"
+    },
+    "4": {
+      "item": "draconicevolution:dragon_heart"
+    },
+    "5": {
+      "item": "draconicevolution:chaos_shard"
+    },
+    "7": {
+      "item": "draconicevolution:chaos_shard"
+    }
+  },
+  "result": {
+    "item": "draconicmachinery:chaos_heart",
+    "count": 1
+  }
+}

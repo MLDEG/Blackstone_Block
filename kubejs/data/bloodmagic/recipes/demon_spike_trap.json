@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "bloodmagic:dungeon_polished"
+        },
+        {
+          "item": "miniutilities:iron_spikes"
+        }
+    ],
+    "result": {
+      "item": "bloodmagic:dungeon_spike_trap"
+    }
+  }

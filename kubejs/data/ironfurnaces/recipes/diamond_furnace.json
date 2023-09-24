@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "GGG",
+    "#X#",
+    "GGG"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:ingots/refined_radiance"
+    },
+    "X": {
+      "item": "ironfurnaces:gold_furnace"
+    },
+    "G": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "ironfurnaces:diamond_furnace"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:empty_infusion_crystal"
+    },
+    {
+      "fluid": "mysticalagradditions:molten_inferium",
+      "amount": 864
+    }
+  ],
+  "results": [
+    {
+      "item": "matc:inferium_crystal"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Electrotine Alloy",
+  "colors": [
+    "0cb4f8",
+    "05486d"
+  ],
+  "ingredient": {
+    "item": "projectred-core:electrotine_ingot"
+  }
+}

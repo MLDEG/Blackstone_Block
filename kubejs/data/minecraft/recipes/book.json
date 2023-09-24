@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kubejs:leather_book_cover"
+    },
+    {
+      "item": "create:super_glue"
+    },
+    {
+      "item": "kubejs:paper_stacks"
+    }
+  ],
+  "result": {
+    "item": "minecraft:book"
+  }
+}

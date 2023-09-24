@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "LXL",
+    "IGI"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:gears/lead"
+    },
+    "L": {
+      "tag": "forge:plates/lumium"
+    },
+    "I": {
+      "tag": "forge:plates/invar"
+    },
+    "X": {
+      "tag": "thermal:glass/hardened"
+    }
+  },
+  "result": {
+    "item": "thermal:dynamo_fuel_augment"
+  }
+}

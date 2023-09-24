@@ -1,0 +1,2718 @@
+{
+  "name": "BlackStoneBlock",
+  "quests": [
+    {
+      "uuid": "8feece16-2fb6-476b-beed-9d8e8708c28f",
+      "name": "Real Smeltry",
+      "description": "Real Smeltry",
+      "x": 87,
+      "y": 153,
+      "icon": {
+        "id": "tconstruct:smeltery_controller",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "With a Seared Drain you can pour melted stuff out of a smeltery.\nWith a Seared Chute you can put stuff in a smeltery.\nWith a Seared Duct you can filter your output fluid of a smeltery.\nYou need to put lava in a Fuel Tank to make your smeltery function. ",
+          "items": [
+            {
+              "item": {
+                "id": "tconstruct:smeltery_controller",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "tconstruct:seared_fuel_tank",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "tconstruct:seared_table",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "tconstruct:seared_ladder",
+                "Count": 1
+              },
+              "required": 2
+            },
+            {
+              "item": {
+                "id": "tconstruct:seared_drain",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "tconstruct:seared_chute",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "tconstruct:seared_bricks",
+                "Count": 1
+              },
+              "required": 27
+            },
+            {
+              "item": {
+                "id": "tconstruct:seared_duct",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "dd19662b-37d3-415a-b00f-a1f314163b21"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "tconstruct:seared_bricks",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "86721e24-78c7-4a29-8cc2-82eb764e0e9c",
+      "name": "Infested leaves",
+      "description": "Infested leaves",
+      "x": 52,
+      "y": 13,
+      "icon": {
+        "id": "exnihilosequentia:crook_stone",
+        "Count": 1,
+        "tag": "{Damage:0}"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "You can craft a Blackstone Crook with 4 Black Pebble\n\nUse your crook on leaves to get silkworms and also more sapling!\n\nPut your silkworm on leaves and let him infested your all tree, after that you can break those white leaves to get string.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:crook_stone",
+                "Count": 1,
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:silkworm",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:string",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c12f48ec-3396-4948-b878-5b58de1d9267"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:string",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "d1a4d281-34be-46f4-8f43-bc89abd99c3f",
+      "name": "Cobble For Days",
+      "description": "Cobble For Days",
+      "x": 155,
+      "y": 80,
+      "bigicon": true,
+      "icon": {
+        "id": "cobblefordays:tier_2",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "You have all you need to get your cobblestone Generator.",
+          "items": [
+            {
+              "item": {
+                "id": "cobblefordays:tier_2",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "30ffe831-1803-4712-8385-1090a8e365d6"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "excompressum:compressed_cobblestone",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "53ea7627-c200-4616-9bd6-0dbc4d1c436e",
+      "name": "Witchwater",
+      "description": "Witchwater",
+      "x": 17,
+      "y": 188,
+      "icon": {
+        "id": "exnihilosequentia:bucket_witchwater",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "You can get Witchwater by putting water into a barrel on top of mycelium.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:bucket_witchwater",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b087749f-e4ff-4739-84d4-5779311de21d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "exnihilosequentia:bucket_witchwater",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "66d611ca-e4a5-4c88-a7d6-5217c91d5dae",
+      "name": "Iron mesh sieve",
+      "description": "Iron mesh sieve",
+      "x": 193,
+      "y": 13,
+      "icon": {
+        "id": "exnihilosequentia:mesh_iron",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "This is what you can get with Dust, Gravel and Soul Sand.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:mesh_iron",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:redstone",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:glowstone_dust",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "powah:uraninite_raw_poor",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:diamond",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:quartz",
+                "Count": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "This is what you can get with Crushed Endstone, Crushed Sky Stone and Crushed Netherrack.",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:sky_dust",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:chorus_fruit",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:ender_pearl",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "appliedenergistics2:certus_quartz_crystal",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "thermal:sulfur_dust",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:netherite_scrap",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "thermal:cinnabar_dust",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:cobalt_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "projectred-core:electrotine_dust",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "37ff4a8f-b3a2-453e-bb25-10644d5a13f9"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "appliedenergistics2:quartz_ore",
+          "Count": 1
+        },
+        {
+          "id": "minecraft:diamond_ore",
+          "Count": 1
+        },
+        {
+          "id": "minecraft:redstone_ore",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7b7d8d36-c97b-4111-b7d3-8b1d9e60f34c",
+      "name": "Botany Pot",
+      "description": "Botany Pot",
+      "x": 157,
+      "y": 118,
+      "icon": {
+        "id": "botanypots:hopper_botany_pot",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "With a Botany Pot you can grow crops and saplings.\n\nYou can have a hopper variant to automate the output, simply put your hopper botany pot on top of a container.",
+          "items": [
+            {
+              "item": {
+                "id": "botanypots:botany_pot",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6077a4a5-9896-4da6-94e4-611efced7f04"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "botanypots:black_botany_pot",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c12f48ec-3396-4948-b878-5b58de1d9267",
+      "name": "Get your black pebbles",
+      "description": "Get your black pebbles",
+      "x": 14,
+      "y": 10,
+      "bigicon": true,
+      "icon": {
+        "id": "botania:pebble",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To start, you need to get black pebbles by shift right-clicking on blackstone.\n\nWith 4 black pebble you can craft a Blackstone block.\n\nWith 4 Blackstone block you can craft your first Blackstone Crafting Station.",
+          "items": [
+            {
+              "item": {
+                "id": "botania:pebble",
+                "Count": 1
+              },
+              "required": 16
+            },
+            {
+              "item": {
+                "id": "minecraft:blackstone",
+                "Count": 1
+              },
+              "required": 4
+            },
+            {
+              "item": {
+                "id": "craftingstation:crafting_station",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:blackstone",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "080ee34a-6840-4ca2-a7c8-dd8ce3dc1cb9",
+      "name": "Soul Sand Cake Baked",
+      "description": "Soul Sand Cake Baked",
+      "x": 228,
+      "y": 118,
+      "icon": {
+        "id": "kubejs:baked_soulsand_cake",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To be able to make the Nether Cake you are going to need to make a Soul Sand dough with a Mixer, then compacted it with an egg and sugar, then smoke it !",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:soulsand_dough",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:base_soulsand_cake",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:baked_soulsand_cake",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "pamhc2foodcore:carrotcakeitem",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "718614f3-3795-43ec-971f-d1789d947177",
+      "name": "Nether Cake",
+      "description": "Nether Cake",
+      "x": 228,
+      "y": 153,
+      "icon": {
+        "id": "telepastries:nether_cake",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Now that you have a Baked Soul Sand Cake and a bucket of Nether Icing, use a Spout to put your icing on top of your baked cake !\n\nDon\u0027t forget to bring with you an Overworld Cake !",
+          "items": [
+            {
+              "item": {
+                "id": "telepastries:nether_cake",
+                "Count": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "LOCATION",
+          "longDescription": "Just visit the Nether",
+          "locations": [
+            {
+              "name": "Nether",
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "dim": "minecraft:the_nether",
+              "radius": -1,
+              "visible": "LOCATION",
+              "icon": {
+                "id": "minecraft:magma_block",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "e28ef74c-d8c1-4ab3-8e78-f11ee3478e1f",
+        "080ee34a-6840-4ca2-a7c8-dd8ce3dc1cb9"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:obsidian",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "efafbb86-9475-4803-8d77-7ae9fcd9f352",
+      "name": "Sea Water",
+      "description": "Sea Water",
+      "x": 52,
+      "y": 153,
+      "icon": {
+        "id": "exnihilosequentia:bucket_sea_water",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To get Sea Water, simply put water in a barrel on top of sand.\n\nSea Water can be used to transform Coral Seed into Coral Block.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:bucket_sea_water",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b087749f-e4ff-4739-84d4-5779311de21d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "exnihilosequentia:bucket_sea_water",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c00d5c3c-1289-4728-9acc-8ae77cd93bae",
+      "name": "Crush and get Dirt",
+      "description": "Crush and get Dirt",
+      "x": 17,
+      "y": 48,
+      "icon": {
+        "id": "exnihilosequentia:hammer_stone",
+        "Count": 1,
+        "tag": "{Damage:0}"
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Now that you have a crafting station, it\u0027s time to make some crushing.\n\nYou can craft a Blackstone Hammer with 2 blackstone sticks and 2 Blackstone Block.\n\nWith that you can crush a Blackstone Block to obtain Black Gravel, keep crushing, and you get Dirt.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:hammer_stone",
+                "Count": 1,
+                "tag": "{Damage:0}"
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:black_gravel",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:dirt",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c12f48ec-3396-4948-b878-5b58de1d9267"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "kubejs:black_gravel",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "37ff4a8f-b3a2-453e-bb25-10644d5a13f9",
+      "name": "Flint mesh sieve",
+      "description": "Flint mesh sieve",
+      "x": 158,
+      "y": 13,
+      "icon": {
+        "id": "exnihilosequentia:mesh_flint",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "description": "Gravel Sieve",
+          "longDescription": "To get a flint mesh you need, first, to sieve gravel in a string mesh or craft it with three gravel.\nHere\u0027s all you can get with gravel in a flint mesh.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:mesh_flint",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:gold_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:copper_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:lead_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:tin_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:iron_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:coal",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:lapis_lazuli",
+                "Count": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "description": "Sand Sieve",
+          "longDescription": "Here\u0027s all you can get with sand in a flint mesh.",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:aluminum_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:silver_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:zinc_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:nickel_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:cocoa_beans",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "thermal:niter_dust",
+                "Count": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "description": "Dust Sieve",
+          "longDescription": "Here\u0027s all you can get with dust in a flint mesh.",
+          "items": [
+            {
+              "item": {
+                "id": "thermal:apatite_dust",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:gunpowder",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:bone_meal",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7598d112-e838-4e46-a916-20ebc3530a81"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:iron_ore",
+          "Count": 1
+        },
+        {
+          "id": "thermal:copper_ore",
+          "Count": 1
+        },
+        {
+          "id": "minecraft:gold_ore",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "e28ef74c-d8c1-4ab3-8e78-f11ee3478e1f",
+      "name": "Nether Icing",
+      "description": "Nether Icing",
+      "x": 228,
+      "y": 188,
+      "icon": {
+        "id": "kubejs:nether_icing_bucket",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To make the Nether Icing you need to mix, with a Blaze Burner, a Netherrack, a Nether Agglomeratio and a bucket of Honey.",
+          "items": [
+            {
+              "item": {
+                "id": "mysticalagriculture:nether_agglomeratio",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:netherrack",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "create:honey_bucket",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:nether_icing_bucket",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:crimson_nylium",
+          "Count": 4
+        },
+        {
+          "id": "minecraft:warped_nylium",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5803e90b-1718-4928-bf90-07a4019dc89e",
+      "name": "Emerald mesh sieve",
+      "description": "Emerald mesh sieve",
+      "x": 263,
+      "y": 13,
+      "icon": {
+        "id": "exnihilosequentia:mesh_emerald",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "This is the only new things you can get with an Emerald Mesh.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:mesh_emerald",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:turtle_egg",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b520183a-d769-490c-bac6-70d078ed8d53"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:scute",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "87f43baf-ad17-4e9a-8fcf-49bfd9e3d194",
+      "name": "Porcelain Doll",
+      "description": "Porcelain Doll",
+      "x": 193,
+      "y": 47,
+      "icon": {
+        "id": "exnihilosequentia:doll_crafting",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "With the diamond you can make a porcelain doll, which can be craft to get another doll, check out the next quests.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:doll_crafting",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "66d611ca-e4a5-4c88-a7d6-5217c91d5dae",
+        "30ffe831-1803-4712-8385-1090a8e365d6"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "exnihilosequentia:doll_crafting",
+          "Count": 6
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "512e27d2-c601-4514-9fff-db8730817a01",
+      "name": "Overworld Cake",
+      "description": "Overworld Cake",
+      "x": 193,
+      "y": 153,
+      "icon": {
+        "id": "telepastries:overworld_cake",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Now that you have a Baked Dirt Cake and a bucket of Overworld Icing, use a Spout to put your icing on top of your baked cake !",
+          "items": [
+            {
+              "item": {
+                "id": "telepastries:overworld_cake",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "ef62a99d-4a0b-494e-b8b2-f210077d0e4f",
+        "cbf4c3c6-6781-4951-bdcf-35f606359e79"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:oak_sapling",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2e96d4f7-147d-4a18-8e3d-ca6ecc58299c",
+      "name": "Sieve under the sea",
+      "description": "Sieve under the sea",
+      "x": 52,
+      "y": 48,
+      "icon": {
+        "id": "minecraft:kelp",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "You can put your sieve in water to get other stuff from sand !",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_kelp",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_pickle",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:seagrass",
+                "Count": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_yellow_coral",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_blue_coral",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_purple_coral",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_pink_coral",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_red_coral",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "bbbef9bd-187a-4f93-967b-c258309af778"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:dried_kelp_block",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0fc1f96a-6b3b-478d-8f44-0d1f532502f7",
+      "name": "Real food !",
+      "description": "Real food !",
+      "x": 87,
+      "y": 48,
+      "icon": {
+        "id": "minecraft:wheat",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Grow every crop you can get with your sieving job!",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:wheat",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:carrot",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:potato",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:beetroot",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:sweet_berries",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:sugar_cane",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:bamboo",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:cactus",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:melon",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:pumpkin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "bbbef9bd-187a-4f93-967b-c258309af778"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:bread",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b520183a-d769-490c-bac6-70d078ed8d53",
+      "name": "Diamond mesh sieve",
+      "description": "Diamond mesh sieve",
+      "x": 228,
+      "y": 13,
+      "icon": {
+        "id": "exnihilosequentia:mesh_diamond",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "This is what new you can get with Diamond Mesh.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:mesh_diamond",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:emerald",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:uranium_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:osmium_piece_ore",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:prismarine_crystals",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "66d611ca-e4a5-4c88-a7d6-5217c91d5dae"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:emerald_ore",
+          "Count": 1
+        },
+        {
+          "id": "mekanism:osmium_ore",
+          "Count": 1
+        },
+        {
+          "id": "mekanism:uranium_ore",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "cbf4c3c6-6781-4951-bdcf-35f606359e79",
+      "name": "Dirt Cake Baked",
+      "description": "Dirt Cake Baked",
+      "x": 193,
+      "y": 118,
+      "icon": {
+        "id": "kubejs:baked_dirt_cake",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To be able to make the Overworld Cake you are going to need to make a Dirt dough with a Mixer, then compacted it with an egg and sugar, then smoke it !",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:dirt_dough",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:base_dirt_cake",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:baked_dirt_cake",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "pamhc2foodcore:cheesecakeitem",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a11d1220-2241-47c2-a3c4-c9508b0d7dff",
+      "name": "Shulker Box",
+      "description": "Shulker Box",
+      "x": 263,
+      "y": 83,
+      "icon": {
+        "id": "minecraft:shulker_box",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "CRAFT",
+          "longDescription": "After killing some shulkers, you can craft shulker box !",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:shulker_box",
+                "Count": 1
+              },
+              "precision": "NBT_FUZZY"
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "b1b3e1dc-4070-43d2-9577-e467be287091"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:shulker_shell",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "00505205-1743-4f9c-bf09-238bd23d032e",
+      "name": "Lava transformation",
+      "description": "Lava transformation",
+      "x": 122,
+      "y": 47,
+      "icon": {
+        "id": "minecraft:netherrack",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "You can transform lava in a stone barrel with some dust.\n\nTo get Netherrack you need Redstone.\n\nTo get Endstone you need Glowstone.\n\nTo get Sky Stone you need Sky Stone Dust.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:netherrack",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:end_stone",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "appliedenergistics2:sky_stone_block",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "30ffe831-1803-4712-8385-1090a8e365d6"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "kubejs:compressed_sky_stone",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7598d112-e838-4e46-a916-20ebc3530a81",
+      "name": "Blocks and Crush",
+      "description": "Blocks and Crush",
+      "x": 122,
+      "y": 13,
+      "icon": {
+        "id": "minecraft:cobblestone",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "After sieving your dirt and obtain all the pebble, you can craft those to get blocks !",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:cobblestone",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:andesite",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:granite",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:diorite",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:basalt",
+                "Count": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "To get Gravel, smash a Cobblestone with your hammer.\n\nTo get Sand, smash a Gravel with your hammer.\n\nTo get Dust, smash a Sand Block with your hammer.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:gravel",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:sand",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:dust",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "bbbef9bd-187a-4f93-967b-c258309af778"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "excompressum:compressed_dust",
+          "Count": 2
+        },
+        {
+          "id": "excompressum:compressed_sand",
+          "Count": 2
+        },
+        {
+          "id": "excompressum:compressed_gravel",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "f9d87388-d2c0-44b4-9e9f-0c09e73321dc",
+      "name": "Beehive",
+      "description": "Beehive",
+      "x": 228,
+      "y": 83,
+      "icon": {
+        "id": "minecraft:beehive",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "With Beehive Frame you can craft a Beehive to begin to produce honey.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:beehive_frame",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:beehive",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "62f16de7-29f9-49b2-b3ff-1aaebce27b99"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:bee_nest",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "756dbc9c-cf09-4369-a57d-76c540baac8c",
+      "name": "Wood",
+      "description": "Wood",
+      "x": 17,
+      "y": 118,
+      "icon": {
+        "id": "minecraft:oak_log",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Simply get logs.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:oak_log",
+                "Count": 1
+              },
+              "required": 16
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "7dc95fd5-7b82-4f77-bc07-2e97211c8efa"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:spruce_log",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "7dc95fd5-7b82-4f77-bc07-2e97211c8efa",
+      "name": "First Sapling !",
+      "description": "First Sapling !",
+      "x": 17,
+      "y": 83,
+      "icon": {
+        "id": "minecraft:oak_sapling",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Continuing crushing your dirt to get these seed.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_oak",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_spruce",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_birch",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_jungle",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_acacia",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_darkoak",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "c00d5c3c-1289-4728-9acc-8ae77cd93bae"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "quark:blue_blossom_sapling",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "34c0ffe8-1ba0-4f09-a06b-13c39aa60c2f",
+      "name": "Tinker\u0027s Anvil",
+      "description": "Tinker\u0027s Anvil",
+      "x": 87,
+      "y": 118,
+      "icon": {
+        "id": "tconstruct:tinkers_anvil",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "With the Tinker\u0027s Anvil you can make advanced tools and weapons.\n\nThe Cast Chest is a chest who you can store your cast.",
+          "items": [
+            {
+              "item": {
+                "id": "tconstruct:tinkers_anvil",
+                "Count": 1
+              },
+              "precision": "TAG_FUZZY"
+            },
+            {
+              "item": {
+                "id": "tconstruct:cast_chest",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "8feece16-2fb6-476b-beed-9d8e8708c28f"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "pamhc2foodextended:fairybreaditem",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "293ae21d-aa67-4001-91b7-b5f8a715d63b",
+      "name": "Mining World Cake",
+      "description": "Mining World Cake",
+      "x": 298,
+      "y": 153,
+      "icon": {
+        "id": "telepastries:custom_cake",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Now that you have a Baked Cobble Cake, just compacted it with Redstone, Diamond, Iron and Gold !\n\nDon\u0027t forget to bring with you an Overworld Cake !",
+          "items": [
+            {
+              "item": {
+                "id": "telepastries:custom_cake",
+                "Count": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "LOCATION",
+          "longDescription": "Just visit the mining world",
+          "locations": [
+            {
+              "name": "Mining World",
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "dim": "mining_dimension:mining",
+              "radius": -1,
+              "visible": "NONE",
+              "icon": {
+                "id": "minecraft:cobblestone",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "801f50aa-2e7b-4cee-a173-ab9bcebfe254"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:cobblestone",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "a82b0a23-1e9b-461d-b757-1b767befa721",
+      "name": "Netherite mesh sieve",
+      "description": "Netherite mesh sieve",
+      "x": 298,
+      "y": 13,
+      "icon": {
+        "id": "exnihilosequentia:mesh_netherite",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The ultimate mesh, you can get a lot more resources with.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:mesh_netherite",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "5803e90b-1718-4928-bf90-07a4019dc89e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "exnihilosequentia:hammer_netherite",
+          "Count": 1,
+          "tag": "{Damage:0}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "801f50aa-2e7b-4cee-a173-ab9bcebfe254",
+      "name": "Cobble Cake Baked",
+      "description": "Cobble Cake Baked",
+      "x": 298,
+      "y": 118,
+      "icon": {
+        "id": "kubejs:baked_cobble_cake",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To be able to make the Mining World Cake you are going to need to make a Cobble dough with a Mixer, then compacted it with an egg and sugar, then smoke it !",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:cobble_dough",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:base_cobble_cake",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:baked_cobble_cake",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "pamhc2foodextended:chocolatesprinklecakeitem",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b1b3e1dc-4070-43d2-9577-e467be287091",
+      "name": "Spawn a Shulker",
+      "description": "Spawn a Shulker",
+      "x": 263,
+      "y": 47,
+      "icon": {
+        "id": "exnihilosequentia:doll_shulker",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "With a Floating Doll you can spawn a Shulker.\n\nTo do that, just put the doll in a barrel full of Witchwater.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:doll_shulker",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "87f43baf-ad17-4e9a-8fcf-49bfd9e3d194"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "exnihilosequentia:doll_shulker",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "2e351ef4-c84b-4c3b-8733-ae3e7fb634a2",
+      "name": "End Icing",
+      "description": "End Icing",
+      "x": 263,
+      "y": 188,
+      "icon": {
+        "id": "kubejs:end_icing_bucket",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To make the End Icing you need to mix, with a Blaze Burner, an End Stone, an End Agglomeratio and a bucket of Honey.",
+          "items": [
+            {
+              "item": {
+                "id": "mysticalagriculture:end_agglomeratio",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:end_stone",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "create:honey_bucket",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:end_icing_bucket",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "quark:chorus_fruit_block",
+          "Count": 4
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "ef62a99d-4a0b-494e-b8b2-f210077d0e4f",
+      "name": "Overworld Icing",
+      "description": "Overworld Icing",
+      "x": 193,
+      "y": 188,
+      "icon": {
+        "id": "kubejs:overworld_icing_bucket",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To make the Overworld Icing you need to mix, with a Blaze Burner, a Grass Block, a Nature Agglomeratio and a bucket of Honey.",
+          "items": [
+            {
+              "item": {
+                "id": "mysticalagriculture:nature_agglomeratio",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:grass_block",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "create:honey_bucket",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:overworld_icing_bucket",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:grass_block",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "bbbef9bd-187a-4f93-967b-c258309af778",
+      "name": "Sieving job",
+      "description": "Sieving job",
+      "x": 87,
+      "y": 13,
+      "icon": {
+        "id": "exnihilosequentia:mesh_string",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Now that you have string, you need to make a string mesh with a sieve to start sieving dirt.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:mesh_string",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:sieve",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:pebble_stone",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:pebble_granite",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:pebble_diorite",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:pebble_andesite",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:pebble_basalt",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:pebble_blackstone",
+                "Count": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "DETECT",
+          "longDescription": "Grass Seeds can transform dirt into grass and  Ancient Spores can transform dirt into mycelium.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:wheat_seeds",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:pumpkin_seeds",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:melon_seeds",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_bamboo",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_fern",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_berry",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_large_fern",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_cactus",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_sugarcane",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:ancient_spores",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_potato",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:seed_carrot",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:grass_seeds",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:beetroot_seeds",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "86721e24-78c7-4a29-8cc2-82eb764e0e9c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:dirt",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "664b8855-34a9-4c5c-b4ae-3478f7fadf6a",
+      "name": "Water",
+      "description": "Water",
+      "x": 52,
+      "y": 83,
+      "icon": {
+        "id": "minecraft:water_bucket",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To make water you need a Crucible.\n\nPlace saplings or leaves in it to create water.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:oak_sapling",
+                "Count": 1
+              },
+              "required": 10
+            },
+            {
+              "item": {
+                "id": "excompressum:oak_crucible",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:water_bucket",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "756dbc9c-cf09-4369-a57d-76c540baac8c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:water_bucket",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "dd19662b-37d3-415a-b00f-a1f314163b21",
+      "name": "Tiny Smelter",
+      "description": "Tiny Smelter",
+      "x": 122,
+      "y": 153,
+      "icon": {
+        "id": "tconstruct:seared_melter",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "This is your second step.\nYou need to put your Seared Smelter on top of your Seared Heater.\nThen put any kind of combustible in the Heater and smelt your 3 raw copper to get 4 copper melted.\n\nFinally, pour your melted copper with a faucet in Casting Basin with a Seared Heater inside to obtain a Smeltry Controller (start of the next quest)",
+          "items": [
+            {
+              "item": {
+                "id": "tconstruct:seared_heater",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "tconstruct:seared_melter",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:raw_copper",
+                "Count": 1
+              },
+              "required": 3
+            },
+            {
+              "item": {
+                "id": "tconstruct:seared_faucet",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "tconstruct:seared_basin",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "5de97d78-2638-46bf-8a5d-f81bb6ef08c4"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "tconstruct:seared_brick",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "6077a4a5-9896-4da6-94e4-611efced7f04",
+      "name": "Clay",
+      "description": "Clay",
+      "x": 122,
+      "y": 83,
+      "icon": {
+        "id": "minecraft:clay",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To get Clay you need to put a Dust Block in a barrel with Water.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:clay",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "664b8855-34a9-4c5c-b4ae-3478f7fadf6a"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:clay",
+          "Count": 2
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "84e4057f-e736-498f-8a51-9d71f2a2bf51",
+      "name": "End Cake",
+      "description": "End Cake",
+      "x": 263,
+      "y": 153,
+      "icon": {
+        "id": "telepastries:end_cake",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Now that you have a Baked Obsidian Cake and a bucket of End Icing, use a Spout to put your icing on top of your baked cake !\n\nDon\u0027t forget to bring with you an Overworld Cake if you want to go back without killing the dragon!",
+          "items": [
+            {
+              "item": {
+                "id": "telepastries:end_cake",
+                "Count": 1
+              }
+            }
+          ]
+        },
+        {
+          "type": "LOCATION",
+          "longDescription": "Just visit the end",
+          "locations": [
+            {
+              "name": "End",
+              "x": 0,
+              "y": 0,
+              "z": 0,
+              "dim": "minecraft:the_end",
+              "radius": -1,
+              "visible": "NONE",
+              "icon": {
+                "id": "betterendforge:chorus_nylium_path",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "33d40d36-5e00-4730-8bb3-45206c03bd3d",
+        "2e351ef4-c84b-4c3b-8733-ae3e7fb634a2"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:ender_eye",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b087749f-e4ff-4739-84d4-5779311de21d",
+      "name": "Barrel",
+      "description": "Barrel",
+      "x": 17,
+      "y": 153,
+      "icon": {
+        "id": "exnihilosequentia:barrel_wood",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "With your wood you can now make a Barrel to create all kind of things.\n\nFor example, you can create dirt with saplings, leaves, silkworms etc...",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:barrel_wood",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "756dbc9c-cf09-4369-a57d-76c540baac8c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:apple",
+          "Count": 8
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "62f16de7-29f9-49b2-b3ff-1aaebce27b99",
+      "name": "Spawn a Bee",
+      "description": "Spawn a Bee",
+      "x": 228,
+      "y": 47,
+      "icon": {
+        "id": "exnihilosequentia:doll_bee",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "With a Buzzing Doll you can spawn a Bee.\n\nTo do that, just put the doll in a barrel full of Witchwater.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:doll_bee",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "87f43baf-ad17-4e9a-8fcf-49bfd9e3d194"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:honey_bottle",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "b53c8133-1eb4-49ca-b741-8125ce3eba9c",
+      "name": "The Other Dolls",
+      "description": "The Other Dolls",
+      "x": 298,
+      "y": 48,
+      "icon": {
+        "id": "exnihilosequentia:doll_blaze",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "You can spawn a blaze with a Blazing Doll in a barrel full of Lava.\n\nYou can spawn an Enderman with a Creeping Doll in a barrel full of Witchwater.\n\nYou can spawn a Gardian with a Protecting Doll in a barrel full of Sea Water.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:doll_blaze",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:doll_enderman",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:doll_guardian",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "87f43baf-ad17-4e9a-8fcf-49bfd9e3d194"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:blaze_rod",
+          "Count": 1
+        },
+        {
+          "id": "minecraft:ender_pearl",
+          "Count": 1
+        },
+        {
+          "id": "minecraft:sponge",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "c64fe4b8-41da-4d70-a256-31dd9fa5744b",
+      "name": "Tinkers\u0027 Construct",
+      "description": "Tinkers\u0027 Construct",
+      "x": 53,
+      "y": 118,
+      "icon": {
+        "id": "tconstruct:crafting_station",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "items": [
+            {
+              "item": {
+                "id": "tconstruct:crafting_station",
+                "Count": 1
+              },
+              "precision": "NBT_FUZZY"
+            },
+            {
+              "item": {
+                "id": "tconstruct:tinker_station",
+                "Count": 1,
+                "tag": "{texture:\"minecraft:oak_planks\"}"
+              }
+            },
+            {
+              "item": {
+                "id": "tconstruct:part_builder",
+                "Count": 1,
+                "tag": "{texture:\"minecraft:oak_planks\"}"
+              }
+            },
+            {
+              "item": {
+                "id": "tconstruct:part_chest",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "tconstruct:pattern",
+                "Count": 1
+              },
+              "required": 64
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "756dbc9c-cf09-4369-a57d-76c540baac8c"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "tconstruct:pattern",
+          "Count": 32
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "0a4ef364-a770-469b-81c5-8910141668b8",
+      "name": "Witchwater transformation",
+      "description": "Witchwater transformation",
+      "x": 52,
+      "y": 188,
+      "icon": {
+        "id": "minecraft:slime_block",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To get Mushroom Block use an Ancient Spores in a barrel with Witchwater.\n\nTo get Slime Block use a mushroom in a barrel with Witchwater.\n\nTo get Soul Sand use a Sand Block in a barrel with Witchwater.",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:brown_mushroom_block",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:slime_block",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:soul_sand",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "53ea7627-c200-4616-9bd6-0dbc4d1c436e"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:slime_block",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "5de97d78-2638-46bf-8a5d-f81bb6ef08c4",
+      "name": "Grout",
+      "description": "Grout",
+      "x": 122,
+      "y": 118,
+      "icon": {
+        "id": "tconstruct:grout",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "This is the first step to begin your Tinkers Smeltery !",
+          "items": [
+            {
+              "item": {
+                "id": "tconstruct:grout",
+                "Count": 1
+              },
+              "required": 64
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6077a4a5-9896-4da6-94e4-611efced7f04"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "tconstruct:grout",
+          "Count": 16
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "3682bd3e-f7ed-43b4-8108-717aba3d3214",
+      "name": "Honey !",
+      "description": "Honey !",
+      "x": 193,
+      "y": 82,
+      "icon": {
+        "id": "minecraft:honeycomb",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Produce Honey with your Bee !",
+          "items": [
+            {
+              "item": {
+                "id": "minecraft:honey_bottle",
+                "Count": 1
+              },
+              "required": 4
+            },
+            {
+              "item": {
+                "id": "minecraft:honeycomb",
+                "Count": 1
+              },
+              "required": 4
+            },
+            {
+              "item": {
+                "id": "minecraft:honey_block",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:honeycomb_block",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "62f16de7-29f9-49b2-b3ff-1aaebce27b99"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "create:honeyed_apple",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "30ffe831-1803-4712-8385-1090a8e365d6",
+      "name": "Lava",
+      "description": "Lava",
+      "x": 158,
+      "y": 47,
+      "icon": {
+        "id": "minecraft:lava_bucket",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Now that you have Bone Meal and Clay you can craft Porcelain Clay to craft a Crucible.\n\nSimply put Crushed Granite, Crushed Andesite, Crushed Diorite or Cobblestone to generate Lava.\nMake sure to put a heat source underneath your crucible.",
+          "items": [
+            {
+              "item": {
+                "id": "exnihilosequentia:crucible_unfired",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "exnihilosequentia:crucible_fired",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "minecraft:lava_bucket",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "6077a4a5-9896-4da6-94e4-611efced7f04",
+        "37ff4a8f-b3a2-453e-bb25-10644d5a13f9"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "minecraft:lava_bucket",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "33d40d36-5e00-4730-8bb3-45206c03bd3d",
+      "name": "Obsidian Cake Baked",
+      "description": "Obsidian Cake Baked",
+      "x": 263,
+      "y": 118,
+      "icon": {
+        "id": "kubejs:baked_obsidian_cake",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "To be able to make the End Cake you are going to need to make an Obsidian dough with a Mixer, then compacted it with an egg and sugar, then smoke it !",
+          "items": [
+            {
+              "item": {
+                "id": "kubejs:obsidian_dough",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:base_obsidian_cake",
+                "Count": 1
+              }
+            },
+            {
+              "item": {
+                "id": "kubejs:baked_obsidian_cake",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "pamhc2foodextended:pineappleupsidedowncakeitem",
+          "Count": 1
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    }
+  ],
+  "reputationBar": [],
+  "description": "In this page you\u0027re going to find how to play at the start of this pack."
+}

@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+	  "iii",
+	  "cdc",
+	  "fbf"
+	],
+	"key": {
+	  "c": {
+		"item": "powah:capacitor_hardened"
+	  },
+	  "i": {
+		"item": "powah:steel_energized"
+	  },
+	  "f": {
+		"item": "powah:furnator_basic"
+	  },
+	  "d": {
+		"item": "powah:dielectric_casing"
+	  },
+	  "b": {
+		"item": "powah:energized_steel_block"
+	  }
+	},
+	"result": {
+	  "item": "powah:furnator_hardened"
+	}
+  }

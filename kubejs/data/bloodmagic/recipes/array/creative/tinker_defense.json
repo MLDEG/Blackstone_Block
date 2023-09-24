@@ -1,0 +1,17 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "mysticalagradditions:creative_essence"
+  },
+  "addedinput": {
+    "item": "minecraft:netherite_chestplate"
+  },
+  "output":
+  {
+      "type": "forge:nbt",
+      "item": "tconstruct:creative_slot",
+      "nbt": "{slot:\"defense\"}",
+      "count": 1 
+  }
+}

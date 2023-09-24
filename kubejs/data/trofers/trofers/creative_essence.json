@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#fc54fc",
+    "text": "Creative Essence Trophy"
+  },
+  "animation":{
+      "type": "tumbling",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "item": {
+    "item": "mysticalagradditions:creative_essence"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#fc54fc"
+  }
+}

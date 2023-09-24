@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+          "item": "bloodmagic:dungeon_polished"
+        },
+        {
+          "item": "bloodmagic:dungeon_polished"
+        },
+        {
+          "item": "bloodmagic:dungeon_polished"
+        },
+        {
+          "item": "bloodmagic:dungeon_polished"
+        }
+    ],
+    "result": {
+      "item": "bloodmagic:dungeon_brick1"
+    }
+  }

@@ -1,0 +1,33 @@
+{
+  "group": "create_stuff_additions",
+  "type": "create:mechanical_crafting",
+  "pattern": [
+  	"63636",
+    "52125",
+    " 424 "
+  ],
+  "key": {
+  	"1": {
+      "item": "create:precision_mechanism"
+    },
+    "2": {
+      "item": "create:andesite_casing"
+    },
+    "3": {
+      "item": "create:andesite_alloy"
+    },
+    "4": {
+      "item": "create:andesite_alloy"
+    },
+    "5": {
+      "item": "create:encased_fan"
+    },
+    "6": {
+      "tag": "forge:cogwheel"
+    }
+  },
+  "result": {
+    "item": "create_stuff_additions:andesite_encased_jet_chestplate",
+    "count": 1
+  }
+}

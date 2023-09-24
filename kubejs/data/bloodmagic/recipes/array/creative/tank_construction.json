@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "mekanism:creative_fluid_tank"
+  },
+  "addedinput": {
+    "item": "thermal:fluid_tank_augment"
+  },
+  "output": {
+    "item": "thermal:fluid_tank_creative_augment"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#C#",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+      "item": "mysticalagriculture:inferium_essence"
+    },
+    "C": {
+      "item": "matc:inferium_crystal"
+    },
+    "X": {
+      "item": "kubejs:ci1"
+    }
+  },
+  "result": {
+    "item": "mysticalagriculture:prudentium_essence"
+  }
+}

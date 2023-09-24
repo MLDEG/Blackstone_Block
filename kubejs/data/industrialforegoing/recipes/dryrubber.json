@@ -1,0 +1,37 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "industrialforegoing:tinydryrubber"
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber"
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber"
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber"
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber"
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber"
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber"
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber"
+    },
+    {
+      "item": "industrialforegoing:tinydryrubber"
+    }
+  ],
+  "results": [
+    {
+      "item": "industrialforegoing:dryrubber"
+    }
+  ]
+}

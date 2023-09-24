@@ -1,0 +1,20 @@
+{
+  "type": "bloodmagic:soulforge",
+  "input0": {
+    "item": "bloodmagic:primitive_crystalline_resonator"
+  },
+  "input1": {
+    "item": "bloodmagic:demonslate"
+  },
+  "input2": {
+    "item": "bloodmagic:weakbloodshard"
+  },
+  "input3": {
+    "tag": "bloodmagic:crystals/demon"
+  },
+  "output": {
+    "item": "bloodmagic:crystalline_resonator"
+  },
+  "minimumDrain": 2000.0,
+  "drain": 500.0
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Obsidian",
+  "colors": [
+    "36234c",
+    "000001"
+  ],
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  }
+}

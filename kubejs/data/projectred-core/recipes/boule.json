@@ -1,0 +1,23 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "item": "thermal:sawdust"
+    },
+    {
+      "item": "thermal:quartz_dust"
+    },
+    {
+      "item": "thermal:quartz_dust"
+    }
+  ],
+  "results": [
+    {
+      "item": "projectred-core:boule"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

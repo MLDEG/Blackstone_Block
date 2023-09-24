@@ -1,0 +1,11 @@
+{
+  "type": "powah:energizing",
+  "ingredients": [
+	{"tag": "forge:gems/diamond"},
+	{"tag": "mekanism:crystals"}
+  ],
+  "energy": 300000,
+  "result": {
+	"item": "powah:crystal_niotic"
+  }
+}

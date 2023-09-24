@@ -1,0 +1,57 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "supplementaries:hourglass"
+    },
+    "transitionalItem": {
+      "item": "supplementaries:hourglass"
+    },
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "supplementaries:hourglass"},
+          {"item": "thermal:enderium_nugget"}
+        ],
+        "results": [
+          {"item": "supplementaries:hourglass"}
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "supplementaries:hourglass"},
+          {"item": "minecraft:gold_nugget"}
+        ],
+        "results": [
+          {"item": "supplementaries:hourglass"}
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {"item": "supplementaries:hourglass"},
+          {"item": "thermal:silver_nugget"}
+        ],
+        "results": [
+          {"item": "supplementaries:hourglass"}
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {"item": "supplementaries:hourglass"}
+        ],
+        "results": [
+          {"item": "supplementaries:hourglass"}
+        ]
+      }
+    ],
+    "results": [
+      {
+        "item": "tiab:timeinabottle",
+        "count": 1
+      }
+    ],
+    "loops": 33
+  }

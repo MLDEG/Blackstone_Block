@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "thermal:copper_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "thermal:copper_dust"
+    }
+  ],
+  "processingTime": 100
+}

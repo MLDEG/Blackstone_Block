@@ -1,0 +1,9 @@
+{
+	"type": "cagedmobs:env_data",
+	"input": {
+		"item": "extendedcrafting:nether_star_block"
+	},
+	"growModifier": 5.0,
+	"render": "extendedcrafting:nether_star_block",
+	"categories": ["pink_wither"]
+}

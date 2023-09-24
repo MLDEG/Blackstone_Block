@@ -1,0 +1,36 @@
+{
+  "input": [
+    {
+      "item": "botania:bifrost_pane"
+    },
+    {
+      "item": "kubejs:base_addon"
+    },
+    {
+      "item": "botania:bifrost_pane"
+    },
+    {
+      "item": "minecraft:bone_block"
+    },
+    {
+      "item": "minecraft:bone_block"
+    },
+    {
+      "item": "minecraft:bone_block"
+    },
+    {
+      "item": "extendedcrafting:redstone_ingot"
+    },
+    {
+      "item": "minecraft:bone_block"
+    }
+  ],
+  "inputFluid": "{FluidName:\"industrialforegoing:latex\",Amount:2000}",
+  "processingTime": 200,
+  "output": {
+    "item": "industrialforegoing:range_addon2",
+    "count": 1,
+    "nbt": "{TitaniumAugment:{Range:2.0f}}"
+  },
+  "type": "industrialforegoing:dissolution_chamber"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "Y Y",
+    "XYX"
+  ],
+  "key": {
+    "X": {
+      "item": "createaddition:gold_wire"
+    },
+    "Y": {
+      "item": "botania:mana_string"
+    }
+  },
+  "result": {
+    "item": "miniutilities:golden_lasso"
+  }
+}

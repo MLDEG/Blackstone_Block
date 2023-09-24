@@ -1,0 +1,24 @@
+{
+  "type": "botania:runic_altar",
+  "output": {
+    "item": "kubejs:livingrock_air"
+  },
+  "mana": 5200,
+  "ingredients": [
+    {
+      "tag": "forge:dusts/mana"
+    },
+    {
+      "tag": "forge:ingots/manasteel"
+    },
+    {
+      "item": "mysticalagriculture:air_agglomeratio"
+    },
+    {
+      "item": "supplementaries:feather_block"
+    },
+    {
+      "item": "minecraft:white_carpet"
+    }
+  ]
+}

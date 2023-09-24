@@ -1,0 +1,28 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {"item": "simplyjetpacks:armorplating_te1"},
+  "transitionalItem": {"item": "simplyjetpacks:armorplating_te1"},
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "simplyjetpacks:armorplating_te1"},
+        {"item": "create:brass_sheet"}
+      ],
+      "results": [{"item": "simplyjetpacks:armorplating_te1"}]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {"item": "simplyjetpacks:armorplating_te1"}
+      ],
+      "results": [
+        {"item": "simplyjetpacks:armorplating_te1"}
+      ]
+    }
+  ],
+  "results": [
+    {"item": "simplyjetpacks:armorplating_te2","count": 1}
+  ],
+  "loops": 4
+}

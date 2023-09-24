@@ -1,0 +1,14 @@
+{
+  "oreConfig": [
+    {
+      "ore": "rftoolsbase:dimensionalshard_overworld",
+      "filler": "minecraft:stone",
+      "minY": 0,
+      "maxY": 30,
+      "maxVeinSize": 4,
+      "spawnRate": 2.0,
+      "biomeBlacklist": [],
+      "biomeWhitelist": ["mining_dimension:mining", "OVERWORLD"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "appliedenergistics2:sky_stone_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "kubejs:crushed_sky_stone"
+    }
+  ],
+  "processingTime": 150
+}

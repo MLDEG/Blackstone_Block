@@ -1,0 +1,13 @@
+{
+  "name": "Pendorite",
+  "type": "resource",
+  "tier": "mysticalagriculture:5",
+  "ingredient": {
+    "item": "minecraft:air"
+  },
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_pendorite",
+    "essence": "mysticalagriculture:item/essence_pendorite",
+    "seeds": "mysticalagriculture:item/pendorite_seeds"
+  }
+}

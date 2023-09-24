@@ -1,0 +1,23 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.2,
+      "mesh": "iron"
+    },
+    {
+      "chance": 0.2,
+      "mesh": "emerald"
+    },
+    {
+      "chance": 0.3,
+      "mesh": "netherite"
+    }
+  ],
+  "input": {
+    "item": "exnihilosequentia:crushed_netherrack"
+  },
+  "result": {
+    "item": "kubejs:cobalt_piece_ore"
+  }
+}

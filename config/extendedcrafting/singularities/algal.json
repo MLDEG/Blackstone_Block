@@ -1,0 +1,10 @@
+{
+  "name": "Algal",
+  "colors": [
+    "3e4b44",
+    "262624"
+  ],
+  "ingredient": {
+    "item": "architects_palette:algal_brick"
+  }
+}

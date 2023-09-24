@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "compactmachines:wall"},
+        {
+        "type": "forge:nbt",
+        "item": "tconstruct:tough_handle",
+        "nbt": "{Material:\"tconstruct:hepatizon\"}"
+    }
+  ],
+  "results": [
+    {
+      "item": "compactcrafting:base",
+      "count": 1
+    }]
+}

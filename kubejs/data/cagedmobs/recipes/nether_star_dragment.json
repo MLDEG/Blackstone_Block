@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:nether_star"
+        }
+    ],
+    "result": {
+        "count": 9,
+        "item": "cagedmobs:nether_star_fragment"
+    }
+}

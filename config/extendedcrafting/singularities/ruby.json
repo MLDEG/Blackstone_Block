@@ -1,0 +1,10 @@
+{
+  "name": "Ruby",
+  "colors": [
+    "e93e43",
+    "9d0a33"
+  ],
+  "ingredient": {
+    "item": "thermal:ruby"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "mysticalagradditions:creative_essence"
+  },
+  "addedinput": {
+    "item": "mysticalagriculture:soulium_dagger"
+  },
+  "output": {
+    "item": "mysticalagriculture:creative_soulium_dagger"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "draconicmachinery",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brick"
+    },
+    "1": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "2": {
+      "item": "minecraft:brick"
+    },
+    "3": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "4": {
+      "item": "draconicevolution:generator"
+    },
+    "5": {
+      "item": "draconicevolution:draconium_ingot"
+    },
+    "6": {
+      "item": "minecraft:brick"
+    },
+    "7": {
+      "item": "draconicevolution:wyvern_core"
+    },
+    "8": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "draconicmachinery:enhanced_generator",
+    "count": 1
+  }
+}

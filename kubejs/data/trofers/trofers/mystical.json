@@ -1,0 +1,17 @@
+{
+  "name": {
+    "color": "#8f00d1",
+    "text": "Mystical Trophy"
+  },
+  "display": {
+    "scale": 0.5
+  },
+  "entity": {
+    "type": "minecraft:skeleton",
+    "nbt": "{HandItems: [{id: \"mysticaladaptations:insanium_sword\", Count: 1b, tag: {Enchantments: [{lvl: 1s, id: \"minecraft:sharpness\"}]}}, {}], ArmorItems: [{id: \"mysticaladaptations:insanium_boots\", Count: 1b, tag: {Damage: 0, Enchantments: [{lvl: 1s, id: \"minecraft:protection\"}]}}, {id: \"mysticaladaptations:insanium_leggings\", Count: 1b, tag: {Damage: 0, Enchantments: [{lvl: 1s, id: \"minecraft:protection\"}]}}, {id: \"mysticaladaptations:insanium_chestplate\", Count: 1b, tag: {Damage: 0, Enchantments: [{lvl: 1s, id: \"minecraft:protection\"}]}}, {id: \"mysticaladaptations:insanium_helmet\", Count: 1b, tag: {Damage: 0, Enchantments: [{lvl: 1s, id: \"minecraft:protection\"}]}}]}"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#8f00d1"
+  }
+}

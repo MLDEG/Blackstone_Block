@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "CDE",
+    "AFA"
+  ],
+  "key": {
+    "A": {
+      "item": "thermal:rich_slag_bricks"
+    },
+    "B": {"type": "forge:nbt", "item": "tconstruct:hammer_head", "count": 1, "nbt": "{Material:\"materialis:pink_slime\"}" },
+    "C": {"type": "forge:nbt", "item": "tconstruct:pickaxe_head", "count": 1, "nbt": "{Material:\"materialis:alfsteel\"}" },
+    "E": {"type": "forge:nbt", "item": "tconstruct:broad_axe_head", "count": 1, "nbt": "{Material:\"materialis:refined_obsidian\"}" },
+    "F": {"type": "forge:nbt", "item": "materialis:wrench_head", "count": 1, "nbt": "{Material:\"materialis:terrasteel\"}" },
+    "D": {
+      "item": "create:crafting_blueprint"
+    }
+  },
+  "result": {
+    "item": "rftoolsbuilder:shape_card_def"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "thermal:tar"
+    }
+  ],
+  "results": [
+    {
+      "item": "powah:dielectric_paste",
+      "count": 5
+    }
+  ],
+  "processingTime": 40
+}

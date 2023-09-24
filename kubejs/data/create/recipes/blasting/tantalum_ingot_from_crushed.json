@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "tinkersarchery:crushed_tantalum"
+  },
+  "result": "tinkersarchery:tantalum_ingot",
+  "experience": 0.1,
+  "cookingtime": 100
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:ingot_hop_graphite"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:dust_hop_graphite"
+    }
+  ],
+  "processingTime": 100
+}

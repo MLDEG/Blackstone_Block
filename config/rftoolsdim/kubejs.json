@@ -1,0 +1,52 @@
+[
+  {
+    "type": "block",
+    "key": "kubejs:electrotine_alloy_ingot_block",
+    "rarity": "uncommon",
+    "create": 200,
+    "maintain": 200,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "kubejs:red_alloy_ingot_block",
+    "rarity": "uncommon",
+    "create": 200,
+    "maintain": 200,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "kubejs:pink_slime_ingot_block",
+    "rarity": "uncommon",
+    "create": 200,
+    "maintain": 200,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "architects_palette:scute_block",
+    "rarity": "common",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "kubejs:dragonscales_block",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 200,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

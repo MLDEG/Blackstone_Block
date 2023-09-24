@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  W",
+    " S ",
+    "W  "
+  ],
+  "key": {
+    "W": {
+      "item": "pamhc2crops:cottonitem"
+    },
+    "S": {
+      "item": "betterendforge:leather_wrapped_stick"
+    }
+  },
+  "result": {
+    "item": "mob_grinding_utils:mob_swab"
+  }
+}

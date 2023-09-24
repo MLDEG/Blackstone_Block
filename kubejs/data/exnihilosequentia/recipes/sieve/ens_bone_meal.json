@@ -1,0 +1,23 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.2,
+      "mesh": "flint"
+    },
+    {
+      "chance": 0.2,
+      "mesh": "diamond"
+    },
+    {
+      "chance": 0.5,
+      "mesh": "netherite"
+    }
+  ],
+  "input": {
+    "item": "exnihilosequentia:dust"
+  },
+  "result": {
+    "item": "minecraft:bone_meal"
+  }
+}

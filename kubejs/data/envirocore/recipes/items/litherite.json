@@ -1,0 +1,79 @@
+{
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "appliedenergistics2:purified_certus_quartz_crystal"
+    },
+    "transitionalItem": {
+      "item": "appliedenergistics2:purified_certus_quartz_crystal"
+    },
+    "sequence": [
+      {
+        "type": "create:cutting",
+        "ingredients": [
+          {"item": "appliedenergistics2:purified_certus_quartz_crystal"}
+        ],
+        "results": [
+          {"item": "appliedenergistics2:purified_certus_quartz_crystal"}
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "appliedenergistics2:purified_certus_quartz_crystal"
+          },
+          {
+            "item": "extendedcrafting:ender_nugget"
+          }
+        ],
+        "results": [
+          {
+            "item": "appliedenergistics2:purified_certus_quartz_crystal"
+          }
+        ]
+      },
+      {
+          "type": "create:filling",
+          "ingredients": [
+            {
+              "item": "appliedenergistics2:purified_certus_quartz_crystal"
+            },
+            {
+              "fluid": "tconstruct:molten_queens_slime",
+              "nbt": {},
+              "amount": 288
+            }
+          ],
+          "results": [
+            {
+              "item": "appliedenergistics2:purified_certus_quartz_crystal"
+            }
+          ]
+        },
+        {
+          "type": "create:pressing",
+          "ingredients": [
+            {"item": "appliedenergistics2:purified_certus_quartz_crystal"}
+          ],
+          "results": [
+            {"item": "appliedenergistics2:purified_certus_quartz_crystal"}
+          ]
+        }
+    ],
+    "results": [
+      {
+        "item": "envirocore:litherite_crystal",
+        "count": 1,
+        "chance": 25.0
+      },
+      {
+        "item": "extendedcrafting:ender_nugget",
+        "chance": 2.0
+      },
+      {
+        "item": "appliedenergistics2:purified_certus_quartz_crystal",
+        "chance": 2.0
+      }
+    ],
+    "loops": 4
+  }

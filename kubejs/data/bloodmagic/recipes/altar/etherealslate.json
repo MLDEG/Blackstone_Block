@@ -1,0 +1,13 @@
+{
+    "type": "bloodmagic:altar",
+    "input": {
+      "item": "kubejs:slate_demonic"
+    },
+    "output": {
+      "item": "bloodmagic:etherealslate"
+    },
+    "upgradeLevel": 4,
+    "altarSyphon": 30000,
+    "consumptionRate": 20,
+    "drainRate": 20
+  }

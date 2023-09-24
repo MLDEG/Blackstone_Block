@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    "iri",
+    " i "
+  ],
+  "key": {
+    "i": {
+      "item": "thermal:invar_plate"
+    },
+    "r": {
+      "item": "draconicmachinery:redstone_core"
+    }
+  },
+  "result": {
+    "item": "thermal:rs_control_augment"
+  }
+}

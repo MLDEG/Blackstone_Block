@@ -1,0 +1,13 @@
+{
+  "type": "bloodmagic:array",
+  "texture": "bloodmagic:textures/models/alchemyarrays/bsb.png",
+  "baseinput": {
+    "item": "mysticalagradditions:creative_essence"
+  },
+  "addedinput": {
+    "item": "pipez:ultimate_upgrade"
+  },
+  "output": {
+    "item": "pipez:infinity_upgrade"
+  }
+}

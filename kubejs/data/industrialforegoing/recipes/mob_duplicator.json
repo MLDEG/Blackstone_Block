@@ -1,0 +1,52 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "item": "industrialforegoing:mob_duplicator",
+              "type": "forge:item_exists"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+          "ABA",
+          "CDE",
+          "FGF"
+        ],
+        "key": {
+          "A": {
+            "item": "tdelight:hamletite_ingot"
+          },
+          "B": {
+            "item": "cagedmobs:mobcage"
+          },
+          "C": {
+            "item": "xreliquary:eye_of_the_storm"
+          },
+          "D": {
+            "item": "industrialforegoing:machine_frame_supreme"
+          },
+          "E": {
+            "item": "xreliquary:frozen_core"
+          },
+          "F": {
+            "item": "thermal:netherite_gear"
+          },
+          "G": {
+            "item": "xreliquary:molten_core"
+          }
+        },
+        "result": {
+          "item": "industrialforegoing:mob_duplicator"
+        }
+      }
+    }
+  ]
+}

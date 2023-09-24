@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "fluid": "tconstruct:molten_cobalt",
+      "amount": 144
+    },
+    {
+      "fluid": "tconstruct:molten_gold",
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "fluid": "tconstruct:molten_queens_slime",
+      "amount": 288
+    }
+  ],
+  "heatRequirement": "superheated"
+}

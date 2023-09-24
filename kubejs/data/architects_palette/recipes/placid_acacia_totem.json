@@ -1,0 +1,8 @@
+{
+"type": "minecraft:stonecutting",
+"ingredient": {
+    "item": "architects_palette:blank_acacia_totem"
+},
+"result": "architects_palette:placid_acacia_totem",
+"count": 1
+}

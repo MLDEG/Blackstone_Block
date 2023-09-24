@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "DRD",
+    "III"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:dropper"
+    },
+    "I": {
+      "item": "thermal:invar_plate"
+    },
+    "R": {
+      "item": "appliedenergistics2:yellow_smart_cable"
+    }
+  },
+  "result": {
+    "item": "pipez:item_pipe",
+    "count": 16
+  }
+}

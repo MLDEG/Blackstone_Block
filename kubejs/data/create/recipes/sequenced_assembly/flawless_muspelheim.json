@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kubejs:livingrock_muspelheim"
+  },
+  "transitionalItem": {
+    "item": "kubejs:livingrock_muspelheim_slab"
+  },
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [{"item": "kubejs:livingrock_muspelheim"}],
+      "results": [{"item": "kubejs:livingrock_muspelheim_slab"}]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {"item": "kubejs:livingrock_muspelheim_slab"},
+        {"item": "kubejs:rune_mold_alt"}
+      ],
+      "results": [
+        {"item": "mythicbotany:muspelheim_rune"}
+      ],"keepHeldItem": true
+    }
+  ],
+  "results": [
+    {
+      "item": "mythicbotany:muspelheim_rune",
+      "count": 1,
+      "chance": 1.0
+    }
+  ],
+  "loops": 1
+}

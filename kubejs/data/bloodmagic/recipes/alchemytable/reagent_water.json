@@ -1,0 +1,20 @@
+{
+  "type": "bloodmagic:alchemytable",
+  "input": [
+    {
+      "item": "botania:rune_water"
+    },
+    {
+      "item": "betterendforge:eternal_crystal"
+    },
+    {
+      "item": "minecraft:heart_of_the_sea"
+    }
+  ],
+  "output": {
+    "item": "bloodmagic:reagentwater"
+  },
+  "syphon": 8000,
+  "ticks": 200,
+  "upgradeLevel": 3
+}

@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "bloodmagic:primitive_crystalline_resonator",
+    "bloodmagic:crystalline_resonator",
+    "kubejs:infinite_resonator"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "type": "create:mechanical_crafting",
+    "pattern": ["ABCBA","BDDDB","EDFDG","BDDDB","ABHBA"],
+    "key": {
+      "A": {"item": "extendedcrafting:the_ultimate_catalyst"},
+      "B": {"item": "storagedrawers:creative_storage_upgrade"},
+      "C": {"item": "mekanism:creative_chemical_tank"},
+      "D": {"item": "mysticalagradditions:creative_essence"},
+      "E": {"item": "botania:creative_pool"},
+      "F": {"item": "create:creative_motor"},
+      "G": {"tag": "bsb:crea"},
+      "H": {"item": "mekanism:creative_fluid_tank"}
+    },
+    "result": {"item": "storagedrawers:creative_vending_upgrade"}
+  }

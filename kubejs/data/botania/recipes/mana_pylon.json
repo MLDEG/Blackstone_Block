@@ -1,0 +1,34 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "botania:manasteel_ingot"
+  },
+  "transitionalItem": {
+    "item": "botania:manasteel_ingot"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "botania:manasteel_ingot"
+        },
+        {
+          "item": "kubejs:mana_device"
+        }
+      ],
+      "results": [
+        {
+          "item": "botania:manasteel_ingot"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "botania:mana_pylon",
+      "count": 1
+    }
+  ],
+  "loops": 4
+}

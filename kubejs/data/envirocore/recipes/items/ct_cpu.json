@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "glg",
+    "lcl",
+    "glg"
+  ],
+  "key": {
+    "g": {
+      "item": "kubejs:integrated_circuit"
+    },
+    "c": {
+      "item": "rftoolscontrol:cpu_core_2000"
+    },
+    "l": {
+      "item": "envirocore:litherite_crystal"
+    }
+  },
+  "result": {
+    "item": "envirocore:cpu",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {"item": "simplyjetpacks:armorplating_te3"},
+    {"item": "appliedenergistics2:wooden_gear"}
+  ],
+  "results": [
+    {
+      "item": "kubejs:gear_mold",
+      "count": 1
+    }]
+}

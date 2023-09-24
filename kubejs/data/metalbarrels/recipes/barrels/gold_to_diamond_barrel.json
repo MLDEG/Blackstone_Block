@@ -1,0 +1,14 @@
+{
+    "type":"minecraft:crafting_shaped",
+    "pattern":[
+        "ggg",
+        "dbd",
+        "ggg"
+    ],
+    "key":{
+        "d":{"tag":"forge:ingots/refined_radiance"},
+        "b":{"tag":"forge:barrels/gold"},
+        "g":{"tag":"forge:glass"}
+    },
+    "result":{"item":"metalbarrels:diamond_barrel"}
+}

@@ -1,0 +1,17 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "mysticalagriculture:hamletite_seeds"
+  },
+  "result": [
+    {
+      "item": "mysticalagriculture:hamletite_essence",
+      "count": 1
+    },
+    {
+      "item": "mysticalagriculture:hamletite_seeds",
+      "count": 1
+    }
+  ],
+  "energy": 100000
+}

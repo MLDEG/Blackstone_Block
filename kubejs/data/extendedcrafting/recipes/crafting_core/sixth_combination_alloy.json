@@ -1,0 +1,20 @@
+{
+    "type": "extendedcrafting:combination",
+    "powerCost": 10000000,
+    "powerRate": 1000000,
+    "input": { "item": "botania:open_bucket" },
+    "ingredients": [
+        {"item": "thermal:glowstone_bucket"},
+        {"item": "thermal:ender_bucket"},
+        {"item": "thermal:sap_bucket"},
+        {"item": "thermal:syrup_bucket"},
+        {"item": "thermal:resin_bucket"},
+        {"item": "thermal:tree_oil_bucket"},
+        {"item": "thermal:latex_bucket"},
+        {"item": "thermal:heavy_oil_bucket"},
+        {"item": "thermal:light_oil_bucket"},
+        {"item": "thermal:redstone_bucket"}
+    ],
+    "result": {"item": "kubejs:6alloy_bucket","count": 1 }
+  }
+

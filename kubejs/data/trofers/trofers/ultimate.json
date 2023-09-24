@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#ff0000",
+    "text": "The Ultimate Trophy"
+  },
+  "animation":{
+      "type": "spinning",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1
+  },
+  "item": {
+    "item": "extendedcrafting:the_ultimate_block"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#ff0000"
+  }
+}

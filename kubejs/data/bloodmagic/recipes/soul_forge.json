@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "i i",
+    "sSs",
+    "sos"
+  ],
+  "key": {
+    "s": {
+      "item": "bloodmagic:blankrune"
+    },
+    "S": {
+      "item": "kubejs:slate_blank"
+    },
+    "i": {
+      "item": "bloodmagic:basemonstersoul"
+    },
+    "o": {
+      "tag": "forge:storage_blocks/enderium"
+    }
+  },
+  "result": {
+    "item": "bloodmagic:soulforge"
+  }
+}

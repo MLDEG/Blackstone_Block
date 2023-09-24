@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#9c00c6",
+    "text": "Creative Soulium Dagger Trophy"
+  },
+  "animation":{
+      "type": "tumbling",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "item": {
+    "item": "mysticalagriculture:creative_soulium_dagger"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#9c00c6"
+  }
+}

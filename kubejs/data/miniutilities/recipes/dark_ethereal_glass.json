@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "mob_grinding_utils:tinted_glass"
+    },
+    "Y": {
+      "item": "miniutilities:unstable_ingot"
+    }
+  },
+  "result": {
+    "item": "miniutilities:dark_ethereal_glass",
+    "count": 8
+  }
+}

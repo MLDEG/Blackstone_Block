@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "excompressum:compressed_granite"
+    }
+  ],
+  "results": [
+    {
+      "item": "excompressum:compressed_crushed_granite"
+    }
+  ],
+  "processingTime": 150
+}

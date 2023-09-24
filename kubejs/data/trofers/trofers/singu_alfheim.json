@@ -1,0 +1,20 @@
+{
+  "name": {
+    "color": "#532f90",
+    "text": "Alfheim Singularity Trophy"
+  },
+  "animation":{
+      "type": "tumbling",
+      "speed": 0.5
+  },
+  "display": {
+    "scale": 1.0
+  },
+  "item": {
+    "item": "kubejs:singu_alfheim"
+  },
+  "colors": {
+    "base": "#312c36",
+    "accent": "#532f90"
+  }
+}

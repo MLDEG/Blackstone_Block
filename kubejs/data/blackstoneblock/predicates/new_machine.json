@@ -1,0 +1,96 @@
+{
+"condition": "minecraft:inverted",
+"term":
+	{
+	"condition": "minecraft:alternative",
+	"terms":
+		[
+		{
+		"condition": "minecraft:inverted",
+		"term":
+			{
+			"condition": "minecraft:alternative",
+			"terms":
+				[
+				{
+				"condition": "minecraft:location_check",
+				"offsetX": -14,
+				"predicate":
+					{
+					"dimension": "compactmachines:compact_world",
+					"block": { "block": "minecraft:void_air" }
+					}
+				},
+				{
+				"condition": "minecraft:location_check",
+				"offsetX": 14,
+				"predicate":
+					{
+					"dimension": "compactmachines:compact_world",
+					"block": { "block": "minecraft:void_air" }
+					}
+				},
+				{
+				"condition": "minecraft:location_check",
+				"offsetZ": -14,
+				"predicate":
+					{
+					"dimension": "compactmachines:compact_world",
+					"block": { "block": "minecraft:void_air" }
+					}
+				},
+				{
+				"condition": "minecraft:location_check",
+				"offsetZ": 14,
+				"predicate":
+					{
+					"dimension": "compactmachines:compact_world",
+					"block": { "block": "minecraft:void_air" }
+					}
+				}
+				]
+			}
+		},
+		{
+		"condition": "minecraft:inverted",
+		"term":
+			{
+			"condition": "minecraft:alternative",
+			"terms":
+				[
+				{
+				"condition": "minecraft:location_check",
+				"offsetY": 3,
+				"predicate": { "block": { "block": "compactmachines:solid_wall" } }
+				},
+				{
+				"condition": "minecraft:location_check",
+				"offsetY": 5,
+				"predicate": { "block": { "block": "compactmachines:solid_wall" } }
+				},
+				{
+				"condition": "minecraft:location_check",
+				"offsetY": 7,
+				"predicate": { "block": { "block": "compactmachines:solid_wall" } }
+				},
+				{
+				"condition": "minecraft:location_check",
+				"offsetY": 9,
+				"predicate": { "block": { "block": "compactmachines:solid_wall" } }
+				},
+				{
+				"condition": "minecraft:location_check",
+				"offsetY": 11,
+				"predicate": { "block": { "block": "compactmachines:solid_wall" } }
+				},
+				{
+				"condition": "minecraft:location_check",
+				"offsetY": 13,
+				"predicate": { "block": { "block": "compactmachines:solid_wall" } }
+				}
+				]
+			}
+		}
+		]
+	}
+}

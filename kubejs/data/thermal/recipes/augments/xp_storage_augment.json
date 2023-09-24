@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " i ",
+    "iCi",
+    " i "
+  ],
+  "key": {
+    "i": {
+      "item": "thermal:gold_plate"
+    },
+    "C": {
+      "item": "thermal:xp_crystal"
+    }
+  },
+  "result": {
+    "item": "thermal:xp_storage_augment"
+  }
+}
