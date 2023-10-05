@@ -15,7 +15,7 @@
       "tasks": [
         {
           "type": "DETECT",
-          "longDescription": "Collect all the blocks of this quest to be able to build the multi block.",
+          "longDescription": "Collect all the blocks of this quest to be able to build the multi block.\nYou can find a schematic in the Schematicannon.",
           "items": [
             {
               "item": {
@@ -85,7 +85,7 @@
       "tasks": [
         {
           "type": "DETECT",
-          "longDescription": "Collect all the blocks of this quest to be able to build the multi block.",
+          "longDescription": "Collect all the blocks of this quest to be able to build the multi block.\nYou can find a schematic in the Schematicannon.",
           "items": [
             {
               "item": {
@@ -189,7 +189,7 @@
       "tasks": [
         {
           "type": "DETECT",
-          "longDescription": "Collect all the blocks of this quest to be able to build the multi block.",
+          "longDescription": "Collect all the blocks of this quest to be able to build the multi block.\nYou can find a schematic in the Schematicannon.",
           "items": [
             {
               "item": {

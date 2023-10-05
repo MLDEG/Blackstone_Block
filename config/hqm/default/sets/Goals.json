@@ -406,44 +406,6 @@
       "commandrewards": []
     },
     {
-      "uuid": "80853a99-a905-4405-abc0-618a97f23f38",
-      "name": "Creative Energy Cell",
-      "description": "Creative Energy Cell",
-      "x": 91,
-      "y": 84,
-      "icon": {
-        "id": "appliedenergistics2:creative_energy_cell",
-        "Count": 1
-      },
-      "tasks": [
-        {
-          "type": "DETECT",
-          "longDescription": "Creative Energy Cell",
-          "items": [
-            {
-              "item": {
-                "id": "appliedenergistics2:creative_energy_cell",
-                "Count": 1
-              }
-            }
-          ]
-        }
-      ],
-      "prerequisites": [
-        "4fe2fca1-95d0-4dd6-ae98-113f91aae21d"
-      ],
-      "optionlinks": [],
-      "reward": [
-        {
-          "id": "trofers:large_pillar",
-          "Count": 1,
-          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_energy_cell_ae2\"}}"
-        }
-      ],
-      "rewardchoice": [],
-      "commandrewards": []
-    },
-    {
       "uuid": "bca2e6f6-57b8-4cd5-a442-0d24da80e743",
       "name": "Creative RF Coil",
       "description": "Creative RF Coil",
@@ -476,6 +438,44 @@
           "id": "trofers:large_pillar",
           "Count": 1,
           "tag": "{BlockEntityTag:{Trophy:\"trofers:rf_coil_creative_augment\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
+      "uuid": "80853a99-a905-4405-abc0-618a97f23f38",
+      "name": "Creative Energy Cell",
+      "description": "Creative Energy Cell",
+      "x": 91,
+      "y": 84,
+      "icon": {
+        "id": "appliedenergistics2:creative_energy_cell",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "Creative Energy Cell",
+          "items": [
+            {
+              "item": {
+                "id": "appliedenergistics2:creative_energy_cell",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "4fe2fca1-95d0-4dd6-ae98-113f91aae21d"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_energy_cell_ae2\"}}"
         }
       ],
       "rewardchoice": [],
@@ -596,6 +596,44 @@
       "commandrewards": []
     },
     {
+      "uuid": "576d15ae-a9f2-4c02-b6d2-039e8b7b5f36",
+      "name": "The Everlasting Guilty Pool",
+      "description": "The Everlasting Guilty Pool",
+      "x": 213,
+      "y": 40,
+      "icon": {
+        "id": "botania:creative_pool",
+        "Count": 1
+      },
+      "tasks": [
+        {
+          "type": "DETECT",
+          "longDescription": "The Everlasting Guilty Pool",
+          "items": [
+            {
+              "item": {
+                "id": "botania:creative_pool",
+                "Count": 1
+              }
+            }
+          ]
+        }
+      ],
+      "prerequisites": [
+        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
+      ],
+      "optionlinks": [],
+      "reward": [
+        {
+          "id": "trofers:large_pillar",
+          "Count": 1,
+          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_pool\"}}"
+        }
+      ],
+      "rewardchoice": [],
+      "commandrewards": []
+    },
+    {
       "uuid": "b90b805d-4243-4241-a1b4-32a7fb9dd068",
       "name": "Environmental Tech",
       "description": "Environmental Tech",
@@ -630,44 +668,6 @@
           "id": "trofers:large_pillar",
           "Count": 1,
           "tag": "{BlockEntityTag:{Trophy:\"trofers:enviro\"}}"
-        }
-      ],
-      "rewardchoice": [],
-      "commandrewards": []
-    },
-    {
-      "uuid": "576d15ae-a9f2-4c02-b6d2-039e8b7b5f36",
-      "name": "The Everlasting Guilty Pool",
-      "description": "The Everlasting Guilty Pool",
-      "x": 213,
-      "y": 40,
-      "icon": {
-        "id": "botania:creative_pool",
-        "Count": 1
-      },
-      "tasks": [
-        {
-          "type": "DETECT",
-          "longDescription": "The Everlasting Guilty Pool",
-          "items": [
-            {
-              "item": {
-                "id": "botania:creative_pool",
-                "Count": 1
-              }
-            }
-          ]
-        }
-      ],
-      "prerequisites": [
-        "3c68062b-6ace-478a-a71e-c0d99c22d3a8"
-      ],
-      "optionlinks": [],
-      "reward": [
-        {
-          "id": "trofers:large_pillar",
-          "Count": 1,
-          "tag": "{BlockEntityTag:{Trophy:\"trofers:creative_pool\"}}"
         }
       ],
       "rewardchoice": [],
